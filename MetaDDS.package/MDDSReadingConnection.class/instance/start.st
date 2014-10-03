@@ -6,7 +6,7 @@ start
 
 			[ keepRunning ]	whileTrue: [ 
 				[  
-					messageDispatcher dispatch: (protocol loadStream: stream).
+					messageDispatcher dispatch: (protocol loadStream: stream with: typeMarshaller).
 				] on: Error do: [ :err |
 					self halt.
 					messageDispatcher noteError: err.

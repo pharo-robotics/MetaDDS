@@ -1,9 +1,8 @@
 {
 	"class" : {
-		"domain:name:serializer:" : "SantiagoBragagnolo 9/17/2014 23:17",
-		"domain:name:serializer:md5sum:" : "SantiagoBragagnolo 10/1/2014 23:17" },
+		"domain:name:marshaller:md5sum:" : "SantiagoBragagnolo 10/3/2014 15:47" },
 	"instance" : {
+		"marshaller" : "SantiagoBragagnolo 10/3/2014 15:49",
+		"marshaller:" : "SantiagoBragagnolo 10/3/2014 15:47",
 		"md5sum" : "SantiagoBragagnolo 10/1/2014 23:17",
-		"md5sum:" : "SantiagoBragagnolo 10/1/2014 23:18",
-		"serializer" : "SantiagoBragagnolo 9/17/2014 23:15",
-		"serializer:" : "SantiagoBragagnolo 9/17/2014 23:16" } }
+		"md5sum:" : "SantiagoBragagnolo 10/1/2014 23:18" } }

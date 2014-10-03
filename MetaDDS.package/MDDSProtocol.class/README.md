@@ -6,4 +6,4 @@ The protocol in a DDS, where connections are one way only is the combination of:
 By example, the TCPROS protocol
 	# The connection hand shake defines the quality of service and is a two ways hand shake.
 	# The way to encode each type is the standart one  (Defined in MDDSEncoder/MDDSDecoder)
-	# The way to structure the data is the standar one (Defined in MDDSBaseTypeSerializer hierarchy)
+	# The way to structure the data is the standar one (Defined in MDDSBaseTypeMarshaller hierarchy)

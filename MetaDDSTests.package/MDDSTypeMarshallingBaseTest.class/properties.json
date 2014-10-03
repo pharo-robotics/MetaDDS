@@ -9,7 +9,7 @@
 		"validValues",
 		"invalidValues",
 		"protocol",
-		"serializer" ],
+		"typeMarshaller" ],
 	"name" : "MDDSTypeMarshallingBaseTest",
 	"pools" : [
 		 ],

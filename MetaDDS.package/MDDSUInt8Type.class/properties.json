@@ -10,5 +10,5 @@
 	"name" : "MDDSUInt8Type",
 	"pools" : [
 		 ],
-	"super" : "MDDSBaseTypeSerializer",
+	"super" : "MDDSBaseTypeMarshaller",
 	"type" : "normal" }

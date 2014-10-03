@@ -1,10 +1,10 @@
 as yet unclassified
-dump: aValue
+dump: aValue with: aTypeMarshaller
 	| stream anEncoder buffer valueSize |
-	valueSize := serializer dataTypeSizeFor: aValue.
+	valueSize := aTypeMarshaller dataTypeSizeFor: aValue.
 	buffer :=  ByteArray new: valueSize + 4.
 	stream := WriteStream on: buffer.
 	anEncoder  := encoder on: stream.
 	anEncoder encodeInt32: valueSize.
-	serializer serialize: aValue into: anEncoder.
+	aTypeMarshaller serialize: aValue into: anEncoder.
 	^ buffer.

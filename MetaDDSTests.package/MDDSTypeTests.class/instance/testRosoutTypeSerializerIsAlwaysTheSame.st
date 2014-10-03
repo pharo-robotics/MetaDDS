@@ -2,8 +2,8 @@ as yet unclassified
 testRosoutTypeSerializerIsAlwaysTheSame
 	| a  b |
 	
-	 a := type serializer.
-	 b := type serializer.
+	 a := type marshaller.
+	 b := type marshaller.
 	
 	self assert: a == b.
 	

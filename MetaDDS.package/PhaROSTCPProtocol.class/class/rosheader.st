@@ -1,3 +1,5 @@
 as yet unclassified
 rosheader
-	^ self rosheaderDefinition typeBuilder buildTypeSerializer
+	^ rosheader ifNil: [
+		 rosheader := self rosheaderDefinition typeBuilder buildTypeMarshaller.
+	]

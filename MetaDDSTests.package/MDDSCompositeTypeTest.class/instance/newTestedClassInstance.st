@@ -1,3 +1,3 @@
 as yet unclassified
 newTestedClassInstance
-	^ type
+	^ typeMarshaller

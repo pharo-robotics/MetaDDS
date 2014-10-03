@@ -4,11 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SantiagoBragagnolo 9/23/2014 08:52",
+	"commentStamp" : "SantiagoBragagnolo 10/3/2014 16:12",
 	"instvars" : [
 		"encoder",
-		"decoder",
-		"serializer" ],
+		"decoder" ],
 	"name" : "MDDSProtocol",
 	"pools" : [
 		 ],

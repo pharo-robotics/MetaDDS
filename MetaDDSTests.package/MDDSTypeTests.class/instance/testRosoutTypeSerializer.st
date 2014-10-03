@@ -1,5 +1,5 @@
 as yet unclassified
 testRosoutTypeSerializer
-	self assert: (type serializer isKindOf: MDDSBaseTypeSerializer ) .
+	self assert: (type marshaller isKindOf: MDDSBaseTypeMarshaller ) .
 	
 

@@ -1,3 +1,3 @@
 accessing
 type
-	^ typeDefiniton typeBuilder buildTypeSerializer.
+	^ typeDefiniton typeBuilder buildTypeMarshaller.

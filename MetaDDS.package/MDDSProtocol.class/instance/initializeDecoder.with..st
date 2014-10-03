@@ -1,8 +1,8 @@
 as yet unclassified
-initializeDecoder: aDecoder
+initializeDecoder: aDecoder with: aTypeMarshaller
 	| size |
 	size := aDecoder nextEncodedUint32 .
- 	(serializer isAPossibleSize: size ) ifFalse: [
+ 	(aTypeMarshaller isAPossibleSize: size ) ifFalse: [
 		MDDSError signal:' Unexpected Value'.	
 	].
 	size > 20000000 ifTrue: [

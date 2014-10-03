@@ -2,14 +2,14 @@
 	"class" : {
 		"writeTestIfNeed:" : "SantiagoBragagnolo 11/6/2012 16:48" },
 	"instance" : {
-		"baseFailSerialize" : "SantiagoBragagnolo 9/30/2014 19:35",
-		"baseSerialize" : "SantiagoBragagnolo 9/30/2014 17:49",
-		"baseUnserialize" : "SantiagoBragagnolo 9/30/2014 14:53",
-		"baseUnserializeFail" : "SantiagoBragagnolo 9/30/2014 23:42",
+		"baseFailSerialize" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"baseSerialize" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"baseUnserialize" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"baseUnserializeFail" : "SantiagoBragagnolo 10/3/2014 15:33",
 		"expectedSize" : "SantiagoBragagnolo 11/6/2012 16:41",
 		"invalidByteArrays" : "SantiagoBragagnolo 9/28/2012 11:43",
 		"invalidValues" : "SantiagoBragagnolo 9/28/2012 11:41",
 		"newTestedClassInstance" : "SantiagoBragagnolo 9/30/2014 14:51",
 		"relatedClass" : "SantiagoBragagnolo 11/6/2012 16:42",
-		"setUp" : "SantiagoBragagnolo 9/30/2014 17:42",
+		"setUp" : "SantiagoBragagnolo 10/3/2014 16:00",
 		"validValues" : "SantiagoBragagnolo 9/28/2012 11:41" } }

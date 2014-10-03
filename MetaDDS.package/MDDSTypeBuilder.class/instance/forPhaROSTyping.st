@@ -1,3 +1,3 @@
 proto
 forPhaROSTyping
-	^ self buildTypeSerializer  
+	^ self buildTypeMarshaller  
