@@ -1,0 +1,3 @@
+accessing
+reflectParticipant: aDomainParticipant
+	self subclassResponsibility.

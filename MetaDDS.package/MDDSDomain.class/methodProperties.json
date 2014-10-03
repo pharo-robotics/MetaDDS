@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addProtocol:" : "SantiagoBragagnolo 9/25/2014 20:11",
+		"initialize" : "SantiagoBragagnolo 9/25/2014 20:14",
+		"isRegistered:" : "SantiagoBragagnolo 9/11/2014 21:26",
+		"mirror" : "SantiagoBragagnolo 9/11/2014 00:27",
+		"mirror:" : "SantiagoBragagnolo 9/11/2014 00:27",
+		"protocols" : "SantiagoBragagnolo 9/23/2014 23:04",
+		"registerTopicSubscriber:for:" : "SantiagoBragagnolo 10/3/2014 10:49",
+		"subscriberFor:" : "SantiagoBragagnolo 9/21/2014 19:34",
+		"topics" : "SantiagoBragagnolo 9/11/2014 01:33",
+		"typeDefinition:" : "SantiagoBragagnolo 10/1/2014 23:41",
+		"unregisterTopicSubscriber:for:" : "SantiagoBragagnolo 10/2/2014 15:17" } }

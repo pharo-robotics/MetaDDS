@@ -1,0 +1,1 @@
+A PhaROSParticipantExposure class is an object that adapts and expose through an XMLRPC server a participant mirror.

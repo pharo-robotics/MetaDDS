@@ -1,0 +1,3 @@
+accessing
+initialize
+	keepRunning := false.

@@ -1,0 +1,16 @@
+{
+	"category" : "MetaDDS-Reflection-Type",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"definition",
+		"name",
+		"md5sum" ],
+	"name" : "MDDSTypeDefinition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

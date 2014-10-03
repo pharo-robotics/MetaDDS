@@ -1,0 +1,15 @@
+{
+	"category" : "MetaDDSTests-PhaROSTCPProtocol",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"header",
+		"serializer" ],
+	"name" : "PhaROSTCPProtocolHeaderDecodingTest",
+	"pools" : [
+		 ],
+	"super" : "PhaROSTCPProtocolTest",
+	"type" : "normal" }

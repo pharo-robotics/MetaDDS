@@ -1,0 +1,1 @@
+This is a type it self, it has the ability to load it definition and define marshaling/ unmarshaling objects

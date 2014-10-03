@@ -1,0 +1,2 @@
+This Loader parses the text file related with the definition the type obtained from the rosmsg command. To be useful it requires to be installed in a ros suited linux (platform dependant) and sourced in the environment used to load the image.
+It has several restrictions, but is good enough for prototyping 

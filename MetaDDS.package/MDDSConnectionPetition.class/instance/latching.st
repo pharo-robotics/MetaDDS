@@ -1,0 +1,3 @@
+accessing
+latching
+	^ '0'.

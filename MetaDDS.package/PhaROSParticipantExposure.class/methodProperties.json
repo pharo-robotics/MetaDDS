@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"participantMirror:" : "SantiagoBragagnolo 9/12/2014 20:34" },
+	"instance" : {
+		"expose" : "SantiagoBragagnolo 9/12/2014 20:45",
+		"from:update:with:" : "SantiagoBragagnolo 9/12/2014 21:10",
+		"getBusInfo:" : "SantiagoBragagnolo 9/12/2014 21:10",
+		"getPid:" : "SantiagoBragagnolo 9/12/2014 21:10",
+		"getPublications:" : "SantiagoBragagnolo 9/12/2014 21:10",
+		"isExposing" : "SantiagoBragagnolo 9/12/2014 20:45",
+		"itExposes:" : "SantiagoBragagnolo 9/12/2014 21:24",
+		"participantMirror:" : "SantiagoBragagnolo 9/12/2014 20:39",
+		"port" : "SantiagoBragagnolo 9/12/2014 21:25",
+		"port:" : "SantiagoBragagnolo 9/12/2014 20:43",
+		"requestTopic:for:availableFor:" : "SantiagoBragagnolo 9/12/2014 21:10",
+		"unexpose" : "SantiagoBragagnolo 9/12/2014 20:47" } }

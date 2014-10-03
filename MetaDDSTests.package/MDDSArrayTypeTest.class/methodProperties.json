@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"invalidByteArrays" : "SantiagoBragagnolo 10/10/2012 12:48",
+		"invalidValues" : "SantiagoBragagnolo 10/10/2012 12:48",
+		"newTestedClassInstance" : "SantiagoBragagnolo 9/30/2014 14:21",
+		"relatedClass" : "SantiagoBragagnolo 9/30/2014 14:21",
+		"testFailSerialize" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"testSerialize" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"testUnserialize" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"testUnserializeFail" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"validValues" : "SantiagoBragagnolo 10/10/2012 14:14" } }

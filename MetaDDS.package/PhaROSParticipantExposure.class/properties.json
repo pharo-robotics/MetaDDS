@@ -1,0 +1,16 @@
+{
+	"category" : "MetaDDS-PhaROS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/12/2014 20:35",
+	"instvars" : [
+		"participantMirror",
+		"port",
+		"exposing" ],
+	"name" : "PhaROSParticipantExposure",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

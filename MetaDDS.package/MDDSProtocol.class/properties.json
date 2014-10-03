@@ -1,0 +1,16 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/23/2014 08:52",
+	"instvars" : [
+		"encoder",
+		"decoder",
+		"serializer" ],
+	"name" : "MDDSProtocol",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

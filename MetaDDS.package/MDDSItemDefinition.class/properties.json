@@ -1,0 +1,15 @@
+{
+	"category" : "MetaDDS-Reflection-Type",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"typeDefiniton" ],
+	"name" : "MDDSItemDefinition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests-ProtocolSerializing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDDSUInt16TypeTest",
+	"pools" : [
+		 ],
+	"super" : "MDDSTypeMarshallingBaseTest",
+	"type" : "normal" }

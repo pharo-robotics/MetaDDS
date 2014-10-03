@@ -1,0 +1,18 @@
+{
+	"category" : "MetaDDS-Types",
+	"classinstvars" : [
+		"types" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"typeName",
+		"typeDefinition",
+		"relatedClass",
+		"md5Sum",
+		"constants" ],
+	"name" : "MDDSCompositeType",
+	"pools" : [
+		 ],
+	"super" : "MDDSBaseTypeSerializer",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+reflectParticipant: aMDDSParticipant
+	self subclassResponsibility 

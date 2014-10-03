@@ -1,0 +1,1 @@
+This is an abstract class for objects that are bidirectionally related with topics, under the relation of usage or interaction.

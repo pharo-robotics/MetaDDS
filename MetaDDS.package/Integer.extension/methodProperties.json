@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"fromByteArray:" : "SantiagoBragagnolo 9/30/2014 12:24" },
+	"instance" : {
+		"bitInvert16" : "SantiagoBragagnolo 9/30/2014 12:20",
+		"bitInvert64" : "SantiagoBragagnolo 9/30/2014 12:20",
+		"bitInvert8" : "SantiagoBragagnolo 9/30/2014 12:20" } }

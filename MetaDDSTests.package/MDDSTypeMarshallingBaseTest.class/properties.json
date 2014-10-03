@@ -1,0 +1,17 @@
+{
+	"category" : "MetaDDSTests-ProtocolSerializing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"validValues",
+		"invalidValues",
+		"protocol",
+		"serializer" ],
+	"name" : "MDDSTypeMarshallingBaseTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asString" : "PhaROS 11/28/2013 18:35",
+		"at:put:" : "SantiagoBragagnolo 10/3/2012 13:00",
+		"closeTo:" : "SantiagoBragagnolo 2/27/2013 11:30",
+		"getAt:" : "SantiagoBragagnolo 10/3/2012 13:00",
+		"hasAttribute:" : "SantiagoBragagnolo 1/23/2013 21:48",
+		"initialize" : "SantiagoBragagnolo 10/3/2012 13:00",
+		"isBasic" : "SantiagoBragagnolo 1/23/2013 21:28",
+		"printOn:" : "SantiagoBragagnolo 10/8/2012 16:31" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "MetaDDS-PhaROS",
+	"classinstvars" : [
+		"instance",
+		"distro" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"masterProcess",
+		"turtleProcess",
+		"gmappingProcess" ],
+	"name" : "PhaROSSystemLauncher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

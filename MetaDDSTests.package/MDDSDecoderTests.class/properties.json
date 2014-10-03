@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests-Kernel-Encoding",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"decoder" ],
+	"name" : "MDDSDecoderTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

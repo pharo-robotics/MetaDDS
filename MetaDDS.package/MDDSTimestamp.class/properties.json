@@ -1,0 +1,16 @@
+{
+	"category" : "MetaDDS-Types",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "TEquality classTrait",
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"timestamp" ],
+	"name" : "MDDSTimestamp",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"traitcomposition" : "TEquality",
+	"type" : "normal" }

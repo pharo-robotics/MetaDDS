@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Types",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "MDDSArrayType",
+	"pools" : [
+		 ],
+	"super" : "MDDSCollectionType",
+	"type" : "normal" }

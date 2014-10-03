@@ -1,0 +1,15 @@
+{
+	"category" : "MetaDDS-Reflection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/8/2014 19:20",
+	"instvars" : [
+		"proxy",
+		"exposer" ],
+	"name" : "MDDSRemoteDomainMirror",
+	"pools" : [
+		 ],
+	"super" : "MDDSDomainMirror",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Reflection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/15/2014 19:33",
+	"instvars" : [
+		"type" ],
+	"name" : "MDDSTopicDescriptor",
+	"pools" : [
+		 ],
+	"super" : "MDDSEntity",
+	"type" : "normal" }

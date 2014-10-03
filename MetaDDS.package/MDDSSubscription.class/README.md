@@ -1,0 +1,1 @@
+A MDDSSubscription is a conection in between topic readings and a set of callbacks. 

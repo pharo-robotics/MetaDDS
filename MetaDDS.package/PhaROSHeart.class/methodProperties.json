@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"new" : "SantiagoBragagnolo 9/25/2014 20:02" },
+	"instance" : {
+		"beater:" : "SantiagoBragagnolo 9/25/2014 19:59",
+		"cycleDelay" : "SantiagoBragagnolo 9/22/2014 08:48",
+		"defaultHzGoal" : "SantiagoBragagnolo 9/22/2014 08:46",
+		"goLive" : "SantiagoBragagnolo 9/25/2014 20:03",
+		"heartbeat" : "SantiagoBragagnolo 9/23/2014 22:34",
+		"initialize" : "SantiagoBragagnolo 9/25/2014 19:59" } }

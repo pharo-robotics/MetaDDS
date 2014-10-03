@@ -1,0 +1,1 @@
+A MDDSDomainParticipant is an entity that participates in the DDS as writer or reader

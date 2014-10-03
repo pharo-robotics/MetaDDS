@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-PhaROS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MasterInstances" ],
+	"commentStamp" : "SantiagoBragagnolo 9/22/2014 19:53",
+	"instvars" : [
+		"callerId" ],
+	"name" : "PhaROSNodeProxy",
+	"pools" : [
+		 ],
+	"super" : "PhaROSProxy",
+	"type" : "normal" }

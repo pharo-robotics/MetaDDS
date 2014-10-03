@@ -1,0 +1,2 @@
+The type loader is an abstract class that defines a basic cache and abstract methods.
+It can be subclassed for usign command oriented loading (rosmsg) and  other kind of strategies it is not prepared to be mixed ( since there is una cahce per loader )

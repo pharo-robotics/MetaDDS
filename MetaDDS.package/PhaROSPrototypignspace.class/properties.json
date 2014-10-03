@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PhaROSPrototypignspace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

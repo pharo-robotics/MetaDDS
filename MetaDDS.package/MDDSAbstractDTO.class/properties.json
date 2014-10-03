@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"values" ],
+	"name" : "MDDSAbstractDTO",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

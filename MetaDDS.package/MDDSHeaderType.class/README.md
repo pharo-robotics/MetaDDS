@@ -1,0 +1,1 @@
+A MDDSHeaderType is an special kind of type that is strictly developed for the handshake tear of the any protocol.

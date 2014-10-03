@@ -1,0 +1,15 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/10/2014 20:43",
+	"instvars" : [
+		"serializer",
+		"md5sum" ],
+	"name" : "MDDSType",
+	"pools" : [
+		 ],
+	"super" : "MDDSEntity",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+noteStop
+	onStop value.

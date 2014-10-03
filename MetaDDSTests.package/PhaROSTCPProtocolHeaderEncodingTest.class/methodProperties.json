@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"assertEncodedEqualsExpectedInFirst:ofLastElements:" : "SantiagoBragagnolo 9/30/2014 14:15",
+		"assertEncodedEqualsExpectedInLast:ofFirstElements:" : "SantiagoBragagnolo 10/1/2014 00:01",
+		"expectedByteArray" : "SantiagoBragagnolo 9/30/2014 13:45",
+		"expectedHexString" : "SantiagoBragagnolo 9/30/2014 13:45",
+		"setUp" : "SantiagoBragagnolo 10/1/2014 14:46",
+		"testCallerIdHeaderFieldEncoding" : "SantiagoBragagnolo 9/30/2014 13:58",
+		"testCallerIdHeaderFieldSizeEncoding" : "SantiagoBragagnolo 9/30/2014 13:58",
+		"testEncoding" : "SantiagoBragagnolo 9/30/2014 23:59",
+		"testHeaderLengthEncoding" : "SantiagoBragagnolo 9/30/2014 13:58",
+		"testLatchingFieldEncoding" : "SantiagoBragagnolo 9/30/2014 13:58",
+		"testLatchingFieldSizeEncoding" : "SantiagoBragagnolo 9/30/2014 13:58",
+		"testMessageDefinitionHeaderFieldEncoding" : "SantiagoBragagnolo 9/30/2014 13:58",
+		"testMessageDefinitionHeaderFieldSizeEncoding" : "SantiagoBragagnolo 9/30/2014 13:58" } }

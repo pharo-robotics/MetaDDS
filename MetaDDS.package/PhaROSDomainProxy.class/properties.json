@@ -1,0 +1,18 @@
+{
+	"category" : "MetaDDS-PhaROS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/8/2014 19:21",
+	"instvars" : [
+		"rosproxy",
+		"exposures",
+		"typeLoader",
+		"discovery",
+		"HeartbeatAnnouncer" ],
+	"name" : "PhaROSDomainProxy",
+	"pools" : [
+		 ],
+	"super" : "MDDSDomainProxy",
+	"type" : "normal" }

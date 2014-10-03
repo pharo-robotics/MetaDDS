@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-PhaROS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/22/2014 19:51",
+	"instvars" : [
+		"blackList" ],
+	"name" : "PhaROSDiscovery",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

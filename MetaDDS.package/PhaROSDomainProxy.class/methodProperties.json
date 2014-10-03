@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"on:" : "SantiagoBragagnolo 9/12/2014 19:30" },
+	"instance" : {
+		"asString" : "SantiagoBragagnolo 9/10/2014 19:51",
+		"canAdquire:" : "SantiagoBragagnolo 9/12/2014 21:03",
+		"discoverPublishersFor:for:in:" : "SantiagoBragagnolo 10/3/2014 12:18",
+		"expose:" : "SantiagoBragagnolo 9/12/2014 21:00",
+		"initialize" : "SantiagoBragagnolo 9/23/2014 22:59",
+		"ip" : "SantiagoBragagnolo 9/12/2014 21:08",
+		"isExposed:" : "SantiagoBragagnolo 9/12/2014 20:58",
+		"obtainPort" : "SantiagoBragagnolo 9/12/2014 21:22",
+		"printOn:" : "SantiagoBragagnolo 9/10/2014 19:52",
+		"queryid" : "SantiagoBragagnolo 9/12/2014 19:37",
+		"reflectParticipant:" : "SantiagoBragagnolo 9/12/2014 21:21",
+		"registerExposure:" : "SantiagoBragagnolo 9/12/2014 20:59",
+		"registerTopicSubscriber:for:in:" : "SantiagoBragagnolo 9/22/2014 23:20",
+		"rosproxy:" : "SantiagoBragagnolo 9/10/2014 19:30",
+		"subscriberFor:in:" : "SantiagoBragagnolo 9/21/2014 20:49",
+		"topics" : "SantiagoBragagnolo 9/15/2014 19:29",
+		"typeDefinition:" : "SantiagoBragagnolo 9/17/2014 20:02",
+		"typeLoader" : "SantiagoBragagnolo 9/15/2014 19:57",
+		"unregisterTopicSubscriber:for:" : "SantiagoBragagnolo 9/15/2014 19:23",
+		"uriFor:" : "SantiagoBragagnolo 9/12/2014 21:12" } }

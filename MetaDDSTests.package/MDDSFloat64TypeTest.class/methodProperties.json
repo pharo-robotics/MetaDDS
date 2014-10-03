@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"expectedFailures" : "SantiagoBragagnolo 10/15/2012 15:29",
+		"testFailSerialize" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"testSerialize" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"testUnserialize" : "SantiagoBragagnolo 11/6/2012 16:47",
+		"testUnserializeFail" : "SantiagoBragagnolo 11/6/2012 16:47" } }

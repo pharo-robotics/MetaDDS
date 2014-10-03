@@ -1,0 +1,18 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/25/2014 20:27",
+	"instvars" : [
+		"protocolName",
+		"ip",
+		"port",
+		"subscriber",
+		"participant" ],
+	"name" : "MDDSConnectionPetition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Util",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/27/2014 19:32",
+	"instvars" : [
+		"timesPerSecond" ],
+	"name" : "Hz",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

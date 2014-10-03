@@ -1,0 +1,17 @@
+{
+	"category" : "MetaDDSTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"topic",
+		"subscriber",
+		"subscription",
+		"participant" ],
+	"name" : "MDDSProtocolLookupTests",
+	"pools" : [
+		 ],
+	"super" : "MDDSROSDomainBasedTests",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"on:" : "SantiagoBragagnolo 9/30/2014 14:04" },
+	"instance" : {
+		"hasLeft:" : "SantiagoBragagnolo 2/27/2013 14:54",
+		"minimumPrecision" : "SantiagoBragagnolo 10/9/2012 11:53",
+		"nextEncodedByte" : "SantiagoBragagnolo 1/30/2013 16:19",
+		"nextEncodedDuration" : "SantiagoBragagnolo 1/30/2013 16:20",
+		"nextEncodedFloat32" : "SantiagoBragagnolo 1/30/2013 16:20",
+		"nextEncodedFloat64" : "SantiagoBragagnolo 1/30/2013 16:20",
+		"nextEncodedInt16" : "SantiagoBragagnolo 1/30/2013 16:21",
+		"nextEncodedInt32" : "SantiagoBragagnolo 1/30/2013 16:21",
+		"nextEncodedInt64" : "SantiagoBragagnolo 1/30/2013 16:21",
+		"nextEncodedInt8" : "SantiagoBragagnolo 1/30/2013 16:21",
+		"nextEncodedString" : "SantiagoBragagnolo 1/30/2013 16:22",
+		"nextEncodedTime" : "SantiagoBragagnolo 9/15/2014 20:12",
+		"nextEncodedUint16" : "SantiagoBragagnolo 1/30/2013 16:22",
+		"nextEncodedUint32" : "SantiagoBragagnolo 9/30/2014 19:35",
+		"nextEncodedUint64" : "SantiagoBragagnolo 1/30/2013 16:22",
+		"nextEncodedUint8" : "SantiagoBragagnolo 1/30/2013 16:22",
+		"resetBuffers" : "SantiagoBragagnolo 10/1/2014 12:16",
+		"stream:" : "SantiagoBragagnolo 10/9/2012 09:59",
+		"verifyDataAvailability" : "SantiagoBragagnolo 1/30/2013 16:20",
+		"verifyDataAvailability:" : "SantiagoBragagnolo 5/15/2013 13:32" } }

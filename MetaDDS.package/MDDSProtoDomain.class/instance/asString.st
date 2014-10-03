@@ -1,0 +1,3 @@
+abstract
+asString
+	^ 'DDS-Domain'

@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-PhaROS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/22/2014 08:31",
+	"instvars" : [
+		 ],
+	"name" : "PhaROSHeartbeat",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

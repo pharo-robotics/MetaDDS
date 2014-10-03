@@ -1,0 +1,17 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		"defaultBlock" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 9/11/2014 22:57",
+	"instvars" : [
+		"onRead",
+		"onFailure",
+		"onStop",
+		"participant" ],
+	"name" : "MDDSSubscription",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

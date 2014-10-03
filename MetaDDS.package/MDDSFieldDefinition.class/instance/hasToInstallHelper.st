@@ -1,0 +1,3 @@
+converting
+hasToInstallHelper
+	^ typeDefiniton isCollection

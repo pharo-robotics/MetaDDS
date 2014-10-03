@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"defined:" : "SantiagoBragagnolo 9/19/2014 18:51" },
+	"instance" : {
+		"buildDTOClass" : "SantiagoBragagnolo 9/19/2014 21:01",
+		"buildTypeSerializer" : "SantiagoBragagnolo 9/19/2014 18:57",
+		"classname" : "SantiagoBragagnolo 9/19/2014 19:18",
+		"definition" : "SantiagoBragagnolo 2/8/2014 12:03",
+		"definition:" : "SantiagoBragagnolo 2/8/2014 11:20",
+		"dependencies" : "SantiagoBragagnolo 2/11/2014 14:26",
+		"forPhaROSTyping" : "SantiagoBragagnolo 9/19/2014 19:25",
+		"installConstantsIn:" : "SantiagoBragagnolo 2/8/2014 18:45",
+		"installMethodsIn:" : "SantiagoBragagnolo 2/10/2014 10:28",
+		"isServiceType" : "pharos 3/1/2014 11:25",
+		"name" : "SantiagoBragagnolo 9/19/2014 18:53",
+		"relatedClass" : "SantiagoBragagnolo 9/19/2014 19:58",
+		"rosdefinition" : "SantiagoBragagnolo 2/11/2014 14:18",
+		"shortName" : "SantiagoBragagnolo 9/19/2014 18:52" } }

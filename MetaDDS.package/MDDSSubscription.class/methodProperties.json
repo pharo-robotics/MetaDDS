@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"defaultBlock" : "SantiagoBragagnolo 9/11/2014 22:55",
+		"defaultForParticipant:" : "SantiagoBragagnolo 9/12/2014 19:23",
+		"forParticipant:onRead:" : "SantiagoBragagnolo 9/12/2014 19:23",
+		"forParticipant:onRead:onFailure:" : "SantiagoBragagnolo 9/12/2014 19:23",
+		"forParticipant:onRead:onFailure:onStop:" : "SantiagoBragagnolo 9/12/2014 19:21",
+		"onFailure" : "SantiagoBragagnolo 9/11/2014 22:55",
+		"onRead" : "SantiagoBragagnolo 9/11/2014 22:55",
+		"onStop" : "SantiagoBragagnolo 9/11/2014 22:55" },
+	"instance" : {
+		"noteFailure:" : "SantiagoBragagnolo 10/3/2014 12:34",
+		"noteNewMessage:" : "SantiagoBragagnolo 10/2/2014 15:43",
+		"noteStop" : "SantiagoBragagnolo 10/2/2014 15:43",
+		"onFailure" : "SantiagoBragagnolo 9/11/2014 23:03",
+		"onFailure:" : "SantiagoBragagnolo 9/11/2014 22:54",
+		"onRead" : "SantiagoBragagnolo 9/11/2014 23:03",
+		"onRead:" : "SantiagoBragagnolo 9/11/2014 22:54",
+		"onStop" : "SantiagoBragagnolo 9/11/2014 23:03",
+		"onStop:" : "SantiagoBragagnolo 9/11/2014 22:54",
+		"participant" : "SantiagoBragagnolo 9/12/2014 19:20",
+		"participant:" : "SantiagoBragagnolo 9/12/2014 19:20" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MDDSHeaderProtocol",
+	"pools" : [
+		 ],
+	"super" : "MDDSProtocol",
+	"type" : "normal" }

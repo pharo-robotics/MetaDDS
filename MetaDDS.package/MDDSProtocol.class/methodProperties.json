@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"encoding:decoding:serializing:" : "SantiagoBragagnolo 9/30/2014 17:45" },
+	"instance" : {
+		"connect:" : "SantiagoBragagnolo 9/25/2014 20:44",
+		"createDecoderOn:" : "SantiagoBragagnolo 10/2/2014 15:37",
+		"decoder:" : "SantiagoBragagnolo 9/30/2014 15:06",
+		"dump:" : "SantiagoBragagnolo 9/30/2014 18:04",
+		"encoder:" : "SantiagoBragagnolo 9/30/2014 15:06",
+		"initializeDecoder:" : "SantiagoBragagnolo 10/1/2014 16:27",
+		"load:" : "SantiagoBragagnolo 10/2/2014 15:39",
+		"loadStream:" : "SantiagoBragagnolo 10/3/2014 11:04",
+		"loadStream:with:" : "SantiagoBragagnolo 10/3/2014 11:04",
+		"name" : "SantiagoBragagnolo 9/25/2014 20:12",
+		"serializer:" : "SantiagoBragagnolo 9/30/2014 15:06" } }

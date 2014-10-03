@@ -1,0 +1,3 @@
+abstract
+typeDefinition: aString 
+	self subclassResponsibility .
