@@ -4,7 +4,9 @@
 		"rosheader" : "SantiagoBragagnolo 10/3/2014 15:46",
 		"rosheaderDefinition" : "SantiagoBragagnolo 10/1/2014 16:21" },
 	"instance" : {
+		"acceptConnectionFrom:with:" : "SantiagoBragagnolo 10/6/2014 14:36",
 		"connect:" : "SantiagoBragagnolo 10/2/2014 23:53",
+		"createSocketForlistenOn:" : "SantiagoBragagnolo 10/6/2014 14:21",
 		"headerProtocol" : "SantiagoBragagnolo 10/3/2014 16:07",
 		"name" : "SantiagoBragagnolo 9/25/2014 20:13",
 		"rosheader" : "SantiagoBragagnolo 10/1/2014 14:24",

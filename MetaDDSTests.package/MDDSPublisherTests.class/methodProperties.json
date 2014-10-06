@@ -2,5 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 9/11/2014 21:30",
-		"testJustOneInstance" : "SantiagoBragagnolo 9/11/2014 21:29" } }
+		"setUp" : "SantiagoBragagnolo 10/3/2014 18:56",
+		"testJustOneInstance" : "SantiagoBragagnolo 9/11/2014 21:29",
+		"testPublishingCreated" : "SantiagoBragagnolo 10/3/2014 19:06",
+		"testPublishingCreatedIsAlwaysTheSame" : "SantiagoBragagnolo 10/3/2014 19:09",
+		"testPublishingCreationHasEffect" : "SantiagoBragagnolo 10/3/2014 19:08",
+		"testStopPublishing" : "SantiagoBragagnolo 10/3/2014 19:10" } }

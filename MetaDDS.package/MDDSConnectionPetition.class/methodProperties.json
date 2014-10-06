@@ -1,16 +1,11 @@
 {
 	"class" : {
-		"protocolName:ip:port:subscriber:participant:" : "SantiagoBragagnolo 10/2/2014 14:53" },
+		"protocolName:ip:port:subscriber:participant:" : "SantiagoBragagnolo 10/6/2014 15:04" },
 	"instance" : {
 		"ip" : "SantiagoBragagnolo 9/25/2014 20:29",
 		"ip:" : "SantiagoBragagnolo 9/25/2014 20:25",
 		"itIsSupportedBy:" : "SantiagoBragagnolo 9/25/2014 20:29",
-		"latching" : "SantiagoBragagnolo 10/2/2014 15:00",
-		"participant" : "SantiagoBragagnolo 10/2/2014 14:55",
-		"participant:" : "SantiagoBragagnolo 10/2/2014 14:55",
 		"port" : "SantiagoBragagnolo 9/25/2014 20:29",
 		"port:" : "SantiagoBragagnolo 9/25/2014 20:25",
 		"protocolName:" : "SantiagoBragagnolo 9/25/2014 20:25",
-		"subscriber:" : "SantiagoBragagnolo 10/1/2014 17:19",
-		"topic" : "SantiagoBragagnolo 10/1/2014 17:28",
 		"validateHeader:" : "SantiagoBragagnolo 10/3/2014 10:34" } }

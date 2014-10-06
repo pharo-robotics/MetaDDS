@@ -8,11 +8,9 @@
 	"instvars" : [
 		"protocolName",
 		"ip",
-		"port",
-		"subscriber",
-		"participant" ],
+		"port" ],
 	"name" : "MDDSConnectionPetition",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MDDSConnectionDescription",
 	"type" : "normal" }

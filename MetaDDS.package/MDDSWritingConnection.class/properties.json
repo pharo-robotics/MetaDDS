@@ -1,0 +1,15 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:35",
+	"instvars" : [
+		"socket",
+		"protocol" ],
+	"name" : "MDDSWritingConnection",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

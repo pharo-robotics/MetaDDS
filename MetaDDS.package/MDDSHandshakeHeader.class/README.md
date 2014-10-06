@@ -1,0 +1,1 @@
+This header is specific for topic handshake it may have to many things from ROS needs, but time will tell us more about this. 

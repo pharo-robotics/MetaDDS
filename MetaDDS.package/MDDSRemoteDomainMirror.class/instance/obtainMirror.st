@@ -1,0 +1,3 @@
+accessing
+obtainMirror
+	^ proxy obtainMirror.

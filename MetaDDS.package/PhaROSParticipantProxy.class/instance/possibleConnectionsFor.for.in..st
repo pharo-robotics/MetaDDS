@@ -2,7 +2,7 @@ as yet unclassified
 possibleConnectionsFor: aSubscriber for: aParticipantMirror in: aDomain
 	| retrieve |
 	
-	retrieve := nodeproxy requestFor: aDomain name theTopic: aSubscriber topic name withProtocol: (aSubscriber protocols collect: #name).
+	retrieve := nodeproxy requestFor: aDomain name theTopic: aSubscriber topic name withProtocol: (aParticipantMirror protocols collect: #name).
 	
 	^ MDDSConnectionPetition protocolName: (retrieve at:1) 
 								ip: (retrieve at:2)  

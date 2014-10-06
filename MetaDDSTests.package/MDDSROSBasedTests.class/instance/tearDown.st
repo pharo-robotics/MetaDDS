@@ -1,7 +1,10 @@
 setup
 tearDown
 	super tearDown.
-	XMLRPCService stop: 9999.
+	TKTRunner allSubInstances do: #cancel.
+	MDDSReadingConnection allInstances do: #destroy.
+	XMLRPCService stopAll.
+	Socket allInstances do:#close.
 	Smalltalk allClasses select: [ : c | c category = 'MDDSGenerated' ] thenDo: #removeFromSystem.
-	20 timesRepeat: [  Smalltalk garbageCollect  ].
+	7 timesRepeat: [  Smalltalk garbageCollect  ].
 

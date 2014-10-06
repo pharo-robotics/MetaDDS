@@ -2,4 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"isRegistered" : "SantiagoBragagnolo 9/15/2014 19:21" } }
+		"initialize" : "SantiagoBragagnolo 10/3/2014 19:17",
+		"isRegistered" : "SantiagoBragagnolo 9/15/2014 19:21",
+		"obtainPort" : "SantiagoBragagnolo 10/4/2014 19:38",
+		"publications" : "SantiagoBragagnolo 10/3/2014 19:41",
+		"publishing:" : "SantiagoBragagnolo 10/6/2014 18:28",
+		"removePublication:" : "SantiagoBragagnolo 10/4/2014 19:26",
+		"stopPublishing:" : "SantiagoBragagnolo 10/4/2014 19:25",
+		"stopPublishingParticipant:" : "SantiagoBragagnolo 10/4/2014 19:26" } }

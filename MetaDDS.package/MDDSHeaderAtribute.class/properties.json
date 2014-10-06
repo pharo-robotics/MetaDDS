@@ -5,7 +5,7 @@
 	"classtraitcomposition" : "TEquality classTrait",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:35",
 	"instvars" : [
 		"name",
 		"value" ],

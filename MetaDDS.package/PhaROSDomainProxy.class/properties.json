@@ -10,7 +10,8 @@
 		"exposures",
 		"typeLoader",
 		"discovery",
-		"HeartbeatAnnouncer" ],
+		"HeartbeatAnnouncer",
+		"lastAssignedPort" ],
 	"name" : "PhaROSDomainProxy",
 	"pools" : [
 		 ],

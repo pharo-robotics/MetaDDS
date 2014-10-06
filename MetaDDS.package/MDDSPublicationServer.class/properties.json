@@ -1,0 +1,20 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:33",
+	"instvars" : [
+		"protocol",
+		"port",
+		"onNewClient",
+		"process",
+		"keepRunning",
+		"listener",
+		"connectionOffer" ],
+	"name" : "MDDSPublicationServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

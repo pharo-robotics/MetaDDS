@@ -5,3 +5,4 @@ initialize
 	HeartbeatAnnouncer ifNil: [ 
 		HeartbeatAnnouncer := PhaROSHeart new.
 	].
+	lastAssignedPort := 9998.
