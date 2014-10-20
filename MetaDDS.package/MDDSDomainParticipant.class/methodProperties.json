@@ -1,6 +1,8 @@
 {
 	"class" : {
-		 },
+		"domain:name:ip:" : "SantiagoBragagnolo 10/9/2014 20:05" },
 	"instance" : {
+		"ip" : "SantiagoBragagnolo 10/9/2014 20:17",
+		"ip:" : "SantiagoBragagnolo 10/9/2014 20:17",
 		"obtainPortFor:" : "SantiagoBragagnolo 10/6/2014 16:21",
 		"protocols" : "SantiagoBragagnolo 10/6/2014 16:21" } }

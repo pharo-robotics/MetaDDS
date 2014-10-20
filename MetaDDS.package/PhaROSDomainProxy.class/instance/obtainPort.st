@@ -1,4 +1,4 @@
 as yet unclassified
 obtainPort
-	lastAssignedPort := lastAssignedPort + 1.
+	lastAssignedPort := lastAssignedPort + ((Random seed: DateAndTime now asUnixTime) nextInt:10).
 	^ lastAssignedPort.

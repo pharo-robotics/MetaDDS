@@ -1,3 +1,3 @@
 as yet unclassified
 attribute: aName
-	^ (self attributes detect: [ :attr | attr name = aName ]) value.
+	^ (self attributes detect: [ :attr | attr name = aName ] ifNone: nil) .

@@ -1,7 +1,7 @@
 accessing
 start
 	listener ifNil:[
-		listener := protocol createSocketForlistenOn: port.
+		listener := protocol createSocketForlistenAt: ip on: port.
 		keepRunning := true.
 		process := [ self run ] shootIt asStickyReference.
 	].

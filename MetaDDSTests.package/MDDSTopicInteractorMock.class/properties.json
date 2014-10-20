@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests-Mocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 10/17/2014 15:55",
+	"instvars" : [
+		"topic" ],
+	"name" : "MDDSTopicInteractorMock",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

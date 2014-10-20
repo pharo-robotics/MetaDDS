@@ -1,7 +1,8 @@
 {
 	"category" : "MetaDDS-Kernel",
 	"classinstvars" : [
-		"defaultBlock" ],
+		"defaultBlock",
+		"failBlock" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/11/2014 22:57",

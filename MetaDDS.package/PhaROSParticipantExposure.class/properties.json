@@ -8,7 +8,8 @@
 	"instvars" : [
 		"participantMirror",
 		"port",
-		"exposing" ],
+		"exposing",
+		"discovery" ],
 	"name" : "PhaROSParticipantExposure",
 	"pools" : [
 		 ],

@@ -1,5 +1,5 @@
 basic-calls-tests
 testCreateTopic
-	(topics collect: #createTopic) allSatisfy: [ : t  | 
+	self assert: ((topics collect: #createTopic) allSatisfy: [ : t  | 
 		t isKindOf: MDDSTopic	
-	]
+	])

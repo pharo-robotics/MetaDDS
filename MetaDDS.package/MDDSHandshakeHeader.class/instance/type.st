@@ -1,3 +1,3 @@
 as yet unclassified
 type
-	^ self attribute: 'type'.
+	^ (self attribute: 'type') value.

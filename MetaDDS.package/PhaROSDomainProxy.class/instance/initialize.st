@@ -1,8 +1,5 @@
 as yet unclassified
 initialize
 	exposures := Set new .
-	discovery := PhaROSDiscovery new.
-	HeartbeatAnnouncer ifNil: [ 
-		HeartbeatAnnouncer := PhaROSHeart new.
-	].
-	lastAssignedPort := 9998.
+	lastAssignedPort := 9000 + ((Random seed: DateAndTime now asUnixTime) nextInt:100).
+	registeredTopics := Set new.

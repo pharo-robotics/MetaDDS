@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/12/2014 19:51",
 	"instvars" : [
-		 ],
+		"ip" ],
 	"name" : "MDDSDomainParticipant",
 	"pools" : [
 		 ],

@@ -3,12 +3,12 @@ start
 	keepRunning ifFalse: [
 		keepRunning := true.
 		process := [ 
-
+			| value |
 			[ keepRunning ]	whileTrue: [ 
 				[  
-					messageDispatcher dispatch: (protocol loadStream: stream with: typeMarshaller).
+					value := protocol loadStream: stream with: typeMarshaller.
+					messageDispatcher dispatch: value.
 				] on: Error do: [ :err |
-					self halt.
 					messageDispatcher noteError: err.
 					keepRunning := socket isConnected.
 				]

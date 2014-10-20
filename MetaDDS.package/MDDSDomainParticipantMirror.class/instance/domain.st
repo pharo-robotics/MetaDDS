@@ -1,0 +1,3 @@
+accessing
+domain
+	^ participant domain

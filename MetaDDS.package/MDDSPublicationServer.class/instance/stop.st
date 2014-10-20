@@ -1,5 +1,5 @@
 accessing
 stop
 	keepRunning := false.
-	listener close.
+	listener destroy.
 	process := nil.

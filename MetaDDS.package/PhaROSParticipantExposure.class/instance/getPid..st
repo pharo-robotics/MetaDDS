@@ -1,5 +1,4 @@
 ros-xml-reponses
 getPid: aCallerID 
-	self unexpose.
-	self error: 'implement!'.
+	^ { 1 . 'PID' . 777 }
 						 

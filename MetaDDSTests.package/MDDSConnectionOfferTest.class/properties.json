@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"offer" ],
+	"name" : "MDDSConnectionOfferTest",
+	"pools" : [
+		 ],
+	"super" : "MDDSConnectionDescriptionTest",
+	"type" : "normal" }

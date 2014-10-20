@@ -1,3 +1,5 @@
 running
 adhoc
-	^ MDDSTopic domain: domain name: '/adhoc'  type: 'std_msgs/Int16'. 
+| type |
+	type := (MDDSTypeDescriptor domain: domain mirror  name: 'std_msgs/Int16') createType.
+	^ domain createTopicNamed: '/adhoc'  type: type 

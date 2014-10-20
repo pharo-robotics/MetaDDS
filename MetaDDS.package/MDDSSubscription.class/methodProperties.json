@@ -2,10 +2,11 @@
 	"class" : {
 		"defaultBlock" : "SantiagoBragagnolo 9/11/2014 22:55",
 		"defaultForParticipant:" : "SantiagoBragagnolo 9/12/2014 19:23",
+		"failBlock" : "SantiagoBragagnolo 10/18/2014 17:27",
 		"forParticipant:onRead:" : "SantiagoBragagnolo 9/12/2014 19:23",
 		"forParticipant:onRead:onFailure:" : "SantiagoBragagnolo 9/12/2014 19:23",
 		"forParticipant:onRead:onFailure:onStop:" : "SantiagoBragagnolo 9/12/2014 19:21",
-		"onFailure" : "SantiagoBragagnolo 9/11/2014 22:55",
+		"onFailure" : "SantiagoBragagnolo 10/18/2014 17:27",
 		"onRead" : "SantiagoBragagnolo 9/11/2014 22:55",
 		"onStop" : "SantiagoBragagnolo 9/11/2014 22:55" },
 	"instance" : {

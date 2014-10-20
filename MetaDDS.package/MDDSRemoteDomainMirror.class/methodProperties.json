@@ -5,11 +5,14 @@
 		"asString" : "SantiagoBragagnolo 9/10/2014 19:49",
 		"exposer:" : "SantiagoBragagnolo 9/12/2014 00:08",
 		"obtainMirror" : "SantiagoBragagnolo 10/4/2014 19:40",
+		"obtainPort" : "SantiagoBragagnolo 10/6/2014 19:04",
 		"printOn:" : "SantiagoBragagnolo 9/10/2014 19:49",
 		"proxy:" : "SantiagoBragagnolo 9/8/2014 19:21",
 		"reflectParticipant:" : "SantiagoBragagnolo 9/12/2014 21:23",
+		"registerTopicPublisher:for:" : "SantiagoBragagnolo 10/7/2014 13:55",
 		"registerTopicSubscriber:for:" : "SantiagoBragagnolo 9/22/2014 23:20",
 		"subscriberFor:" : "SantiagoBragagnolo 9/21/2014 20:48",
 		"topics" : "SantiagoBragagnolo 9/10/2014 23:40",
 		"typeDefinition:" : "SantiagoBragagnolo 9/17/2014 20:02",
-		"unregisterTopicSubscriber:for:" : "SantiagoBragagnolo 9/15/2014 19:05" } }
+		"unregisterTopicPublisher:for:" : "SantiagoBragagnolo 10/7/2014 15:27",
+		"unregisterTopicSubscriber:for:" : "SantiagoBragagnolo 10/7/2014 14:15" } }

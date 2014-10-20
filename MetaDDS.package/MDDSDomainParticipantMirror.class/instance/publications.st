@@ -1,3 +1,0 @@
-accessing
-publications
-	^ self subclassResponsibility 

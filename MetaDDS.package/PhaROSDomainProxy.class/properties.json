@@ -9,9 +9,8 @@
 		"rosproxy",
 		"exposures",
 		"typeLoader",
-		"discovery",
-		"HeartbeatAnnouncer",
-		"lastAssignedPort" ],
+		"lastAssignedPort",
+		"registeredTopics" ],
 	"name" : "PhaROSDomainProxy",
 	"pools" : [
 		 ],

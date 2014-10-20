@@ -1,3 +1,0 @@
-lookup
-protocols
-	^ domain protocols

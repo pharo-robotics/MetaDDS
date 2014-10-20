@@ -1,3 +1,3 @@
 default-configuration
 onFailure
-	^ self defaultBlock.
+	^ self failBlock.

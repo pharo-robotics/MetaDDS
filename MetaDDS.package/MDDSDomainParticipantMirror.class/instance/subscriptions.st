@@ -1,3 +1,0 @@
-accessing
-subscriptions
-	^ self subclassResponsibility 

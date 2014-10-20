@@ -6,9 +6,7 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:33",
 	"instvars" : [
-		"protocol",
 		"typeMarshaller",
-		"socket",
 		"messageDispatcher",
 		"keepRunning",
 		"process",
@@ -17,5 +15,5 @@
 	"name" : "MDDSReadingConnection",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MDDSConnection",
 	"type" : "normal" }

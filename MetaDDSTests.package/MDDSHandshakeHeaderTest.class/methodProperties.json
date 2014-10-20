@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "SantiagoBragagnolo 10/17/2014 15:39",
+		"testReSetterChangesFieldsValue" : "SantiagoBragagnolo 10/17/2014 15:45",
+		"testReSetterDoNotChangeAmountOfFields" : "SantiagoBragagnolo 10/17/2014 15:42",
+		"testSetterAddsField" : "SantiagoBragagnolo 10/17/2014 15:41",
+		"testUnsettedFieldsAreAccessableAsNil" : "SantiagoBragagnolo 10/17/2014 15:47" } }

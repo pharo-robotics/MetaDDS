@@ -1,10 +1,15 @@
 setup
 tearDown
 	super tearDown.
-	TKTRunner allSubInstances do: #cancel.
-	MDDSReadingConnection allInstances do: #destroy.
+	[ 
 	XMLRPCService stopAll.
-	Socket allInstances do:#close.
-	Smalltalk allClasses select: [ : c | c category = 'MDDSGenerated' ] thenDo: #removeFromSystem.
-	7 timesRepeat: [  Smalltalk garbageCollect  ].
-
+	TKTRunner allSubInstances do: #cancel.
+	MDDSPublication allInstances do: #stopPublishing.
+	MDDSPublicationServer allInstances do: #stop.
+	PhaROSParticipantExposure allInstances do: #unexpose.
+	MDDSReadingConnection allInstances do: #destroy.
+	Socket allInstances do: #destroy.
+	MDDSEntity allSubInstances do: [ :e | e domain: nil ] ]
+		on: Error
+		do: [  ].
+	2 timesRepeat: [ Smalltalk garbageCollect ]

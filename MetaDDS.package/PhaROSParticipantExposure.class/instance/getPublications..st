@@ -1,5 +1,5 @@
 ros-xml-reponses
 getPublications: aCallerID 
-	self unexpose.
-	self error: 'implement!'.
+	
+	^ { 1 . ' Publications ' . (participantMirror publishedTopics collect: [ : topic | { topic name . topic type name } ]) asArray } .
 						 

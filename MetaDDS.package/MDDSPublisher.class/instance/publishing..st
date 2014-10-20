@@ -3,6 +3,13 @@ publishing: aMDDSDomainParticipant
 	
 	^ publications detect: [ : each | 
 			each isPublishing: aMDDSDomainParticipant  
-		] ifNone: [ 
-			publications add: (MDDSPublication publishing: aMDDSDomainParticipant for: self with: topic type marshaller)
+		] ifNone: [
+			| publication |
+			publication := MDDSPublication publishing: aMDDSDomainParticipant for: self with: topic type marshaller.
+			publication startPublishing.
+			publications add: publication.
+			
+			domain registerTopicPublisher: self for: aMDDSDomainParticipant.
+			
+			publication
 		].
