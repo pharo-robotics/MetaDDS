@@ -1,3 +1,8 @@
 API-Parameter-Server
-setParam: aParameterName with: aValue for: aCallerId 
-	^  self  invokeMethod: 'setParam' withArgs: { aCallerId . aParameterName . aValue}.
+setParam: aParameterName with: aValue for: aCallerId
+	^ self
+		invokeMethod: 'setParam'
+		withArgs:
+			{aCallerId.
+			aParameterName.
+			aValue}

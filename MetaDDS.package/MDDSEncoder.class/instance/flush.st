@@ -1,3 +1,3 @@
 serialize
 flush
-	stream flush.
+	stream flush

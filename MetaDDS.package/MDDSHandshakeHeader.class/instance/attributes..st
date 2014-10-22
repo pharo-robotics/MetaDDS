@@ -1,3 +1,3 @@
 accessing
 attributes: aValue
-	^ self at: #attributes put: aValue. 
+	^ self at: #attributes put: aValue

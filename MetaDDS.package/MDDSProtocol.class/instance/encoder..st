@@ -1,3 +1,3 @@
 as yet unclassified
 encoder: anEncoder
-	encoder:= anEncoder.
+	encoder := anEncoder

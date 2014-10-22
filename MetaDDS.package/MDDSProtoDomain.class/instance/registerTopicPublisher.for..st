@@ -1,4 +1,3 @@
 abstract
 registerTopicPublisher: aPublisher for: aParticipant
-	
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

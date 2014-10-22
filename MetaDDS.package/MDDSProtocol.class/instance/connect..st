@@ -1,4 +1,3 @@
 as yet unclassified
 connect: aMDDSConnectionPetition
-
-	self subclassResponsibility 
+	self subclassResponsibility

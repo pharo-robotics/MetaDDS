@@ -1,3 +1,3 @@
 printing
 printOn: aStream
-	self asString printOn: aStream.
+	self asString printOn: aStream

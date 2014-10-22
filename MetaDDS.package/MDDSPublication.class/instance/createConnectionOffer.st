@@ -1,3 +1,3 @@
 creation
 createConnectionOffer
-	 ^ MDDSConnectionOffer publisher: publisher participant:  participant.
+	^ MDDSConnectionOffer publisher: publisher participant: participant

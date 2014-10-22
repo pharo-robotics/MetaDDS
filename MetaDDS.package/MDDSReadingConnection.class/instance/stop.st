@@ -1,8 +1,7 @@
 accessing
 stop
-	keepRunning ifTrue: [
-		keepRunning := false.
-		process := nil. 
-	] ifFalse:[
-		self error: 'The related process is notrunning!'
-	]
+	keepRunning
+		ifTrue: [ 
+			keepRunning := false.
+			process := nil ]
+		ifFalse: [ self error: 'The related process is notrunning!' ]

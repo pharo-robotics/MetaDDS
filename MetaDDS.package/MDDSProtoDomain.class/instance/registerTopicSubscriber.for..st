@@ -1,4 +1,3 @@
 abstract
 registerTopicSubscriber: aSubscriber for: aParticipant
-	
-	^ self subclassResponsibility 
+	^ self subclassResponsibility

@@ -1,3 +1,3 @@
 as yet unclassified
 registerAll: aSetOfTopics
-	registeredTopics addAll: aSetOfTopics 
+	registeredTopics addAll: aSetOfTopics

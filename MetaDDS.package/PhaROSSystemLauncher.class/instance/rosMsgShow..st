@@ -1,4 +1,3 @@
 types
 rosMsgShow: aTypeId
-
-	^  self rosMsg: 'show' with: aTypeId. 
+	^ self rosMsg: 'show' with: aTypeId

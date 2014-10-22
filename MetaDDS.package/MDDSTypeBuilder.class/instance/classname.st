@@ -1,5 +1,3 @@
 related class building
 classname
-	^ (self name copyReplaceAll: '/' with: '_') capitalized  
-	 
-
+	^ (self name copyReplaceAll: '/' with: '_') capitalized

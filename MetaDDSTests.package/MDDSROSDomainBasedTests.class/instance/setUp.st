@@ -1,3 +1,3 @@
 running
 setUp
-	domain := self createRosMirror domain.
+	domain := self createRosDomain.

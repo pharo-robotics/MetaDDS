@@ -1,3 +1,3 @@
 abstract
 topics
-	self subclassResponsibility .
+	self subclassResponsibility

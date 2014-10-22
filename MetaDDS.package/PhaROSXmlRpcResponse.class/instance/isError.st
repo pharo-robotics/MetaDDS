@@ -1,4 +1,3 @@
 testing
 isError
-	^self statusCode = -1
-	
+	^ self statusCode = -1

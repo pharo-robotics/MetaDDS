@@ -1,3 +1,3 @@
 accessing
 initialize
-	interested := Set new.
+	interested := Set new

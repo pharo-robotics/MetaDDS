@@ -3,12 +3,12 @@
 		"participantMirror:" : "SantiagoBragagnolo 10/18/2014 16:43" },
 	"instance" : {
 		"discovery:" : "SantiagoBragagnolo 10/18/2014 16:44",
-		"expose" : "SantiagoBragagnolo 10/13/2014 16:10",
+		"expose" : "SantiagoBragagnolo 10/20/2014 21:56",
 		"from:update:with:" : "SantiagoBragagnolo 10/7/2014 19:11",
-		"getBusInfo:" : "SantiagoBragagnolo 10/13/2014 16:23",
-		"getPid:" : "SantiagoBragagnolo 10/13/2014 16:24",
-		"getPublications:" : "SantiagoBragagnolo 10/18/2014 17:02",
-		"getSubscriptions:" : "SantiagoBragagnolo 10/18/2014 16:58",
+		"getBusInfo:" : "SantiagoBragagnolo 10/20/2014 21:56",
+		"getPid:" : "SantiagoBragagnolo 10/20/2014 21:56",
+		"getPublications:" : "SantiagoBragagnolo 10/20/2014 21:57",
+		"getSubscriptions:" : "SantiagoBragagnolo 10/20/2014 21:57",
 		"informFrom:for:publishers:" : "SantiagoBragagnolo 10/18/2014 17:39",
 		"isExposing" : "SantiagoBragagnolo 9/12/2014 20:45",
 		"itExposes:" : "SantiagoBragagnolo 9/12/2014 21:24",
@@ -16,5 +16,5 @@
 		"port" : "SantiagoBragagnolo 9/12/2014 21:25",
 		"port:" : "SantiagoBragagnolo 9/12/2014 20:43",
 		"register:for:" : "SantiagoBragagnolo 10/18/2014 17:41",
-		"requestTopic:for:availableFor:" : "SantiagoBragagnolo 10/17/2014 14:41",
-		"unexpose" : "SantiagoBragagnolo 9/12/2014 20:47" } }
+		"requestTopic:for:availableFor:" : "SantiagoBragagnolo 10/20/2014 21:57",
+		"unexpose" : "SantiagoBragagnolo 10/20/2014 21:57" } }

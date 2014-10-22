@@ -2,18 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addProtocol:" : "SantiagoBragagnolo 9/25/2014 20:11",
-		"createTopicNamed:type:" : "SantiagoBragagnolo 10/13/2014 14:36",
-		"initialize" : "SantiagoBragagnolo 10/13/2014 14:36",
-		"isRegistered:" : "SantiagoBragagnolo 9/11/2014 21:26",
-		"mirror" : "SantiagoBragagnolo 9/11/2014 00:27",
-		"mirror:" : "SantiagoBragagnolo 9/11/2014 00:27",
-		"obtainPort" : "SantiagoBragagnolo 10/4/2014 19:39",
-		"protocols" : "SantiagoBragagnolo 9/23/2014 23:04",
-		"registerTopicPublisher:for:" : "SantiagoBragagnolo 10/7/2014 13:52",
-		"registerTopicSubscriber:for:" : "SantiagoBragagnolo 10/3/2014 10:49",
-		"subscriberFor:" : "SantiagoBragagnolo 9/21/2014 19:34",
-		"topics" : "SantiagoBragagnolo 10/13/2014 14:35",
-		"typeDefinition:" : "SantiagoBragagnolo 10/1/2014 23:41",
-		"unregisterTopicPublisher:for:" : "SantiagoBragagnolo 10/7/2014 13:53",
-		"unregisterTopicSubscriber:for:" : "SantiagoBragagnolo 10/2/2014 15:17" } }
+		"addProtocol:" : "SantiagoBragagnolo 10/22/2014 21:52",
+		"createTopicNamed:type:" : "SantiagoBragagnolo 10/22/2014 21:52",
+		"initialize" : "SantiagoBragagnolo 10/22/2014 21:52",
+		"protocols" : "SantiagoBragagnolo 10/22/2014 21:51" } }

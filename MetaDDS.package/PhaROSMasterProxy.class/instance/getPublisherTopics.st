@@ -1,5 +1,3 @@
 API-Data-Accessors
 getPublisherTopics
-	^ self getPublisherTopics: self callerId.
-
-	
+	^ self getPublisherTopics: self callerId

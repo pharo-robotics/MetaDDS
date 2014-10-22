@@ -1,3 +1,3 @@
 accessing
 attributes
-	^ self getAt: #attributes. 
+	^ self getAt: #attributes

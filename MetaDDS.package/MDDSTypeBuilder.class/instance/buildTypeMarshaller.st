@@ -1,5 +1,5 @@
 building
 buildTypeMarshaller
-	^ (MDDSCompositeType 	named: self name 
-								definedBy: definition fields
-								withConstants: definition constants) relatedClass: self relatedClass; yourself.
+	^ (MDDSCompositeType named: self name definedBy: definition fields withConstants: definition constants)
+		relatedClass: self relatedClass;
+		yourself

@@ -1,13 +1,7 @@
 as yet unclassified
 encodeHeaderAttribute: aHeaderAttribute
-	|  rawValue |
-	
-	
-	rawValue := aHeaderAttribute name asByteArray,
-				 self class fieldNameSeparator asByteArray,  
-				 aHeaderAttribute value asByteArray .
-				
+	| rawValue |
+	rawValue := aHeaderAttribute name asByteArray , self class fieldNameSeparator asByteArray
+		, aHeaderAttribute value asByteArray.
 	self encodeUint32: rawValue size.
-	self encodeBytes: rawValue.
-	
-	
+	self encodeBytes: rawValue

@@ -1,5 +1,7 @@
 API
 lookupNode: nodeName with: aCallerId
-
-	^ self invokeMethod: 'lookupNode' withArgs: { aCallerId . nodeName }.
-	
+	^ self
+		invokeMethod: 'lookupNode'
+		withArgs:
+			{aCallerId.
+			nodeName}

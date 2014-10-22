@@ -1,3 +1,3 @@
 initialization
-loadTypeDefinition: aTypeId 
-	self subclassResponsibility.
+loadTypeDefinition: aTypeId
+	self subclassResponsibility

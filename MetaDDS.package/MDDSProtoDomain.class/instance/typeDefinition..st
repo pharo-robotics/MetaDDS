@@ -1,3 +1,3 @@
 abstract
-typeDefinition: aString 
-	self subclassResponsibility .
+typeDefinition: aString
+	self subclassResponsibility

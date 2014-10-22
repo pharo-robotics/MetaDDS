@@ -1,3 +1,3 @@
 as yet unclassified
 latching
-	^ (self attribute: 'latching') value.
+	^ (self attribute: 'latching') value

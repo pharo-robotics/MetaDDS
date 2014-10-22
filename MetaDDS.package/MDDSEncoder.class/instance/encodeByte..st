@@ -1,3 +1,3 @@
 encoding
 encodeByte: aByte
-	stream nextPut: aByte.
+	stream nextPut: aByte

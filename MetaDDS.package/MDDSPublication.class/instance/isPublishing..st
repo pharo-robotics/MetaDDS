@@ -1,3 +1,3 @@
 testing
-isPublishing: aMDDSDomainParticipant 
-	^ participant = aMDDSDomainParticipant 
+isPublishing: aMDDSDomainParticipant
+	^ participant = aMDDSDomainParticipant

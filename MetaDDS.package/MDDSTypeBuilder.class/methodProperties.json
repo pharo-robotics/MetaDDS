@@ -2,17 +2,17 @@
 	"class" : {
 		"defined:" : "SantiagoBragagnolo 9/19/2014 18:51" },
 	"instance" : {
-		"buildDTOClass" : "SantiagoBragagnolo 9/19/2014 21:01",
-		"buildTypeMarshaller" : "SantiagoBragagnolo 10/3/2014 15:46",
-		"classname" : "SantiagoBragagnolo 9/19/2014 19:18",
+		"buildDTOClass" : "SantiagoBragagnolo 10/20/2014 22:36",
+		"buildTypeMarshaller" : "SantiagoBragagnolo 10/20/2014 22:36",
+		"classname" : "SantiagoBragagnolo 10/20/2014 22:36",
 		"definition" : "SantiagoBragagnolo 2/8/2014 12:03",
 		"definition:" : "SantiagoBragagnolo 2/8/2014 11:20",
 		"dependencies" : "SantiagoBragagnolo 2/11/2014 14:26",
 		"forPhaROSTyping" : "SantiagoBragagnolo 10/3/2014 15:45",
-		"installConstantsIn:" : "SantiagoBragagnolo 2/8/2014 18:45",
-		"installMethodsIn:" : "SantiagoBragagnolo 2/10/2014 10:28",
+		"installConstantsIn:" : "SantiagoBragagnolo 10/20/2014 22:37",
+		"installMethodsIn:" : "SantiagoBragagnolo 10/20/2014 22:37",
 		"isServiceType" : "pharos 3/1/2014 11:25",
 		"name" : "SantiagoBragagnolo 9/19/2014 18:53",
-		"relatedClass" : "SantiagoBragagnolo 9/19/2014 19:58",
+		"relatedClass" : "SantiagoBragagnolo 10/20/2014 22:37",
 		"rosdefinition" : "SantiagoBragagnolo 2/11/2014 14:18",
 		"shortName" : "SantiagoBragagnolo 9/19/2014 18:52" } }

@@ -1,3 +1,3 @@
 loading
-parseFieldRosLine: aLine 
-	^ self parseItemRosLine: aLine into: MDDSFieldDefinition.
+parseFieldRosLine: aLine
+	^ self parseItemRosLine: aLine into: MDDSFieldDefinition

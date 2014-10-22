@@ -1,5 +1,4 @@
 exposition
 unexpose
-	self isExposing  ifTrue: [
-		XMLRPCService stop: port.
-	]
+	self isExposing
+		ifTrue: [ XMLRPCService stop: port ]

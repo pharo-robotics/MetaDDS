@@ -1,3 +1,3 @@
 accessing
 asString
-	^ super asString,  (' Remote ({1})' format: { proxy })
+	^ super asString , (' Remote ({1})' format: {proxy})

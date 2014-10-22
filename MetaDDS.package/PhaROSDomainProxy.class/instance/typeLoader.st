@@ -1,5 +1,3 @@
 accessing
 typeLoader
-	^ typeLoader ifNil: [ 
-		typeLoader := PhaROSTypeLoder commandBased.	
-	 ].
+	^ typeLoader ifNil: [ typeLoader := PhaROSTypeLoder commandBased ]

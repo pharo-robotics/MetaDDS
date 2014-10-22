@@ -1,4 +1,4 @@
 accessing
 handleError: anError
-	Transcript show: anError  messageText.
-	self halt: anError  messageText
+	Transcript show: anError messageText.
+	self halt: anError messageText

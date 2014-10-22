@@ -1,3 +1,4 @@
 accessing
 mirror: aDomainMirror
-	mirror := aDomainMirror 
+	mirror := aDomainMirror.
+	

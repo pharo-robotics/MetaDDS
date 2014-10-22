@@ -1,0 +1,1 @@
+ARemote domain is a domain known for being defined externally to the image.

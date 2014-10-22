@@ -1,3 +1,3 @@
 launching
 rosserviceCall: anArrayOfArguments
-	^ self rosservice: {'call'}, anArrayOfArguments.
+	^ self rosservice: {'call'} , anArrayOfArguments

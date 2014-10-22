@@ -1,21 +1,18 @@
 accessing
 run
-	[ keepRunning  ] whileTrue:[
-		[
-			| connection | 
+	[ keepRunning ]
+		whileTrue: [ 
+			[ 
+			| connection |
 			connection := nil.
-			[ listener isValid and: [connection isNil ]] whileTrue: [  
-				connection := protocol acceptConnectionFrom: listener with: self connectionOffer.	
-			].
-			onNewClient value: connection.
-		] on: Error do: [ : err | 
-			self handleError: err.
-			listener isValid ifFalse: [ 
-				self halt.
-				listener destroy.
-				keepRunning := false.	
-			]
-		 ]
-		
-	].	
-	
+			[ listener isValid and: [ connection isNil ] ]
+				whileTrue: [ connection := protocol acceptConnectionFrom: listener with: self connectionOffer ].
+			onNewClient value: connection ]
+				on: Error
+				do: [ :err | 
+					self handleError: err.
+					listener isValid
+						ifFalse: [ 
+							self halt.
+							listener destroy.
+							keepRunning := false ] ] ]

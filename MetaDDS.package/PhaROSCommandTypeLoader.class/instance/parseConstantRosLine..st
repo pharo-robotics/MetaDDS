@@ -1,7 +1,7 @@
 loading
-parseConstantRosLine: aLine 
+parseConstantRosLine: aLine
 	| typeLine |
-	typeLine := ($= split: aLine).
-	
-	^ (self parseItemRosLine: (typeLine at:1)  into: MDDSConstantDefinition) value: (typeLine at:2); yourself.
-	
+	typeLine := $= split: aLine.
+	^ (self parseItemRosLine: (typeLine at: 1) into: MDDSConstantDefinition)
+		value: (typeLine at: 2);
+		yourself

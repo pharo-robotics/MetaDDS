@@ -1,3 +1,3 @@
 as yet unclassified
 registerExposure: anExposure
-	exposures add: anExposure.
+	exposures add: anExposure

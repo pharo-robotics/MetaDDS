@@ -1,3 +1,3 @@
 accessing
 topic
-	^ publisher topic 
+	^ publisher topic

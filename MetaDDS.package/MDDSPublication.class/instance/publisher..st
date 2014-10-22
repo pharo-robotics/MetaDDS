@@ -1,3 +1,3 @@
 accessing
-publisher: aMDDSPublisher 
-	publisher := aMDDSPublisher .
+publisher: aMDDSPublisher
+	publisher := aMDDSPublisher

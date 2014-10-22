@@ -1,6 +1,3 @@
 subscription
 subscriber
-	^subscriber ifNil: [ 
-		subscriber := domain subscriberFor: self.
-	].
-	
+	^ subscriber ifNil: [ subscriber := domain subscriberFor: self ]

@@ -1,3 +1,3 @@
 accessing
-participant: aMDDSDomainParticipant 
-	participant := aMDDSDomainParticipant.
+participant: aMDDSDomainParticipant
+	participant := aMDDSDomainParticipant
