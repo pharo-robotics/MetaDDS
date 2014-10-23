@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"domain" ],
+	"name" : "MDDSDomainBasedTests",
+	"pools" : [
+		 ],
+	"super" : "MDDSPharoBasedTests",
+	"type" : "normal" }

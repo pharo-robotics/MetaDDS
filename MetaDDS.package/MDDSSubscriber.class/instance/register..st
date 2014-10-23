@@ -1,6 +1,6 @@
 registry
 register: aSubscription
 	(self subcriptionsFor: aSubscription participant) isEmpty
-		ifTrue: [ domain registerTopicSubscriber: self for: aSubscription participant ].
+		ifTrue: [ domain note: (MDDSTopicAnnouncement participant: aSubscription participant isNowSubscribedTo: self) ].
 	self addSubscription: aSubscription.
 	^ aSubscription

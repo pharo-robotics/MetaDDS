@@ -1,0 +1,3 @@
+setup
+createDomain
+	^ MDDSInternallyDefinedDomain new

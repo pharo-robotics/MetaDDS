@@ -2,4 +2,4 @@ registry
 unregister: aSubscription
 	subscriptions remove: aSubscription.
 	subscriptions isEmpty
-		ifTrue: [ domain unregisterTopicSubscriber: self for: aSubscription participant ]
+		ifTrue: [ domain note: (MDDSTopicAnnouncement participant: aSubscription participant isNotSubscribedAnymoreTo: self) ]

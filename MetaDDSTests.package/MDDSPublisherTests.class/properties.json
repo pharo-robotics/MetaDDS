@@ -12,5 +12,5 @@
 	"name" : "MDDSPublisherTests",
 	"pools" : [
 		 ],
-	"super" : "MDDSROSDomainBasedTests",
+	"super" : "MDDSDomainBasedTests",
 	"type" : "normal" }

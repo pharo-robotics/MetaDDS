@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 10/23/2014 20:57",
+	"instvars" : [
+		 ],
+	"name" : "MDDSIsNotSubscribedAnnouncement",
+	"pools" : [
+		 ],
+	"super" : "MDDSIsSubscribedAnnouncement",
+	"type" : "normal" }

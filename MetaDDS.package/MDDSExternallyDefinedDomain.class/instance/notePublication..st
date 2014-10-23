@@ -1,0 +1,3 @@
+as yet unclassified
+notePublication: aMDDSIsPublishingAnnouncement
+	mirror notePublication: aMDDSIsPublishingAnnouncement

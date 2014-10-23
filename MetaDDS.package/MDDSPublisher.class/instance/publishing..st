@@ -7,5 +7,5 @@ publishing: aMDDSDomainParticipant
 			publication := MDDSPublication publishing: aMDDSDomainParticipant for: self with: topic type marshaller.
 			publication startPublishing.
 			publications add: publication.
-			domain registerTopicPublisher: self for: aMDDSDomainParticipant.
+			domain note: (MDDSTopicAnnouncement participant: aMDDSDomainParticipant isNowPublishingOn: self).
 			publication ]

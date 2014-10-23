@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"typeDescription" ],
+	"name" : "PhaROSTypeDescriptionTests",
+	"pools" : [
+		 ],
+	"super" : "PhaROSDomainBasedTests",
+	"type" : "normal" }

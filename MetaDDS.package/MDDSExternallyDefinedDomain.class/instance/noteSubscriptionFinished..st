@@ -1,0 +1,3 @@
+as yet unclassified
+noteSubscriptionFinished: aMDDSIsNotSubscribedAnnouncement 
+	mirror noteSubscriptionFinished: aMDDSIsNotSubscribedAnnouncement 

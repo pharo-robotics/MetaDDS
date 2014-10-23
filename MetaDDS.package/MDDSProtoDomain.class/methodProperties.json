@@ -6,11 +6,11 @@
 		"findTopicByName:" : "SantiagoBragagnolo 10/20/2014 22:15",
 		"findTopicByName:ifFound:ifNone:" : "SantiagoBragagnolo 10/20/2014 22:15",
 		"findTopicByName:ifNone:" : "SantiagoBragagnolo 10/20/2014 22:15",
+		"notePublication:" : "SantiagoBragagnolo 10/23/2014 21:11",
+		"notePublicationFinished:" : "SantiagoBragagnolo 10/23/2014 21:11",
+		"noteSubscription:" : "SantiagoBragagnolo 10/23/2014 21:11",
+		"noteSubscriptionFinished:" : "SantiagoBragagnolo 10/23/2014 21:11",
 		"participants" : "SantiagoBragagnolo 9/11/2014 00:31",
-		"registerTopicPublisher:for:" : "SantiagoBragagnolo 10/20/2014 22:15",
-		"registerTopicSubscriber:for:" : "SantiagoBragagnolo 10/20/2014 22:15",
 		"subscriberFor:" : "SantiagoBragagnolo 10/20/2014 22:15",
 		"topics" : "SantiagoBragagnolo 10/20/2014 22:15",
-		"typeDefinition:" : "SantiagoBragagnolo 10/20/2014 22:15",
-		"unregisterTopicPublisher:for:" : "SantiagoBragagnolo 10/20/2014 22:15",
-		"unregisterTopicSubscriber:for:" : "SantiagoBragagnolo 10/20/2014 22:16" } }
+		"typeDefinition:" : "SantiagoBragagnolo 10/20/2014 22:15" } }

@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 9/19/2014 20:28",
-		"testRosoutDTOClassesGenerated" : "SantiagoBragagnolo 9/19/2014 20:32",
-		"testRosoutTypeSerializer" : "SantiagoBragagnolo 10/3/2014 15:48",
-		"testRosoutTypeSerializerIsAlwaysTheSame" : "SantiagoBragagnolo 10/3/2014 15:49" } }
+		"setUp" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testRosoutDTOClassesGenerated" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testRosoutTypeSerializer" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testRosoutTypeSerializerIsAlwaysTheSame" : "SantiagoBragagnolo 10/23/2014 23:36" } }
