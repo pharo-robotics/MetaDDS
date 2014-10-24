@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"rosoutDescriptor" : "SantiagoBragagnolo 10/23/2014 23:36",
-		"setUp" : "SantiagoBragagnolo 10/23/2014 23:36",
-		"testRosoutTypeContainsHeader" : "SantiagoBragagnolo 10/23/2014 23:36",
-		"testRosoutTypeUnknownFieldAccessFail" : "SantiagoBragagnolo 10/23/2014 23:36",
-		"testTypeIsDefined" : "SantiagoBragagnolo 10/23/2014 23:36" } }

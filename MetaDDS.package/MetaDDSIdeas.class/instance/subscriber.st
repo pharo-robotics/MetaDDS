@@ -9,9 +9,9 @@ mirror := domain mirror .
 
 participant := MDDSDomainParticipant domain: domain name: 'adhoc-participant' ip: '127.0.0.1'.
 
-type :=  MDDSTypeDescriptor domain: mirror name: 'std_msgs/Int16'.
+type :=  MDDSTypeDescriptor domain: domain name: 'std_msgs/Int16'.
 
-adhoc := (MDDSTopicDescriptor domain: mirror name: '/adhoc'  type: type) createTopic.
+adhoc := (MDDSTopicDescriptor domain: domain name: '/adhoc'  type: type) createTopic.
 
 domain addProtocol: (PhaROSTCPProtocol encoding: MDDSEncoder  decoding: MDDSDecoder).
 
@@ -47,7 +47,7 @@ Socket allInstances do: #destroy.
 MDDSEntity allSubInstances
  do: [ :e | e domain: nil].
 
-MDDSReadingConnection allInstances 
+MDDSReadingNetworkConnection allInstances 
 do: #destroy.
 
 

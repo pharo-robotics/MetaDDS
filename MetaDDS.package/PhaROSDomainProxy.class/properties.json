@@ -9,8 +9,8 @@
 		"rosproxy",
 		"exposures",
 		"typeLoader",
-		"lastAssignedPort",
-		"registeredTopics" ],
+		"registeredTopics",
+		"portResolver" ],
 	"name" : "PhaROSDomainProxy",
 	"pools" : [
 		 ],

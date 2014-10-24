@@ -1,0 +1,1 @@
+A subscription is a cheap object that is able to configure thigns to happen in the case of a message reception. So, when there is a new subscription (since the mechanism is subtly different to the publication) there is a notification for this creation. In some cases of domain it may rely on this announcement for the binding of the publication with the subscription

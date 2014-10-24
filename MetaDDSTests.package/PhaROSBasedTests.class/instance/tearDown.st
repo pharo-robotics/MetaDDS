@@ -7,7 +7,7 @@ tearDown
 	MDDSPublication allInstances do: #stopPublishing.
 	MDDSPublicationServer allInstances do: #stop.
 	PhaROSParticipantExposure allInstances do: #unexpose.
-	MDDSReadingConnection allInstances do: #destroy.
+	MDDSReadingNetworkConnection allInstances do: #destroy.
 	Socket allInstances do: #destroy.
 	MDDSEntity allSubInstances do: [ :e | e domain: nil ] ]
 		on: Error

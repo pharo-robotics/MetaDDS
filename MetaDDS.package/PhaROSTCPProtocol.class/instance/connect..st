@@ -6,4 +6,4 @@ connect: aMDDSConnectionPetition
 	stream binary.
 	socket connectTo: (NetNameResolver addressFromString: aMDDSConnectionPetition ip) port: aMDDSConnectionPetition port.
 	self shakeHandsWith: socket and: stream accordingTo: aMDDSConnectionPetition.
-	^ MDDSReadingConnection protocol: self socket: socket stream: stream
+	^ MDDSReadingNetworkConnection protocol: self socket: socket stream: stream

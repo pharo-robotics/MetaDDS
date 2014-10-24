@@ -1,14 +1,7 @@
 {
 	"class" : {
-		"protocol:socket:stream:" : "SantiagoBragagnolo 10/2/2014 23:44" },
+		 },
 	"instance" : {
-		"destroy" : "SantiagoBragagnolo 10/3/2014 12:31",
-		"initialize" : "SantiagoBragagnolo 10/2/2014 15:54",
-		"isReader" : "SantiagoBragagnolo 10/7/2014 20:20",
-		"marshaller:" : "SantiagoBragagnolo 10/3/2014 15:35",
-		"messageDispatcher:" : "SantiagoBragagnolo 10/2/2014 15:28",
-		"start" : "SantiagoBragagnolo 10/20/2014 22:10",
-		"stop" : "SantiagoBragagnolo 10/20/2014 22:10",
-		"stream:" : "SantiagoBragagnolo 10/2/2014 23:44",
-		"urlrpc" : "SantiagoBragagnolo 10/17/2014 14:56",
-		"urlrpc:" : "SantiagoBragagnolo 10/17/2014 14:56" } }
+		"isReader" : "SantiagoBragagnolo 10/24/2014 16:07",
+		"marshaller:" : "SantiagoBragagnolo 10/24/2014 16:07",
+		"messageDispatcher:" : "SantiagoBragagnolo 10/24/2014 16:07" } }

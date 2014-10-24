@@ -1,0 +1,1 @@
+A MDDSPortResolver is an object that gives always a different number for ports. It should guarantee also that the port is free, but in the future

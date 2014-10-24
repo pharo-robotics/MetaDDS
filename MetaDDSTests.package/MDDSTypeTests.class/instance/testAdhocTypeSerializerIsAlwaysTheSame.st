@@ -1,5 +1,5 @@
 as yet unclassified
-testRosoutTypeSerializerIsAlwaysTheSame
+testAdhocTypeSerializerIsAlwaysTheSame
 	| a  b |
 	
 	 a := type marshaller.

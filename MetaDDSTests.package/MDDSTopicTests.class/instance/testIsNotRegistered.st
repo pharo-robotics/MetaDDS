@@ -1,5 +1,5 @@
 tests
 testIsNotRegistered
 	
-	self deny: (rosout isRegistered).
+	self deny: (adhoc isRegistered).
 	

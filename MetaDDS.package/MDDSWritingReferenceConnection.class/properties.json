@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subscription" ],
+	"name" : "MDDSWritingReferenceConnection",
+	"pools" : [
+		 ],
+	"super" : "MDDSWritingConnection",
+	"type" : "normal" }

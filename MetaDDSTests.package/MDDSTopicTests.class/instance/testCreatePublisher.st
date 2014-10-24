@@ -1,5 +1,5 @@
 tests
 testCreatePublisher
 	
-	self assert: (rosout publisher isKindOf: MDDSPublisher).
+	self assert: (adhoc publisher isKindOf: MDDSPublisher).
 	

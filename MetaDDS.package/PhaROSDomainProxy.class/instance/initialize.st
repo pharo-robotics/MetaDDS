@@ -2,5 +2,5 @@ as yet unclassified
 initialize
 	super initialize.
 	exposures := Set new.
-	lastAssignedPort := 9000 + ((Random seed: DateAndTime now asUnixTime) nextInt: 100).
+	portResolver  := MDDSPortResolver obtain.
 	registeredTopics := Set new

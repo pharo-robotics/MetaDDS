@@ -2,9 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "SantiagoBragagnolo 10/23/2014 22:59",
+		"initialize" : "SantiagoBragagnolo 10/24/2014 12:01",
 		"isRegistered:" : "SantiagoBragagnolo 10/22/2014 23:41",
-		"obtainPort" : "SantiagoBragagnolo 10/22/2014 23:42",
-		"registerType:" : "SantiagoBragagnolo 10/23/2014 22:58",
+		"notePublication:" : "SantiagoBragagnolo 10/24/2014 17:25",
+		"noteSubscriptionCreation:" : "SantiagoBragagnolo 10/24/2014 17:42",
+		"noteSubscriptionDrop:" : "SantiagoBragagnolo 10/24/2014 17:49",
+		"obtainPort" : "SantiagoBragagnolo 10/24/2014 12:01",
+		"registerTypeDefinition:" : "SantiagoBragagnolo 10/24/2014 11:02",
 		"topics" : "SantiagoBragagnolo 10/22/2014 23:40",
 		"typeDefinition:" : "SantiagoBragagnolo 10/23/2014 22:57" } }

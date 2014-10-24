@@ -1,0 +1,17 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:33",
+	"instvars" : [
+		"keepRunning",
+		"process",
+		"stream",
+		"urlrpc" ],
+	"name" : "MDDSReadingNetworkConnection",
+	"pools" : [
+		 ],
+	"super" : "MDDSReadingConnection",
+	"type" : "normal" }

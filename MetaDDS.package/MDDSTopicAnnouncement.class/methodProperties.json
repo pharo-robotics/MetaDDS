@@ -1,9 +1,11 @@
 {
 	"class" : {
-		"participant:isNotPublishingAnymoreOn:" : "SantiagoBragagnolo 10/23/2014 20:50",
+		"participant:isNotPublishingAnymoreOn:" : "SantiagoBragagnolo 10/24/2014 17:53",
 		"participant:isNotSubscribedAnymoreTo:" : "SantiagoBragagnolo 10/23/2014 20:53",
 		"participant:isNowPublishingOn:" : "SantiagoBragagnolo 10/23/2014 20:49",
 		"participant:isNowSubscribedTo:" : "SantiagoBragagnolo 10/23/2014 20:52",
+		"subscriptionCreated:for:" : "SantiagoBragagnolo 10/24/2014 17:38",
+		"subscriptionDroped:for:" : "SantiagoBragagnolo 10/24/2014 17:43",
 		"topic:" : "SantiagoBragagnolo 10/23/2014 20:59" },
 	"instance" : {
 		"topic" : "SantiagoBragagnolo 10/23/2014 20:51",

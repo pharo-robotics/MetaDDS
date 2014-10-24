@@ -1,5 +1,5 @@
 tests
 testCreateSubscriber
 	
-	self assert: (rosout subscriber isKindOf: MDDSSubscriber).
+	self assert: (adhoc subscriber isKindOf: MDDSSubscriber).
 	

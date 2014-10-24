@@ -2,6 +2,7 @@
 	"class" : {
 		"publishing:for:with:" : "SantiagoBragagnolo 10/6/2014 18:28" },
 	"instance" : {
+		"connections" : "SantiagoBragagnolo 10/24/2014 17:46",
 		"createConnectionOffer" : "SantiagoBragagnolo 10/20/2014 22:18",
 		"initialize" : "SantiagoBragagnolo 10/20/2014 22:18",
 		"isPublishing:" : "SantiagoBragagnolo 10/20/2014 22:18",

@@ -1,3 +1,3 @@
-testing
+as yet unclassified
 isDead
-	^ socket isConnected not
+	^ self subclassResponsibility 

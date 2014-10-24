@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/23/2014 23:00",
 	"instvars" : [
-		"types" ],
+		"types",
+		"portResolver" ],
 	"name" : "MDDSInternallyDefinedDomain",
 	"pools" : [
 		 ],

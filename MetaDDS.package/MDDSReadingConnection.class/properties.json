@@ -4,14 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:33",
+	"commentStamp" : "",
 	"instvars" : [
 		"typeMarshaller",
-		"messageDispatcher",
-		"keepRunning",
-		"process",
-		"stream",
-		"urlrpc" ],
+		"messageDispatcher" ],
 	"name" : "MDDSReadingConnection",
 	"pools" : [
 		 ],

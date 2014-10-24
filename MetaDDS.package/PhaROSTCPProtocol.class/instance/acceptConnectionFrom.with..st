@@ -7,4 +7,4 @@ acceptConnectionFrom: aSocketListener with: aConnectionOffer
 	stream binary.
 	self shakeHandsWith: socket and: stream accordingTo: aConnectionOffer.
 	self flag: #performance.	" this creation may be good to be done in the connection offer, to have different kind of writing connections per kind of topic it may be good. Check in the MDDSWritingConnection performance flag."
-	^ MDDSWritingConnection with: self for: socket
+	^ MDDSWritingNetworkConnection with: self for: socket
