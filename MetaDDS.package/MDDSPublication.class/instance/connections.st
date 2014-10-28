@@ -1,3 +1,3 @@
 as yet unclassified
 connections
-	^ interested
+	^ connections

@@ -1,7 +1,11 @@
 as yet unclassified
 testSubscriptionLaunchesEvent
-	| test |
-	test := false.
-	domain when: MDDSIsSubscribedAnnouncement do: [  test := true ].
+
+	domain when: MDDSIsSubscribedAnnouncement send:#setBoolean to: self.
+	
+	self resetBoolean.
+	self deny: boolean.
+	
 	subscriber subscribe: participant.
-	self assert: test.
+	
+	self assert: boolean.

@@ -1,9 +1,11 @@
 as yet unclassified
 testStopPublishingLaunchesEvent
-	| test |
-	test := false.
-	domain when: MDDSIsNotPublishingAnnouncement do: [  test := true ].
+
+	domain when: MDDSIsNotPublishingAnnouncement send: #setBoolean to: self.
+	
+	self resetBoolean.
+	self deny: boolean.
 	publisher publishing: participant.
 	publisher stopPublishingParticipant: participant.		
 
-	self assert: test.
+	self assert: boolean.

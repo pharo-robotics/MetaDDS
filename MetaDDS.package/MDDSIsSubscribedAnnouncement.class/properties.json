@@ -7,7 +7,8 @@
 	"commentStamp" : "SantiagoBragagnolo 10/23/2014 20:57",
 	"instvars" : [
 		"participant",
-		"subscriber" ],
+		"subscriber",
+		"subscription" ],
 	"name" : "MDDSIsSubscribedAnnouncement",
 	"pools" : [
 		 ],

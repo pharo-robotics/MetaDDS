@@ -4,8 +4,9 @@ publishing: aMDDSDomainParticipant
 		detect: [ :each | each isPublishing: aMDDSDomainParticipant ]
 		ifNone: [ 
 			| publication |
-			publication := MDDSPublication publishing: aMDDSDomainParticipant for: self with: topic type marshaller.
+			publication := MDDSPublication publishing: aMDDSDomainParticipant with: topic type marshaller.
+			publication connectionOffer: (MDDSConnectionOffer publisher: self participant: aMDDSDomainParticipant).
 			publication startPublishing.
 			publications add: publication.
-			domain note: (MDDSTopicAnnouncement participant: aMDDSDomainParticipant isNowPublishingOn: self).
+			domain note: (MDDSTopicAnnouncement participant: aMDDSDomainParticipant isNowPublishingOn: self through: publication).
 			publication ]

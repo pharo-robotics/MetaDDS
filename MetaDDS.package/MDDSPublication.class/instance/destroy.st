@@ -1,0 +1,3 @@
+accessing
+destroy
+	^ self stopPublishing.

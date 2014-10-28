@@ -6,5 +6,5 @@ startPublishing
 				startOn: participant ip
 				at: (participant obtainPortFor: protocol)
 				for: protocol
-				offering: self createConnectionOffer
+				offering: self connectionOffer
 				onNewClient: [ :writingConnection | self register: writingConnection ] ]

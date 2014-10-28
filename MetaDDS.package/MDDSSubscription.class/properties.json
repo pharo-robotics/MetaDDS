@@ -10,7 +10,8 @@
 		"onRead",
 		"onFailure",
 		"onStop",
-		"participant" ],
+		"participant",
+		"connections" ],
 	"name" : "MDDSSubscription",
 	"pools" : [
 		 ],

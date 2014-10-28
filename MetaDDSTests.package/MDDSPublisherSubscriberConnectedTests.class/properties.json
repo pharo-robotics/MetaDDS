@@ -1,0 +1,19 @@
+{
+	"category" : "MetaDDSTests-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"publisher",
+		"subscriber",
+		"topic",
+		"participant",
+		"publication",
+		"subscription" ],
+	"name" : "MDDSPublisherSubscriberConnectedTests",
+	"pools" : [
+		 ],
+	"super" : "MDDSDomainBasedTests",
+	"type" : "normal" }

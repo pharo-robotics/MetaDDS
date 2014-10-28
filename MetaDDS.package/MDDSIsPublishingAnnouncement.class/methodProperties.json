@@ -1,8 +1,10 @@
 {
 	"class" : {
-		"participant:publisher:" : "SantiagoBragagnolo 10/23/2014 20:58" },
+		"participant:publisher:publication:" : "SantiagoBragagnolo 10/28/2014 15:14" },
 	"instance" : {
 		"participant" : "SantiagoBragagnolo 10/23/2014 20:51",
 		"participant:" : "SantiagoBragagnolo 10/23/2014 20:51",
+		"publication" : "SantiagoBragagnolo 10/28/2014 15:13",
+		"publication:" : "SantiagoBragagnolo 10/28/2014 15:13",
 		"publisher" : "SantiagoBragagnolo 10/23/2014 20:51",
 		"publisher:" : "SantiagoBragagnolo 10/23/2014 20:51" } }

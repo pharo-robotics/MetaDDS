@@ -1,3 +1,3 @@
 testing
 isDead
-	^ socket isConnected not
+	^ socket isNil or: [ socket isConnected not ]

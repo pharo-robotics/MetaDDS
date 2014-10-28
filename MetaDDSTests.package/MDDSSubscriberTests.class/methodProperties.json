@@ -9,8 +9,8 @@
 		"testSubscriptionCreatedOnReadConstructor" : "SantiagoBragagnolo 10/23/2014 23:36",
 		"testSubscriptionCreatedOnReadOnFailureConstructor" : "SantiagoBragagnolo 10/23/2014 23:36",
 		"testSubscriptionCreatedOnReadOnFailureOnStopConstructor" : "SantiagoBragagnolo 10/23/2014 23:36",
-		"testSubscriptionLaunchesEvent" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionLaunchesEvent" : "SantiagoBragagnolo 10/27/2014 12:08",
 		"testSubscriptionSubscribed" : "SantiagoBragagnolo 10/23/2014 23:36",
 		"testSubscriptionUnSubscribed" : "SantiagoBragagnolo 10/23/2014 23:36",
-		"testSubscriptionUnSubscribedLaunchesEvent" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionUnSubscribedLaunchesEvent" : "SantiagoBragagnolo 10/27/2014 12:09",
 		"testTopicIsRegisteredAfterSubscription" : "SantiagoBragagnolo 10/23/2014 23:36" } }

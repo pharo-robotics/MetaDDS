@@ -1,7 +1,10 @@
 {
 	"class" : {
+		"linkedTo:" : "SantiagoBragagnolo 10/27/2014 13:17",
 		"subscribing:" : "SantiagoBragagnolo 10/24/2014 17:25" },
 	"instance" : {
-		"isDead" : "SantiagoBragagnolo 10/24/2014 17:24",
-		"subscription:" : "SantiagoBragagnolo 10/24/2014 17:25",
-		"write:with:" : "SantiagoBragagnolo 10/24/2014 17:24" } }
+		"isDead" : "SantiagoBragagnolo 10/27/2014 22:48",
+		"link:" : "SantiagoBragagnolo 10/27/2014 13:17",
+		"participant" : "SantiagoBragagnolo 10/27/2014 22:57",
+		"participant:" : "SantiagoBragagnolo 10/27/2014 22:57",
+		"write:with:" : "SantiagoBragagnolo 10/27/2014 13:18" } }

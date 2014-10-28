@@ -7,7 +7,7 @@ run
 			connection := nil.
 			[ listener isValid and: [ connection isNil ] ]
 				whileTrue: [ connection := protocol acceptConnectionFrom: listener with: self connectionOffer ].
-			onNewClient value: connection ]
+			connection ifNotNil: [ onNewClient value: connection ] ]
 				on: Error
 				do: [ :err | 
 					self handleError: err.

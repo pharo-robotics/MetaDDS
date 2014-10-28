@@ -4,4 +4,6 @@
 	"instance" : {
 		"createRosDomain" : "SantiagoBragagnolo 10/22/2014 22:22",
 		"createRosMirror" : "SantiagoBragagnolo 10/22/2014 22:22",
+		"resetBoolean" : "SantiagoBragagnolo 10/27/2014 12:10",
+		"setBoolean" : "SantiagoBragagnolo 10/27/2014 12:10",
 		"tearDown" : "SantiagoBragagnolo 10/24/2014 16:04" } }

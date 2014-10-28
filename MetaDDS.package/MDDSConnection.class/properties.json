@@ -6,8 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"protocol",
-		"socket" ],
+		"protocol" ],
 	"name" : "MDDSConnection",
 	"pools" : [
 		 ],

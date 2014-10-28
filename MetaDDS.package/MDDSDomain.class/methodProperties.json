@@ -3,9 +3,10 @@
 		 },
 	"instance" : {
 		"addProtocol:" : "SantiagoBragagnolo 10/22/2014 21:52",
+		"createSubscriptionFor:" : "SantiagoBragagnolo 10/27/2014 20:11",
 		"createTopicNamed:type:" : "SantiagoBragagnolo 10/22/2014 21:52",
 		"createTypeNamed:definedBy:" : "SantiagoBragagnolo 10/24/2014 11:32",
-		"initialize" : "SantiagoBragagnolo 10/24/2014 17:58",
+		"initialize" : "SantiagoBragagnolo 10/27/2014 22:59",
 		"note:" : "SantiagoBragagnolo 10/24/2014 17:56",
 		"protocols" : "SantiagoBragagnolo 10/22/2014 21:51",
 		"when:do:" : "SantiagoBragagnolo 10/24/2014 17:16",

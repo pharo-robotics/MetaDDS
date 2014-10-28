@@ -1,3 +1,3 @@
 accessing
 register: aWritingConnection
-	interested add: aWritingConnection
+	connections add: aWritingConnection

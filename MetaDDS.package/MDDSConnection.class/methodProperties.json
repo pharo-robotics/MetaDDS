@@ -2,10 +2,10 @@
 	"class" : {
 		 },
 	"instance" : {
+		"destroy" : "SantiagoBragagnolo 10/27/2014 12:49",
 		"id" : "SantiagoBragagnolo 10/7/2014 20:37",
 		"isConnected" : "SantiagoBragagnolo 10/7/2014 20:35",
 		"isReader" : "SantiagoBragagnolo 10/7/2014 20:33",
+		"noteIsRegistered" : "SantiagoBragagnolo 10/27/2014 22:19",
 		"protocol" : "SantiagoBragagnolo 10/7/2014 20:36",
-		"protocol:" : "SantiagoBragagnolo 10/7/2014 20:36",
-		"socket" : "SantiagoBragagnolo 10/7/2014 20:36",
-		"socket:" : "SantiagoBragagnolo 10/7/2014 20:36" } }
+		"protocol:" : "SantiagoBragagnolo 10/7/2014 20:36" } }

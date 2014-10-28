@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"boolean" ],
 	"name" : "PhaROSBasedTests",
 	"pools" : [
 		 ],

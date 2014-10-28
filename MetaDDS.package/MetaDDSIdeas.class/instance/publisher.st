@@ -35,9 +35,6 @@ XMLRPCService stopAll.
 TKTRunner allSubInstances do: #cancel.
 
 
-
-
-
 MDDSPublication allInstances
  do:#stopPublishing.
 MDDSPublicationServer allInstances do:#stop.

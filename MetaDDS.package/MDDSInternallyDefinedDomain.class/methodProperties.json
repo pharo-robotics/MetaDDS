@@ -4,9 +4,10 @@
 	"instance" : {
 		"initialize" : "SantiagoBragagnolo 10/24/2014 12:01",
 		"isRegistered:" : "SantiagoBragagnolo 10/22/2014 23:41",
-		"notePublication:" : "SantiagoBragagnolo 10/24/2014 17:25",
-		"noteSubscriptionCreation:" : "SantiagoBragagnolo 10/24/2014 17:42",
-		"noteSubscriptionDrop:" : "SantiagoBragagnolo 10/24/2014 17:49",
+		"notePublication:" : "SantiagoBragagnolo 10/28/2014 17:21",
+		"notePublicationFinished:" : "SantiagoBragagnolo 10/28/2014 17:28",
+		"noteSubscription:" : "SantiagoBragagnolo 10/28/2014 17:20",
+		"noteSubscriptionFinished:" : "SantiagoBragagnolo 10/28/2014 17:19",
 		"obtainPort" : "SantiagoBragagnolo 10/24/2014 12:01",
 		"registerTypeDefinition:" : "SantiagoBragagnolo 10/24/2014 11:02",
 		"topics" : "SantiagoBragagnolo 10/22/2014 23:40",

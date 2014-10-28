@@ -9,7 +9,8 @@
 		"keepRunning",
 		"process",
 		"stream",
-		"urlrpc" ],
+		"urlrpc",
+		"socket" ],
 	"name" : "MDDSReadingNetworkConnection",
 	"pools" : [
 		 ],

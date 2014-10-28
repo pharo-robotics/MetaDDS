@@ -2,5 +2,8 @@
 	"class" : {
 		"with:for:" : "SantiagoBragagnolo 10/6/2014 17:31" },
 	"instance" : {
-		"isDead" : "SantiagoBragagnolo 10/20/2014 22:11",
+		"destroy" : "SantiagoBragagnolo 10/27/2014 12:49",
+		"isDead" : "SantiagoBragagnolo 10/27/2014 12:49",
+		"socket" : "SantiagoBragagnolo 10/27/2014 12:48",
+		"socket:" : "SantiagoBragagnolo 10/27/2014 12:48",
 		"write:with:" : "SantiagoBragagnolo 10/20/2014 22:11" } }

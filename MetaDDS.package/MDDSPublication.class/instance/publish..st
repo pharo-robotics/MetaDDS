@@ -1,6 +1,6 @@
 accessing
 publish: aBlock
-	interested size > 0
+	connections size > 0
 		ifTrue: [ 
 			| value |
 			value := self marshaller newInstance.

@@ -1,3 +1,4 @@
 as yet unclassified
 notePublicationFinished: aMDDSIsNotPublishingAnnouncement
-	mirror notePublicationFinished: aMDDSIsNotPublishingAnnouncement
+	mirror notePublicationFinished: aMDDSIsNotPublishingAnnouncement.
+	(aMDDSIsNotPublishingAnnouncement publication) destroy.

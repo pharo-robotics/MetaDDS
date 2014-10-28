@@ -1,8 +1,8 @@
 accessing
 stopPublishing
+	connections do: #destroy.
+	connections removeAll.
 	servers do: #stop.
 	servers removeAll.
-	publisher removePublication: self.
-	publisher := nil.
-	participant := nil.
-	marshaller := nil
+	marshaller := nil.
+	connectionOffer := nil

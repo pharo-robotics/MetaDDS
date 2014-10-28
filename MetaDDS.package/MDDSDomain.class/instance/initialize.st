@@ -9,5 +9,3 @@ initialize
 	self when: MDDSIsNotPublishingAnnouncement send: #notePublicationFinished: to: self. 
 	self when: MDDSIsSubscribedAnnouncement send: #noteSubscription: to: self. 
 	self when: MDDSIsNotSubscribedAnnouncement send: #noteSubscriptionFinished: to: self. 
-	self when: MDDSSubscriptionCreatedAnnouncement send: #noteSubscriptionCreation: to: self. 
-	self when: MDDSSubscriptionDropedAnnouncement send: #noteSubscriptionDrop: to: self. 

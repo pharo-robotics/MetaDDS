@@ -1,3 +1,3 @@
 as yet unclassified
 subscribe: aParticipant
-	^ self register: (MDDSSubscription defaultForParticipant: aParticipant)
+	^ self registerIfNeeded: aParticipant creatingSubscriptionWith: [ domain createSubscriptionFor: aParticipant ]

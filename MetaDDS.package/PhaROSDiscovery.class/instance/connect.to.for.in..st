@@ -11,6 +11,7 @@ connect: anUrl to: aSubscriber for: aParticipantMirror in: aDomain
 	connection := protocol connect: petition.
 	connection urlrpc: anUrl.
 	connection marshaller: aSubscriber topic type marshaller.
-	aSubscriber registerConnection: connection ]
+	
+	(aSubscriber subscriptionFor:aParticipantMirror participant )registerConnection: connection ]
 		on: PhaROSError
 		do: [ self increaseBlacklistCounterFor: anUrl ]

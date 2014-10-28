@@ -7,10 +7,10 @@
 	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:32",
 	"instvars" : [
 		"participant",
-		"publisher",
 		"servers",
-		"interested",
-		"marshaller" ],
+		"marshaller",
+		"connections",
+		"connectionOffer" ],
 	"name" : "MDDSPublication",
 	"pools" : [
 		 ],

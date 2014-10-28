@@ -1,3 +1,8 @@
 subscription
-forParticipant: participant onRead: aBlockClosure
-	^ self register: (MDDSSubscription forParticipant: participant onRead: aBlockClosure)
+forParticipant: aParticipant onRead: onRead
+	^ self
+		registerIfNeeded: aParticipant
+		creatingSubscriptionWith: [ 
+			(domain createSubscriptionFor: aParticipant)
+				onRead: onRead;
+				yourself ]

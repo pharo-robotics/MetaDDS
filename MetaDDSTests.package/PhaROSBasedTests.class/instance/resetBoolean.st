@@ -1,0 +1,3 @@
+setup
+resetBoolean
+	boolean := false.

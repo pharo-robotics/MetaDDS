@@ -1,9 +1,9 @@
 as yet unclassified
 testPublishingLaunchesEvent
-	| test |
-	test := false.
-	domain when: MDDSIsPublishingAnnouncement do: [  test := true ].
+
+	domain when: MDDSIsPublishingAnnouncement send:#setBoolean to: self.
+	self resetBoolean.
+	self deny: boolean.
 	publisher publishing: participant.
-	
-	self assert: test.
+	self assert: boolean.
 	
