@@ -1,0 +1,15 @@
+{
+	"category" : "MetaDDS-Reflection",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"domain",
+		"parameters" ],
+	"name" : "MDDSDomainDescriptorServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

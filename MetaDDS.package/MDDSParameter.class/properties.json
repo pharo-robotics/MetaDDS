@@ -4,12 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "SantiagoBragagnolo 9/15/2014 19:33",
+	"commentStamp" : "",
 	"instvars" : [
-		"type",
-		"subscribed",
-		"publishers" ],
-	"name" : "MDDSTopicDescriptor",
+		"value" ],
+	"name" : "MDDSParameter",
 	"pools" : [
 		 ],
 	"super" : "MDDSEntity",
