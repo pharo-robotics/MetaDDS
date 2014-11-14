@@ -1,3 +1,0 @@
-setup
-resetBoolean
-	boolean := false.

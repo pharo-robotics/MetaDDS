@@ -1,3 +1,3 @@
 as yet unclassified
 testInvalidTopicTypeHeaderIsInvalid
-	self deny: (petition validateHeader: self headerWrongTopicType)
+	self deny: (petition validateAndProcessHeader: self headerWrongTopicType)

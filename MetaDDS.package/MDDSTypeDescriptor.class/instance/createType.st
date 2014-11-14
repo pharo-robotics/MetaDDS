@@ -1,3 +1,5 @@
 as yet unclassified
 createType
-	^ domain createTypeNamed: name definedBy: self definition
+	^ self isUnknown
+		ifTrue: [ domain createTypePlaceHolder ]
+		ifFalse: [ domain createTypeNamed: name definedBy: self definition ]

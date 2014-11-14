@@ -4,10 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SantiagoBragagnolo 11/12/2014 18:55",
 	"instvars" : [
 		"topics",
-		"participants" ],
+		"participants",
+		"announcer" ],
 	"name" : "MDDSDomainDescriptor",
 	"pools" : [
 		 ],

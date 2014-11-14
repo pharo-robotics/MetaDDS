@@ -1,3 +1,0 @@
-constructor
-commandBased
-	^ PhaROSCommandTypeLoader new.

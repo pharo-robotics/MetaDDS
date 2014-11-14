@@ -1,6 +1,9 @@
 {
 	"class" : {
-		 },
+		"isUnknown:" : "SantiagoBragagnolo 11/14/2014 14:53",
+		"unknownTypeFor:" : "SantiagoBragagnolo 11/14/2014 14:51",
+		"unknownWildcard" : "SantiagoBragagnolo 11/14/2014 14:52" },
 	"instance" : {
-		"createType" : "SantiagoBragagnolo 10/20/2014 22:35",
-		"definition" : "SantiagoBragagnolo 10/20/2014 22:35" } }
+		"createType" : "SantiagoBragagnolo 11/14/2014 14:57",
+		"definition" : "SantiagoBragagnolo 10/20/2014 22:35",
+		"isUnknown" : "SantiagoBragagnolo 11/14/2014 14:53" } }

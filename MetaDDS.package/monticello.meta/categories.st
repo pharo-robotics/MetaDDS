@@ -1,9 +1,9 @@
 SystemOrganization addCategory: #MetaDDS!
 SystemOrganization addCategory: 'MetaDDS-Encoding'!
 SystemOrganization addCategory: 'MetaDDS-Kernel'!
-SystemOrganization addCategory: 'MetaDDS-PhaROS'!
+SystemOrganization addCategory: 'MetaDDS-Parameters'!
 SystemOrganization addCategory: 'MetaDDS-Proxy'!
 SystemOrganization addCategory: 'MetaDDS-Reflection'!
-SystemOrganization addCategory: 'MetaDDS-Reflection-Type'!
-SystemOrganization addCategory: 'MetaDDS-Types'!
+SystemOrganization addCategory: 'MetaDDS-TypesDefinition'!
+SystemOrganization addCategory: 'MetaDDS-TypesMarshalling'!
 SystemOrganization addCategory: 'MetaDDS-Util'!

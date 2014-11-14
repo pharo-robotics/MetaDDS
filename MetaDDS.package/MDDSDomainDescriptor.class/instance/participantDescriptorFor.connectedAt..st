@@ -1,8 +1,8 @@
 as yet unclassified
-participantDescriptorFor: aCallerId connectedAt: anUri
-	^ participants detect: [ : p | p name = aCallerId  ] ifNone: [ 
+participantDescriptorFor: aName connectedAt: anUri
+	^ participants detect: [ : p | p name = aName  ] ifNone: [ 
 		| participant |
-		participant := MDDSParticipantDescriptor domain: self name: aCallerId uri: anUri.
+		participant := self constructParticipantDescriptorNamed: aName connectedAt: anUri.
 		participants add: participant.
 		participant.
 	 ]

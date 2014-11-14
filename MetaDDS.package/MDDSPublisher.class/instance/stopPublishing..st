@@ -1,4 +1,4 @@
 as yet unclassified
 stopPublishing: aPublication
-	aPublication stopPublishing.
+	aPublication noteIsNotRegisteredAnymore.
 	self removePublication: aPublication

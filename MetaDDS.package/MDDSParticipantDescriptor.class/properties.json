@@ -6,7 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"uri" ],
+		"uri",
+		"parameters",
+		"participant" ],
 	"name" : "MDDSParticipantDescriptor",
 	"pools" : [
 		 ],

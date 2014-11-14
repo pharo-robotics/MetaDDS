@@ -1,15 +1,16 @@
 {
-	"category" : "MetaDDS-Reflection",
+	"category" : "MetaDDS-Parameters",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "SantiagoBragagnolo 11/12/2014 18:51",
 	"instvars" : [
-		"name",
-		"content" ],
+		"parent",
+		"namespaces",
+		"parameters" ],
 	"name" : "MDDSNamespace",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "MDDSEntity",
 	"type" : "normal" }

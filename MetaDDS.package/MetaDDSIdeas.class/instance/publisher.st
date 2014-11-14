@@ -13,7 +13,7 @@ type :=  MDDSTypeDescriptor domain: domain name: 'std_msgs/Int16'.
 
 adhoc := (MDDSTopicDescriptor domain: domain name: '/adhoc'  type: type) createTopic.
 
-domain addProtocol: (PhaROSTCPProtocol encoding: MDDSEncoder  decoding: MDDSDecoder).
+domain addProtocol: (DDSTCPProtocol encoding: MDDSEncoder  decoding: MDDSDecoder).
 
 
 subscription := adhoc subscriber forParticipant: participant onRead: [ 
@@ -22,10 +22,10 @@ subscription := adhoc subscriber forParticipant: participant onRead: [
  ].
 
 
-in := PhaROSParticipantProxy on: 'http://127.0.0.1:10000'. 
+in := DDSParticipantProxy on: 'http://127.0.0.1:10000'. 
 
 
-in nodeproxy requestFor: ' name 'theTopic: '/adhoc' withProtocol: { 'TCPROS'}. 
+in proxy requestFor: ' name 'theTopic: '/adhoc' withProtocol: { 'TCPROS'}. 
 
 
 type := subscription := mirror := domain := participant := adhoc := nil.
@@ -37,8 +37,8 @@ TKTRunner allSubInstances do: #cancel.
 
 MDDSPublication allInstances
  do:#stopPublishing.
-MDDSPublicationServer allInstances do:#stop.
-PhaROSParticipantExposure allInstances do:#unexpose.
+DDSPublicationServer allInstances do:#stop.
+DDSParticipantServer allInstances do:#unserve.
 Socket allInstances do: #destroy.
 
 MDDSEntity allSubInstances

@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "SantiagoBragagnolo 9/19/2014 20:28",
-		"testRosoutDTOClassesGenerated" : "SantiagoBragagnolo 9/19/2014 20:32",
-		"testRosoutTypeSerializer" : "SantiagoBragagnolo 10/3/2014 15:48",
-		"testRosoutTypeSerializerIsAlwaysTheSame" : "SantiagoBragagnolo 10/3/2014 15:49" } }

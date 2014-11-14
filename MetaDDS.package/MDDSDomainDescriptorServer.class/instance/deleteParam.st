@@ -1,3 +1,0 @@
-unimplemented
-deleteParam
-	self unimplemented

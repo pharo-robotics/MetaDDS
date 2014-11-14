@@ -2,4 +2,5 @@ as yet unclassified
 initialize
 	super initialize.
 	topics := Set new.
-	participants := Set new
+	participants := Set new.
+	announcer := Announcer new.

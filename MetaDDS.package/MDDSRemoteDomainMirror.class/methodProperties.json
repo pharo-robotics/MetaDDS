@@ -3,7 +3,9 @@
 		"on:" : "SantiagoBragagnolo 9/12/2014 19:27" },
 	"instance" : {
 		"asString" : "SantiagoBragagnolo 10/20/2014 22:20",
+		"createPublicationFor:with:" : "SantiagoBragagnolo 11/13/2014 20:03",
 		"exposer:" : "SantiagoBragagnolo 9/12/2014 00:08",
+		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 11/14/2014 14:36",
 		"notePublication:" : "SantiagoBragagnolo 10/23/2014 21:15",
 		"notePublicationFinished:" : "SantiagoBragagnolo 10/23/2014 21:16",
 		"noteSubscription:" : "SantiagoBragagnolo 10/23/2014 21:17",

@@ -1,3 +1,3 @@
 as yet unclassified
 testInvalidTopicHeaderIsInvalid
-	self deny: (offer validateHeader: self headerWrongTopic)
+	self deny: (offer validateAndProcessHeader: self headerWrongTopic)

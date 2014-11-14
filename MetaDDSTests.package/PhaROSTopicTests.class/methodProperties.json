@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "SantiagoBragagnolo 9/15/2014 19:40",
-		"testCreatePublisher" : "SantiagoBragagnolo 9/15/2014 19:39",
-		"testCreateSubscriber" : "SantiagoBragagnolo 9/15/2014 19:39",
-		"testIsNotRegistered" : "SantiagoBragagnolo 9/15/2014 19:39",
-		"testTypeIsAType" : "SantiagoBragagnolo 10/18/2014 16:09" } }

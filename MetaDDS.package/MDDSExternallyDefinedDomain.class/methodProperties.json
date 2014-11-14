@@ -2,7 +2,9 @@
 	"class" : {
 		"on:" : "SantiagoBragagnolo 10/22/2014 22:18" },
 	"instance" : {
+		"createPublicationFor:with:" : "SantiagoBragagnolo 11/13/2014 20:02",
 		"isRegistered:" : "SantiagoBragagnolo 10/22/2014 21:53",
+		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 11/14/2014 14:36",
 		"mirror" : "SantiagoBragagnolo 9/11/2014 00:27",
 		"mirror:" : "SantiagoBragagnolo 10/22/2014 22:17",
 		"notePublication:" : "SantiagoBragagnolo 10/23/2014 21:12",

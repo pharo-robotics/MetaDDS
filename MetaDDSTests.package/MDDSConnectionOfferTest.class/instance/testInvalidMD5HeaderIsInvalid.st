@@ -1,3 +1,3 @@
 as yet unclassified
 testInvalidMD5HeaderIsInvalid
-	self deny: (offer validateHeader: self headerWrongSum)
+	self deny: (offer validateAndProcessHeader: self headerWrongSum)

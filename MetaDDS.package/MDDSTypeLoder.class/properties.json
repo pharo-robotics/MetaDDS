@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"registry" ],
+	"name" : "MDDSTypeLoder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

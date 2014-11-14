@@ -1,3 +1,4 @@
 unimplemented
 setParam: aCallerId named: aParameterName with: anObject
-self unimplemented
+	(parameters lookupOrCreateParameterInPath: (MDDSParameterPath fromRos: aCallerId and: aParameterName)) value: anObject.
+	^ true

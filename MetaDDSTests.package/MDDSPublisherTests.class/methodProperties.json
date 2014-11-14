@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 10/24/2014 11:54",
+		"setUp" : "SantiagoBragagnolo 11/13/2014 22:51",
 		"testJustOneInstance" : "SantiagoBragagnolo 10/23/2014 23:36",
 		"testPublishingCreated" : "SantiagoBragagnolo 10/23/2014 23:36",
 		"testPublishingCreatedIsAlwaysTheSame" : "SantiagoBragagnolo 10/23/2014 23:36",

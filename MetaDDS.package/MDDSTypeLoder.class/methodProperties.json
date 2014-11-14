@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"initialize" : "SantiagoBragagnolo 11/13/2014 22:20",
+		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 11/14/2014 14:36",
+		"registerTypeDefinition:" : "SantiagoBragagnolo 11/13/2014 22:33",
+		"typeDefinition:" : "SantiagoBragagnolo 11/13/2014 22:24",
+		"typeDefinition:ifAbsent:" : "SantiagoBragagnolo 11/13/2014 22:21" } }

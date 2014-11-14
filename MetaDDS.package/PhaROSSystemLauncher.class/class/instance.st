@@ -1,5 +1,0 @@
-as yet unclassified
-instance
-	^ instance ifNil: [
-		instance := super new.	
-	]

@@ -4,5 +4,5 @@ setUp
 	participant := self participant.
 	topic := self adhoc.
 	subscriber := topic subscriber.
-	domain addProtocol: PhaROSTCPProtocol new. 
+	domain addProtocol: DDSTCPProtocol new. 
 	

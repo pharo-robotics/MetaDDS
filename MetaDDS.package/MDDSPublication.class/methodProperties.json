@@ -1,20 +1,17 @@
 {
 	"class" : {
-		"publishing:with:" : "SantiagoBragagnolo 10/28/2014 16:09" },
+		"publishing:with:" : "SantiagoBragagnolo 11/13/2014 23:22" },
 	"instance" : {
-		"connectionOffer" : "SantiagoBragagnolo 10/28/2014 15:56",
-		"connectionOffer:" : "SantiagoBragagnolo 10/28/2014 15:56",
 		"connections" : "SantiagoBragagnolo 10/27/2014 12:47",
-		"destroy" : "SantiagoBragagnolo 10/28/2014 00:24",
+		"destroy" : "SantiagoBragagnolo 11/13/2014 20:55",
 		"initialize" : "SantiagoBragagnolo 10/27/2014 12:47",
 		"isPublishing:" : "SantiagoBragagnolo 10/20/2014 22:18",
 		"marshaller" : "SantiagoBragagnolo 10/6/2014 18:21",
 		"marshaller:" : "SantiagoBragagnolo 10/6/2014 18:21",
+		"noteIsNotRegisteredAnymore" : "SantiagoBragagnolo 11/13/2014 23:28",
+		"noteIsRegisteredIn:" : "SantiagoBragagnolo 11/13/2014 21:08",
 		"participant" : "SantiagoBragagnolo 10/13/2014 15:54",
 		"participant:" : "SantiagoBragagnolo 10/20/2014 22:18",
-		"publicationServers" : "SantiagoBragagnolo 10/13/2014 15:42",
 		"publish:" : "SantiagoBragagnolo 10/27/2014 12:46",
 		"publishValue:" : "SantiagoBragagnolo 10/27/2014 13:03",
-		"register:" : "SantiagoBragagnolo 10/27/2014 23:32",
-		"startPublishing" : "SantiagoBragagnolo 10/28/2014 16:25",
-		"stopPublishing" : "SantiagoBragagnolo 10/28/2014 17:28" } }
+		"register:" : "SantiagoBragagnolo 10/27/2014 23:32" } }

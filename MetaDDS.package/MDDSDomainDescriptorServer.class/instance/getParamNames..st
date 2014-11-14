@@ -1,3 +1,3 @@
 unimplemented
 getParamNames: aCallerId
-	^ parameters collect: #name
+	^ (parameters lookupParameterInPath: (MDDSParameterPath fromRos: aCallerId )) names asArray

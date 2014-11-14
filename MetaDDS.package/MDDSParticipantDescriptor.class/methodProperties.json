@@ -2,5 +2,10 @@
 	"class" : {
 		"domain:name:uri:" : "SantiagoBragagnolo 10/29/2014 19:02" },
 	"instance" : {
+		"initialize" : "SantiagoBragagnolo 11/12/2014 22:59",
+		"isSubscribedTo:" : "SantiagoBragagnolo 11/12/2014 22:59",
+		"noteParameterChanged:" : "SantiagoBragagnolo 11/13/2014 10:00",
+		"participant" : "SantiagoBragagnolo 11/13/2014 10:01",
+		"subscribe:" : "SantiagoBragagnolo 11/12/2014 22:59",
 		"uri" : "SantiagoBragagnolo 10/29/2014 19:03",
 		"uri:" : "SantiagoBragagnolo 10/29/2014 19:03" } }

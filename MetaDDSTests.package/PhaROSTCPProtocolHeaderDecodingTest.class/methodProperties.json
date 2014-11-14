@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"messageByteArray" : "SantiagoBragagnolo 10/1/2014 00:26",
-		"messageHexString" : "SantiagoBragagnolo 10/1/2014 00:26",
-		"setUp" : "SantiagoBragagnolo 10/1/2014 14:46",
-		"testHeaderDecoding" : "SantiagoBragagnolo 10/3/2014 15:38" } }

@@ -1,3 +1,3 @@
 accessing
 destroy
-	^ self stopPublishing.
+	

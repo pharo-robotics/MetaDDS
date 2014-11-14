@@ -2,13 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "SantiagoBragagnolo 10/24/2014 12:01",
+		"createPublicationFor:with:" : "SantiagoBragagnolo 11/13/2014 20:02",
+		"initialize" : "SantiagoBragagnolo 11/13/2014 22:32",
 		"isRegistered:" : "SantiagoBragagnolo 10/22/2014 23:41",
+		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 11/14/2014 14:36",
 		"notePublication:" : "SantiagoBragagnolo 10/28/2014 17:21",
 		"notePublicationFinished:" : "SantiagoBragagnolo 10/28/2014 17:28",
 		"noteSubscription:" : "SantiagoBragagnolo 10/28/2014 17:20",
 		"noteSubscriptionFinished:" : "SantiagoBragagnolo 10/28/2014 17:19",
 		"obtainPort" : "SantiagoBragagnolo 10/24/2014 12:01",
-		"registerTypeDefinition:" : "SantiagoBragagnolo 10/24/2014 11:02",
+		"registerTypeDefinition:" : "SantiagoBragagnolo 11/13/2014 22:33",
 		"topics" : "SantiagoBragagnolo 10/22/2014 23:40",
-		"typeDefinition:" : "SantiagoBragagnolo 10/23/2014 22:57" } }
+		"typeDefinition:" : "SantiagoBragagnolo 11/13/2014 22:33" } }
