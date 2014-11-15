@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfMetaDDS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfMetaDDS",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
