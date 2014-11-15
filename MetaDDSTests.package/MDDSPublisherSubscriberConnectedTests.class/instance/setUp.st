@@ -5,5 +5,5 @@ setUp
 	topic := self adhoc.
 	publisher := topic publisher.
 	subscriber := topic subscriber.
-	domain addProtocol: DDSTCPProtocol new. 
+	domain addProtocol: MDDSProtocol new. 
 	
