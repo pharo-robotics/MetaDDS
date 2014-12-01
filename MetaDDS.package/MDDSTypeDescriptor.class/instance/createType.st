@@ -1,5 +1,5 @@
 as yet unclassified
 createType
-	^ self isUnknown
-		ifTrue: [ domain createTypePlaceHolder ]
-		ifFalse: [ domain createTypeNamed: name definedBy: self definition ]
+	^ (self isUnknown or: [ self isUndefined ])
+		ifTrue: [ domain createTypePlaceHolder: name asString ]
+		ifFalse: [ domain createTypeNamed: name asString definedBy: self definition ]

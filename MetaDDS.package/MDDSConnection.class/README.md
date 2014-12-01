@@ -1,0 +1,1 @@
+A MDDSConnection is the reification of a connection in between publisher and subscriber

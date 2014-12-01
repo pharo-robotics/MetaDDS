@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 createPublicationFor: aMDDSDomainParticipant with: aType
 	^ self subclassResponsibility

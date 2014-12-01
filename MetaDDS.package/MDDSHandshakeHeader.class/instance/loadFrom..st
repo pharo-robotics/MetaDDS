@@ -6,4 +6,4 @@ loadFrom: aConnectionPetition
 		topic: aConnectionPetition topic name;
 		type: aConnectionPetition topic type name;
 		md5sum: aConnectionPetition topic type md5sum;
-		message_definition: 'aConnectionPetition type definition'
+		message_definition: aConnectionPetition topic type plainDefinition

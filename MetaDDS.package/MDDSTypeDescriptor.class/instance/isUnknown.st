@@ -1,3 +1,3 @@
 as yet unclassified
 isUnknown
-	^ self class isUnknown: self.
+	^ self class isUnknown: self

@@ -1,3 +1,0 @@
-unimplemented
-getSystemState: aCallerId
-	self unimplemented

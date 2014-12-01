@@ -1,3 +1,3 @@
 constructor
-domain: aDomainMirror name: aName type: aTypeName 
-	^ self new name: aName; type: aTypeName;  domain: aDomainMirror ; yourself.
+domain: aDomain name: aName type: aTypeName 
+	^ self new name: aName; type: aTypeName;  domain: aDomain ; yourself.

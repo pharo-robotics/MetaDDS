@@ -1,3 +1,3 @@
-as yet unclassified
+adding
 addProtocol: aProtocolImplementation
 	protocols add: aProtocolImplementation

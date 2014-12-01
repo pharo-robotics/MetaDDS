@@ -1,7 +1,7 @@
 as yet unclassified
 removePublication: aPublication
 	| announcement |
-	publications remove: aPublication.
+	publications remove: aPublication ifAbsent: [  ^ self  ] .
 	announcement := MDDSTopicAnnouncement
 		participant: aPublication participant
 		isNotPublishingAnymoreOn: self

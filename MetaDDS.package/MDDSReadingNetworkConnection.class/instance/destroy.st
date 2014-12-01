@@ -1,5 +1,6 @@
 accessing
 destroy
+	self stop.
 	messageDispatcher := nil.
 	socket close.
 	socket := nil.

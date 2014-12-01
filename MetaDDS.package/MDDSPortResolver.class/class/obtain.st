@@ -1,3 +1,3 @@
 as yet unclassified
 obtain	
-	^ self new 
+	^ resolver ifNil: [ resolver := self new ].

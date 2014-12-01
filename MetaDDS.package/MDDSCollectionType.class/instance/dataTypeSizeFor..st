@@ -3,7 +3,7 @@ dataTypeSizeFor: aValue
 self flag: #cambiarEstooo. " "
 
 	(self isAPossibleValue: aValue ) ifFalse: [
-		PhaROSUnexpextedValue signal: 'Unexpected value'.
+		MDDSError signal: 'Unexpected value'.
 	].
 	
 	^(aValue inject: 0 into:[

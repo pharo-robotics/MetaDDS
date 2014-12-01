@@ -10,5 +10,5 @@
 	"name" : "MDDSTopicAnnouncement",
 	"pools" : [
 		 ],
-	"super" : "Announcement",
+	"super" : "MDDSAnnouncement",
 	"type" : "normal" }

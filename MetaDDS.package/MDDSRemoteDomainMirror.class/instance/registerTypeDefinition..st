@@ -1,0 +1,3 @@
+abstract
+registerTypeDefinition: aMDDSTypeDefinition
+	^ proxy registerTypeDefinition: aMDDSTypeDefinition

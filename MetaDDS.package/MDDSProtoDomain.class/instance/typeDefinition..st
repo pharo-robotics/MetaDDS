@@ -1,3 +1,3 @@
 abstract
-typeDefinition: aString
-	self subclassResponsibility
+typeDefinition: aTypeName
+	^ self typeDefinition: aTypeName ifAbsent: [  self error: ' There is no type named ' , aTypeName ]

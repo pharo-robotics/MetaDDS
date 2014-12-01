@@ -1,0 +1,3 @@
+accessing
+beRegisteredBy: aTypeLoader
+	^ self

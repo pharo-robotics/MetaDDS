@@ -1,0 +1,1 @@
+A MDDSParticipantDescriptor is an object that tracks events and data and describe an existant participant. The related participant is a proxy to the real participant. 

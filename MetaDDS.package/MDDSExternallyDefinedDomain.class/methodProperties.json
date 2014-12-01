@@ -3,6 +3,7 @@
 		"on:" : "SantiagoBragagnolo 10/22/2014 22:18" },
 	"instance" : {
 		"createPublicationFor:with:" : "SantiagoBragagnolo 11/13/2014 20:02",
+		"destroy" : "SantiagoBragagnolo 11/30/2014 15:27",
 		"isRegistered:" : "SantiagoBragagnolo 10/22/2014 21:53",
 		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 11/14/2014 14:36",
 		"mirror" : "SantiagoBragagnolo 9/11/2014 00:27",
@@ -12,6 +13,8 @@
 		"noteSubscription:" : "SantiagoBragagnolo 10/23/2014 21:12",
 		"noteSubscriptionFinished:" : "SantiagoBragagnolo 10/28/2014 17:12",
 		"obtainPort" : "SantiagoBragagnolo 10/4/2014 19:39",
+		"plainTypeDefinitionFor:" : "SantiagoBragagnolo 11/18/2014 16:05",
+		"registerTypeDefinition:" : "SantiagoBragagnolo 11/26/2014 20:42",
 		"subscriberFor:" : "SantiagoBragagnolo 10/20/2014 22:17",
 		"topics" : "SantiagoBragagnolo 10/20/2014 22:17",
-		"typeDefinition:" : "SantiagoBragagnolo 10/20/2014 22:17" } }
+		"typeDefinition:ifAbsent:" : "SantiagoBragagnolo 11/19/2014 12:20" } }
