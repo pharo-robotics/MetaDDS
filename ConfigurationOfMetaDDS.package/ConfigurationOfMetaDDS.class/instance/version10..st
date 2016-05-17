@@ -13,5 +13,5 @@ version10: spec
 			project: 'XMLRPC' with: '1.4-baseline';
 			project: 'OrderPreservingDictionary' with: '1.2.8'.
 		spec 
-			package: #MetaDDS with: 'MetaDDS-SantiagoBragagnolo.40';
+			package: #MetaDDS with: 'MetaDDS-SantiagoBragagnolo.41';
 			package: #MetaDDSTests with: 'MetaDDSTests-SantiagoBragangolo.25'. ].
