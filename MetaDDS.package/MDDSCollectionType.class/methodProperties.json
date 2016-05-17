@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"registerAlterName" : "SantiagoBragagnolo 11/26/2014 11:03" },
+		"registerAlterName" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
 	"instance" : {
-		"dataTypeSizeFor:" : "SantiagoBragagnolo 11/26/2014 11:49",
-		"decode:" : "SantiagoBragagnolo 10/10/2012 15:27",
-		"isAPossibleSize:" : "SantiagoBragagnolo 10/10/2012 15:29",
-		"isAPossibleValue:" : "SantiagoBragagnolo 12/17/2012 15:10",
-		"isCollectionType" : "SantiagoBragagnolo 11/15/2012 15:47",
-		"ofClass:" : "SantiagoBragagnolo 10/10/2012 15:25",
-		"ofType:" : "SantiagoBragagnolo 11/27/2012 15:48",
-		"relatedType" : "SantiagoBragagnolo 10/10/2012 15:25",
-		"relatedType:" : "SantiagoBragagnolo 12/21/2012 10:08",
-		"setEncodeDecodeSelectors" : "SantiagoBragagnolo 10/10/2012 15:44",
-		"sizeFor:" : "SantiagoBragagnolo 10/10/2012 15:27" } }
+		"dataTypeSizeFor:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"decode:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"isAPossibleSize:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"isAPossibleValue:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"isCollectionType" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"ofClass:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"ofType:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"relatedType" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"relatedType:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"setEncodeDecodeSelectors" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"sizeFor:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }

@@ -1,17 +1,17 @@
 {
 	"class" : {
-		"publishing:with:" : "SantiagoBragagnolo 11/13/2014 23:22" },
+		"publishing:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
 	"instance" : {
-		"connections" : "SantiagoBragagnolo 10/27/2014 12:47",
-		"destroy" : "SantiagoBragagnolo 11/13/2014 20:55",
-		"initialize" : "SantiagoBragagnolo 10/27/2014 12:47",
-		"isPublishing:" : "SantiagoBragagnolo 10/20/2014 22:18",
-		"marshaller" : "SantiagoBragagnolo 10/6/2014 18:21",
-		"marshaller:" : "SantiagoBragagnolo 10/6/2014 18:21",
-		"noteIsNotRegisteredAnymore" : "SantiagoBragagnolo 11/13/2014 23:28",
-		"noteIsRegisteredIn:" : "SantiagoBragagnolo 11/13/2014 21:08",
-		"participant" : "SantiagoBragagnolo 10/13/2014 15:54",
-		"participant:" : "SantiagoBragagnolo 10/20/2014 22:18",
-		"publish:" : "SantiagoBragagnolo 10/27/2014 12:46",
-		"publishValue:" : "SantiagoBragagnolo 10/27/2014 13:03",
-		"register:" : "SantiagoBragagnolo 10/27/2014 23:32" } }
+		"connections" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"destroy" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"initialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"isPublishing:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"marshaller" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"marshaller:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"noteIsNotRegisteredAnymore" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"noteIsRegisteredIn:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"participant" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"participant:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"publish:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"publishValue:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"register:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }

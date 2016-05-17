@@ -1,11 +1,11 @@
 {
 	"class" : {
-		"domain:name:uri:" : "SantiagoBragagnolo 10/29/2014 19:02" },
+		"domain:name:uri:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
 	"instance" : {
-		"initialize" : "SantiagoBragagnolo 11/12/2014 22:59",
-		"isSubscribedTo:" : "SantiagoBragagnolo 11/12/2014 22:59",
-		"noteParameterChanged:" : "SantiagoBragagnolo 11/13/2014 10:00",
-		"participant" : "SantiagoBragagnolo 11/13/2014 10:01",
-		"subscribe:" : "SantiagoBragagnolo 11/12/2014 22:59",
-		"uri" : "SantiagoBragagnolo 10/29/2014 19:03",
-		"uri:" : "SantiagoBragagnolo 10/29/2014 19:03" } }
+		"initialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"isSubscribedTo:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"noteParameterChanged:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"participant" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"subscribe:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"uri" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"uri:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
