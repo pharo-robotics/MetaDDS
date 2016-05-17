@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 10/24/2014 10:51",
-		"testAdhocDTOClassesGenerated" : "SantiagoBragagnolo 10/24/2014 12:29",
-		"testAdhocTypeSerializer" : "SantiagoBragagnolo 10/24/2014 12:29",
-		"testAdhocTypeSerializerIsAlwaysTheSame" : "SantiagoBragagnolo 10/24/2014 12:29" } }
+		"setUp" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testAdhocDTOClassesGenerated" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testAdhocTypeSerializer" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testAdhocTypeSerializerIsAlwaysTheSame" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }

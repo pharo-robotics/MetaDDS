@@ -2,8 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 10/24/2014 12:05",
-		"testCreatePublisher" : "SantiagoBragagnolo 10/24/2014 12:05",
-		"testCreateSubscriber" : "SantiagoBragagnolo 10/24/2014 12:05",
-		"testIsNotRegistered" : "SantiagoBragagnolo 10/24/2014 12:06",
-		"testTypeIsAType" : "SantiagoBragagnolo 10/24/2014 12:06" } }
+		"setUp" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testCreatePublisher" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testCreateSubscriber" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testIsNotRegistered" : "SantiagoBragagnolo 12/2/2014 15:17:07",
+		"testTypeIsAType" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
