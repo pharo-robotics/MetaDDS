@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfMetaDDS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfMetaDDS",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
