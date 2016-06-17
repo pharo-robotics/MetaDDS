@@ -1,3 +1,6 @@
 accessing
 noteError: anError
-	self halt.
+	anError class = ConnectionTimedOut
+		ifFalse: [ 
+			self logCr: 'Subscription Socket ERROR: ',
+			anError messageText ]

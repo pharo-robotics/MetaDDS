@@ -1,3 +1,3 @@
-as yet unclassified
+port
 obtainPort
 	^ mirror obtainPort.

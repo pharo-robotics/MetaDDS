@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 asString
 	| string |
 	string := self class name , '>>' , String crlf , String tab.

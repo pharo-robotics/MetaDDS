@@ -1,11 +1,9 @@
 {
 	"class" : {
-		"participant:subscriber:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant:subscriber:subscription:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"participant:subscriber:" : "SantiagoBragagnolo 10/23/2014 21:00",
+		"participant:subscriber:subscription:" : "SantiagoBragagnolo 10/28/2014 15:15" },
 	"instance" : {
-		"participant" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscriber" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscriber:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscription" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscription:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"subscriber" : "SantiagoBragagnolo 10/23/2014 20:53",
+		"subscriber:" : "SantiagoBragagnolo 10/23/2014 20:53",
+		"subscription" : "SantiagoBragagnolo 10/28/2014 15:13",
+		"subscription:" : "SantiagoBragagnolo 10/28/2014 15:13" } }

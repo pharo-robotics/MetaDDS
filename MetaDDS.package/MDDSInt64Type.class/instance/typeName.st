@@ -1,3 +1,3 @@
-initialize
+accessing
 typeName 
 	^ 'int64'

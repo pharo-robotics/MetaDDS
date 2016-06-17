@@ -1,3 +1,3 @@
-as yet unclassified
+serialize
 decode: aFLDecoder 
 	^ aFLDecoder nextEncodedFloat64.

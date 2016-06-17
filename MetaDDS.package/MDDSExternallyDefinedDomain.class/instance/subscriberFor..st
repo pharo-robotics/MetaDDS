@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 subscriberFor: aTopic
 	^ mirror subscriberFor: aTopic

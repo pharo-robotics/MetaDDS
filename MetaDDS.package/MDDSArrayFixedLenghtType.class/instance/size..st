@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 size: aSize
 	size := aSize asNumber.

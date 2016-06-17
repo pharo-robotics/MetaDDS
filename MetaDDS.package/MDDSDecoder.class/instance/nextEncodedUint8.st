@@ -1,4 +1,4 @@
-as yet unclassified
+decoding
 nextEncodedUint8
 	self verifyDataAvailability.
 	^ stream next

@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 unregisterTopicPublisher: aPublisher for: aParticipant
 	self subclassResponsibility 

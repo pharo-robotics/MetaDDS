@@ -12,5 +12,5 @@
 	"name" : "MDDSConnectionPetition",
 	"pools" : [
 		 ],
-	"super" : "MDDSConnectionDescription",
+	"super" : "MDDSTopicConnectionDescription",
 	"type" : "normal" }

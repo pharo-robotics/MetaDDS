@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 cycle
 	^ (1 / timesPerSecond) asSeconds. 

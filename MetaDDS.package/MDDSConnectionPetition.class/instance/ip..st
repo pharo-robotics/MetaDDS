@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 ip: anIPOrHostName
 	ip := anIPOrHostName 

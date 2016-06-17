@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isAPossibleValue: aDuration
 	^ (aDuration isKindOf: Duration) and: [
 		aDuration secondsField  < 4294967296 and: [

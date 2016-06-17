@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isAPossibleSize: aSize
 	^ aSize > 0.

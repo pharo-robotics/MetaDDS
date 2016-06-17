@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 notePublication: aMDDSIsPublishingAnnouncement
 	| publication reading writing |
 	publication := aMDDSIsPublishingAnnouncement publication.

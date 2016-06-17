@@ -1,3 +1,3 @@
-serializing
+instance creation
 new 
 	^ self.

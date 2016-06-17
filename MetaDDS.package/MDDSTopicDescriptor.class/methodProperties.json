@@ -1,21 +1,13 @@
 {
 	"class" : {
-		"domain:name:type:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"name:type:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"domain:name:type:" : "SantiagoBragagnolo 11/27/2014 16:12",
+		"name:type:" : "SantiagoBragagnolo 9/10/2014 19:44" },
 	"instance" : {
-		"asString" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"createTopic" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"domain:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"initialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participants" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publisher" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publishers" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publishing:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"stopPublishing:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscribe:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscribed" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscriber" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"topic" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"type" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"type:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"unsubscribe:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"asString" : "SantiagoBragagnolo 10/20/2014 22:35",
+		"createTopic" : "SantiagoBragagnolo 4/29/2015 18:02",
+		"domain:" : "SantiagoBragagnolo 10/20/2014 22:35",
+		"name" : "SantiagoBragagnolo 3/9/2015 11:33",
+		"participants" : "SantiagoBragagnolo 11/17/2014 14:29",
+		"topic" : "SantiagoBragagnolo 11/17/2014 14:27",
+		"type" : "SantiagoBragagnolo 9/10/2014 19:58",
+		"type:" : "SantiagoBragagnolo 9/10/2014 19:34" } }

@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/23/2014 20:55",
 	"instvars" : [
-		"topic" ],
+		"topic",
+		"participant" ],
 	"name" : "MDDSTopicAnnouncement",
 	"pools" : [
 		 ],

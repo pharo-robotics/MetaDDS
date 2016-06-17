@@ -1,9 +1,14 @@
 {
 	"class" : {
-		"with:for:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"with:for:representing:" : "SantiagoBragagnolo 6/26/2015 11:31" },
 	"instance" : {
-		"destroy" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isDead" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"socket" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"socket:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"write:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"destroy" : "SantiagoBragagnolo 10/27/2014 12:49",
+		"isConnected" : "SantiagoBragagnolo 3/9/2015 11:25",
+		"isDead" : "SantiagoBragagnolo 10/27/2014 12:49",
+		"isRemote" : "SantiagoBragagnolo 6/26/2015 11:36",
+		"relatedParticipantName" : "SantiagoBragagnolo 6/26/2015 11:32",
+		"relatedParticipantName:" : "SantiagoBragagnolo 6/26/2015 11:31",
+		"socket" : "SantiagoBragagnolo 10/27/2014 12:48",
+		"socket:" : "SantiagoBragagnolo 10/27/2014 12:48",
+		"urlrpc" : "SantiagoBragagnolo 5/21/2015 17:08",
+		"write:with:" : "SantiagoBragagnolo 10/20/2014 22:11" } }

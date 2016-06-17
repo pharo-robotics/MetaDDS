@@ -1,3 +1,3 @@
-as yet unclassified
+comparing
 = anOtherHeader
-	^ (anOtherHeader isKindOf: MDDSHandshakeHeader) and: [ self attributes asSet = anOtherHeader attributes asSet ]
+	^ (anOtherHeader isKindOf: self class) and: [ self attributes asSet = anOtherHeader attributes asSet ]

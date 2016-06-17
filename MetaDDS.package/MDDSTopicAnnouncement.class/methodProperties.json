@@ -1,10 +1,12 @@
 {
 	"class" : {
-		"participant:isNotPublishingAnymoreOn:through:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant:isNotSubscribedAnymoreTo:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant:isNowPublishingOn:through:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant:isNowSubscribedTo:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"topic:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"participant:isNotPublishingAnymoreOn:through:" : "SantiagoBragagnolo 10/28/2014 15:14",
+		"participant:isNotSubscribedAnymoreTo:with:" : "SantiagoBragagnolo 10/28/2014 15:17",
+		"participant:isNowPublishingOn:through:" : "SantiagoBragagnolo 10/28/2014 15:16",
+		"participant:isNowSubscribedTo:with:" : "SantiagoBragagnolo 10/28/2014 15:17",
+		"topic:" : "SantiagoBragagnolo 10/23/2014 20:59" },
 	"instance" : {
-		"topic" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"topic:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"participant" : "SantiagoBragagnolo 5/31/2016 11:19",
+		"participant:" : "SantiagoBragagnolo 5/31/2016 11:19",
+		"topic" : "SantiagoBragagnolo 10/23/2014 20:51",
+		"topic:" : "SantiagoBragagnolo 10/23/2014 20:51" } }

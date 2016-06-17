@@ -1,3 +1,3 @@
-initialize
+accessing
 typeName
-	^ relatedType typeName, '[]'
+	^ (relatedType ifNil: [ '?' ] ifNotNil: [ :t | t typeName ]) , '[]'

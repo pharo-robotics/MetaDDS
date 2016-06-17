@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 plainTypeDefinitionFor: aType
 	self subclassResponsibility.

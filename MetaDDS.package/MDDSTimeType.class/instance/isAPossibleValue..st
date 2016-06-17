@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isAPossibleValue: aTime 
 	^ (aTime isKindOf: MDDSTimestamp) and: [
 		aTime seconds  < 4294967296 and: [

@@ -1,4 +1,4 @@
-abstract
+accessing
 destroy
 	super destroy.
 	mirror

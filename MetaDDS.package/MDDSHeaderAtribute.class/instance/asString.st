@@ -1,3 +1,3 @@
-accessing
+converting
 asString
 	^ '{1}={2}' format: { name . value  }.

@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 notePublication: aMDDSIsPublishingAnnouncement
 	mirror notePublication: aMDDSIsPublishingAnnouncement

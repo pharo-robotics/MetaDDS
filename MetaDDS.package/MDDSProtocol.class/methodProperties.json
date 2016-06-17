@@ -1,14 +1,15 @@
 {
 	"class" : {
-		"encoding:decoding:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"encoding:decoding:" : "SantiagoBragagnolo 10/3/2014 16:00" },
 	"instance" : {
-		"connect:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"createDecoderOn:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"createSocketForlistenOn:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"decoder:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"dump:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"encoder:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"initializeDecoder:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"load:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"loadStream:with:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"name" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"connect:" : "SantiagoBragagnolo 10/20/2014 22:17",
+		"createDecoderOn:with:" : "SantiagoBragagnolo 10/20/2014 22:17",
+		"createSocketForlistenOn:" : "SantiagoBragagnolo 10/20/2014 22:17",
+		"decoder:" : "SantiagoBragagnolo 10/20/2014 22:18",
+		"dump:with:" : "SantiagoBragagnolo 10/20/2014 22:18",
+		"encoder:" : "SantiagoBragagnolo 10/20/2014 22:18",
+		"initializeDecoder:with:" : "SantiagoBragagnolo 10/20/2014 22:18",
+		"isTCP" : "SantiagoBragagnolo 8/28/2015 12:24",
+		"load:with:" : "SantiagoBragagnolo 10/20/2014 22:18",
+		"loadStream:with:" : "SantiagoBragagnolo 10/20/2014 22:18",
+		"name" : "SantiagoBragagnolo 10/20/2014 22:18" } }

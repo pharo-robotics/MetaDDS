@@ -1,3 +1,3 @@
-encoding
+private
 resetBuffers
 	stream resetBuffers.

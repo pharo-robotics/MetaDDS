@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isUndefined
-	^ (name = MDDSTypeDescriptor unknownWildcard) not
+	^ name ~= MDDSTypeDescriptor unknownWildcard

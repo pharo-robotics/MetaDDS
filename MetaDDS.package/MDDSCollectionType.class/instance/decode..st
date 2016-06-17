@@ -1,4 +1,4 @@
-as yet unclassified
+serialize
 decode: aDecoder 
 	^ (1 to: (self sizeFor: aDecoder ) ) collect: [
 		:i |

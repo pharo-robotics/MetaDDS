@@ -2,10 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"destroy" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"id" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isConnected" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isReader" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"noteIsRegistered" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"protocol" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"protocol:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"destroy" : "SantiagoBragagnolo 10/27/2014 12:49",
+		"id" : "SantiagoBragagnolo 10/7/2014 20:37",
+		"isConnected" : "SantiagoBragagnolo 3/9/2015 11:25",
+		"isReader" : "SantiagoBragagnolo 10/7/2014 20:33",
+		"isRemote" : "SantiagoBragagnolo 6/26/2015 11:35",
+		"noteIsRegistered" : "SantiagoBragagnolo 10/27/2014 22:19",
+		"protocol" : "SantiagoBragagnolo 10/7/2014 20:36",
+		"protocol:" : "SantiagoBragagnolo 10/7/2014 20:36",
+		"relatedParticipantName" : "SantiagoBragagnolo 6/26/2015 11:33" } }

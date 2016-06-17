@@ -1,4 +1,4 @@
-as yet unclassified
+converting
 asString
 	^ '{1}:{2}@{3}'
 		format:

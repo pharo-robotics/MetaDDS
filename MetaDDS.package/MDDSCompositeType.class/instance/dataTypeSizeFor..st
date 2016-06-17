@@ -1,4 +1,4 @@
-serializing
+accessing
 dataTypeSizeFor: aValue 
 	"beware of recursive structures!"
 	| acc |

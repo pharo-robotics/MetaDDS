@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/15/2014 19:32",
 	"instvars" : [
-		 ],
+		"name" ],
 	"name" : "MDDSAbstractParticipantProxy",
 	"pools" : [
 		 ],

@@ -1,3 +1,3 @@
-serializing
+accessing
 typeName: aTypeName
 	typeName := aTypeName.

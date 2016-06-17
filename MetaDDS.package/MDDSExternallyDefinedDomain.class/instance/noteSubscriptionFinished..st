@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 noteSubscriptionFinished: aMDDSIsNotSubscribedAnnouncement 
 	mirror noteSubscriptionFinished: aMDDSIsNotSubscribedAnnouncement.
 	(aMDDSIsNotSubscribedAnnouncement subscription) destroy.

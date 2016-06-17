@@ -1,3 +1,3 @@
-as yet unclassified
+building
 buildTypeMarshaller
 	^ typeSerializer relatedType: (innerTypeDefinition typeBuilder buildTypeMarshaller)

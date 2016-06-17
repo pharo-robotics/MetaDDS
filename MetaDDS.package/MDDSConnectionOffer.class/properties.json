@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/6/2014 14:28",
 	"instvars" : [
-		 ],
+		"onNewConnection" ],
 	"name" : "MDDSConnectionOffer",
 	"pools" : [
 		 ],
-	"super" : "MDDSConnectionDescription",
+	"super" : "MDDSTopicConnectionDescription",
 	"type" : "normal" }

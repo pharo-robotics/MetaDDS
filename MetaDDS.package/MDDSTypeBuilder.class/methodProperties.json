@@ -1,17 +1,17 @@
 {
 	"class" : {
-		"defined:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"defined:" : "SantiagoBragagnolo 9/19/2014 18:51" },
 	"instance" : {
-		"buildDTOClass" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"buildTypeMarshaller" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"classname" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"definition" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"definition:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"forPhaROSTyping" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"installConstantsIn:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"installMethodsIn:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isServiceType" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"name" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"relatedClass" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"rosdefinition" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"shortName" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"buildDTOClass" : "SantiagoBragagnolo 10/20/2014 22:36",
+		"buildTypeMarshaller" : "SantiagoBragagnolo 10/20/2014 22:36",
+		"classname" : "SantiagoBragagnolo 10/20/2014 22:36",
+		"definition" : "SantiagoBragagnolo 2/8/2014 12:03",
+		"definition:" : "SantiagoBragagnolo 2/8/2014 11:20",
+		"forPhaROSTyping" : "SantiagoBragagnolo 10/3/2014 15:45",
+		"installConstantsIn:" : "SantiagoBragagnolo 10/20/2014 22:37",
+		"installMethodsIn:" : "SantiagoBragagnolo 10/20/2014 22:37",
+		"isServiceType" : "pharos 3/1/2014 11:25",
+		"name" : "SantiagoBragagnolo 9/19/2014 18:53",
+		"relatedClass" : "SantiagoBragagnolo 10/20/2014 22:37",
+		"rosdefinition" : "SantiagoBragagnolo 2/11/2014 14:18",
+		"shortName" : "SantiagoBragagnolo 9/19/2014 18:52" } }

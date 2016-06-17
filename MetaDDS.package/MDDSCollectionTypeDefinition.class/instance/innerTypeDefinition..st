@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 innerTypeDefinition: anInnerTypeDefinition
 	innerTypeDefinition := anInnerTypeDefinition

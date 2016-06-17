@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isUnknown
 	^ self class isUnknown: self

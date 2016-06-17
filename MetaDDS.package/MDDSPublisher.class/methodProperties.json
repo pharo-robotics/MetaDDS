@@ -2,13 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isRegistered" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"obtainPort" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publicationFor:ifNone:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publications" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publishing:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"removePublication:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"stopPublishing" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"stopPublishing:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"stopPublishingParticipant:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"hasPublicationFor:" : "SantiagoBragagnolo 6/25/2015 17:29",
+		"initialize" : "SantiagoBragagnolo 10/3/2014 19:17",
+		"isRegistered" : "SantiagoBragagnolo 9/15/2014 19:21",
+		"obtainPort" : "SantiagoBragagnolo 10/4/2014 19:38",
+		"publicationFor:ifNone:" : "SantiagoBragagnolo 10/20/2014 22:12",
+		"publications" : "SantiagoBragagnolo 10/3/2014 19:41",
+		"publishing:" : "SantiagoBragagnolo 11/13/2014 20:58",
+		"removePublication:" : "SantiagoBragagnolo 11/28/2014 15:36",
+		"stopPublishing" : "SantiagoBragagnolo 11/28/2014 12:31",
+		"stopPublishing:" : "SantiagoBragagnolo 11/13/2014 23:28",
+		"stopPublishingParticipant:" : "SantiagoBragagnolo 10/28/2014 16:48" } }

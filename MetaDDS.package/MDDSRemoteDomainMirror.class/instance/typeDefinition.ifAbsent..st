@@ -1,3 +1,5 @@
 abstract
-typeDefinition: aString ifAbsent: aBlock
-	^ proxy typeDefinition: aString ifAbsent: aBlock.
+typeDefinition: aTypeName ifAbsent: aBlock
+	" Level 2 Cache "
+
+	^ typesRegistry at: aTypeName ifAbsentPut: [ proxy typeDefinition: aTypeName ifAbsent: aBlock ]

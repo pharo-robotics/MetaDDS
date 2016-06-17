@@ -1,3 +1,3 @@
-initializing
+accessing
 typeName 
 	^ 'int16'

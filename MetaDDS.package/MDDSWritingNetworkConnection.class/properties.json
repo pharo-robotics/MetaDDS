@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/17/2014 14:57",
 	"instvars" : [
-		"socket" ],
+		"socket",
+		"relatedParticipantName" ],
 	"name" : "MDDSWritingNetworkConnection",
 	"pools" : [
 		 ],

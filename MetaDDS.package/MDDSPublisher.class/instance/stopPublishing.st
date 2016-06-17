@@ -1,3 +1,3 @@
-as yet unclassified
+run
 stopPublishing
 	publications do: [ :p | self stopPublishing: p ]

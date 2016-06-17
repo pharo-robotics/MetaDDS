@@ -1,15 +1,18 @@
 {
 	"class" : {
-		"domain:name:type:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"name:type:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"domain:name:type:" : "SantiagoBragagnolo 2/8/2015 22:55",
+		"name:type:" : "SantiagoBragagnolo 6/30/2015 11:03" },
 	"instance" : {
-		"hasPublications" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"hasSubscriptions" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isRegistered" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"noticeConnectionWith:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publications" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"publisher" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscriber" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"subscriptions" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"type" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"type:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"hasPublications" : "SantiagoBragagnolo 11/15/2014 18:59",
+		"hasSubscriptions" : "SantiagoBragagnolo 11/15/2014 18:59",
+		"isPublishedBy:" : "SantiagoBragagnolo 6/25/2015 17:28",
+		"isRegistered" : "SantiagoBragagnolo 5/4/2015 10:28",
+		"isSubscribedBy:" : "SantiagoBragagnolo 6/25/2015 17:28",
+		"name" : "SantiagoBragagnolo 3/9/2015 11:32",
+		"noticeConnectionWith:" : "SantiagoBragagnolo 11/14/2014 15:03",
+		"publications" : "SantiagoBragagnolo 10/20/2014 22:12",
+		"publisher" : "SantiagoBragagnolo 4/30/2015 14:08",
+		"subscriber" : "SantiagoBragagnolo 4/30/2015 14:09",
+		"subscriptions" : "SantiagoBragagnolo 10/20/2014 22:11",
+		"type" : "SantiagoBragagnolo 9/10/2014 23:11",
+		"type:" : "SantiagoBragagnolo 9/10/2014 23:11" } }

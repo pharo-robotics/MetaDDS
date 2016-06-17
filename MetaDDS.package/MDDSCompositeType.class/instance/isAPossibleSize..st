@@ -1,3 +1,3 @@
-serializing
+testing
 isAPossibleSize: aSize
 	^ true.

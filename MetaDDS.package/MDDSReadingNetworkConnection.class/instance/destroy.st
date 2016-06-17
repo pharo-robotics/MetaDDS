@@ -1,10 +1,10 @@
 accessing
 destroy
-	self stop.
+	messageDispatcher noteStop: self.
 	messageDispatcher := nil.
-	socket close.
+	socket ifNotNil: [ socket close ].
 	socket := nil.
-	stream close.
+	stream ifNotNil: [ stream close ].
 	stream := nil.
 	protocol := nil.
-	process := nil. 
+	self stop

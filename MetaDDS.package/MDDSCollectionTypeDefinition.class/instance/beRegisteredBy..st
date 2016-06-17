@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 beRegisteredBy: aTypeLoader
 	innerTypeDefinition beRegisteredBy: aTypeLoader.
 	^ self.

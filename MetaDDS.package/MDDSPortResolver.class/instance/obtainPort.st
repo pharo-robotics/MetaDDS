@@ -1,4 +1,4 @@
-as yet unclassified
+port
 obtainPort
 	self flag: #GuaranteePortIsFree.
 	lastAssignedPort := lastAssignedPort + ((Random seed: DateAndTime now asUnixTime) nextInt: 10).

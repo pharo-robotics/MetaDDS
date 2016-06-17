@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 registerTypeDefinition: aMDDSTypeDefinition
 	^ types registerTypeDefinition: aMDDSTypeDefinition

@@ -1,4 +1,4 @@
-deploying
+meta-data
 dependencies 
 
 	| return packageName packageNameType |

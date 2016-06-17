@@ -1,6 +1,4 @@
-as yet unclassified
+accessing
 beRegisteredBy: aTypeLoader
-	self constants do: [ : constant | constant typeDefinition beRegisteredBy: aTypeLoader  ].
-	self fields do: [ :field | field typeDefinition beRegisteredBy: aTypeLoader  ].
-	^ aTypeLoader privateRegisterTypeDefinition: self.
-	
+	self privateRegisterFieldsAndConstantsInto: aTypeLoader.
+	^ aTypeLoader privateRegisterTypeDefinition: self

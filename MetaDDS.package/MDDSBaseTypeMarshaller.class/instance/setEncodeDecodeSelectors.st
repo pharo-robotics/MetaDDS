@@ -1,0 +1,3 @@
+initializing
+setEncodeDecodeSelectors
+	self subclassResponsibility 

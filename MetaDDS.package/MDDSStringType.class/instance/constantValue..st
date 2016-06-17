@@ -1,4 +1,4 @@
-testing
+accessing
 " self new constantValue: ($' asString) "
 constantValue: aValue 
 	| realValue | 

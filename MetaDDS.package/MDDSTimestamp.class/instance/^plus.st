@@ -1,3 +1,3 @@
-operations
+arithmetic
 + aDuration
-	^ MDDSTimestamp new timestamp: timestamp + aDuration ; yourself.
+	^ self class new timestamp: timestamp + aDuration ; yourself.

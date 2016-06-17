@@ -1,3 +1,3 @@
 abstract
 participants
-	 ^ self subclassResponsibility 
+	self subclassResponsibility 

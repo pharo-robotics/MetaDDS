@@ -1,11 +1,12 @@
 {
 	"class" : {
-		"isUnknown:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"unknownTypeFor:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"unknownWildcard" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"isUnknown:" : "SantiagoBragagnolo 11/14/2014 14:53",
+		"unknownTypeFor:" : "SantiagoBragagnolo 11/14/2014 14:51",
+		"unknownWildcard" : "SantiagoBragagnolo 11/14/2014 14:52" },
 	"instance" : {
-		"createType" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"definition" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"describes:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isUndefined" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isUnknown" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"asType" : "SantiagoBragagnolo 4/29/2015 18:03",
+		"createType" : "SantiagoBragagnolo 6/11/2015 12:36",
+		"definition" : "SantiagoBragagnolo 10/20/2014 22:35",
+		"describes:" : "SantiagoBragagnolo 11/29/2014 23:58",
+		"isUndefined" : "SantiagoBragagnolo 12/1/2014 13:55",
+		"isUnknown" : "SantiagoBragagnolo 12/1/2014 13:55" } }

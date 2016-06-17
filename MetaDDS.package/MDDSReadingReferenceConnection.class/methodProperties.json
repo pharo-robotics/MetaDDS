@@ -1,7 +1,9 @@
 {
 	"class" : {
-		"dispatchingTo:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"dispatchingTo:" : "SantiagoBragagnolo 10/27/2014 13:20" },
 	"instance" : {
-		"dispatch:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"participant:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"dispatch:" : "SantiagoBragagnolo 10/27/2014 13:15",
+		"isConnected" : "SantiagoBragagnolo 6/26/2015 11:35",
+		"participant" : "SantiagoBragagnolo 10/27/2014 22:50",
+		"participant:" : "SantiagoBragagnolo 10/27/2014 22:49",
+		"relatedParticipantName" : "SantiagoBragagnolo 6/26/2015 11:33" } }

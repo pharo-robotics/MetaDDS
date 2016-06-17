@@ -1,4 +1,4 @@
-initialize-release
+initializing
 setEncodeDecodeSelectors
 	encodeSelector := #encodeString:.
 	decodeSelector := #nextEncodedString.

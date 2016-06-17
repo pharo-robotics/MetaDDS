@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isAPossibleValue: aValue
 	^( aValue isKindOf: Collection ) and: [
 		aValue allSatisfy: [

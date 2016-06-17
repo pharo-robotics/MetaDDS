@@ -1,4 +1,4 @@
-as yet unclassified
+comparing
 closeTo: anOtherValue
 	^ self class = anOtherValue class
 		and: [

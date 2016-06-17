@@ -1,3 +1,3 @@
-accessing
+instance creation
 newInstance
 	^ Array new.

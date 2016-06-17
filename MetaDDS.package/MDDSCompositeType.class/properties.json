@@ -9,7 +9,6 @@
 		"typeName",
 		"typeDefinition",
 		"relatedClass",
-		"md5Sum",
 		"constants" ],
 	"name" : "MDDSCompositeType",
 	"pools" : [

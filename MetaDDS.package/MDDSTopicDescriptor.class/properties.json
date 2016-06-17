@@ -6,9 +6,7 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/15/2014 19:33",
 	"instvars" : [
-		"type",
-		"subscribed",
-		"publishers" ],
+		"type" ],
 	"name" : "MDDSTopicDescriptor",
 	"pools" : [
 		 ],

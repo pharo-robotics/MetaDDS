@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isRegistered: aMDDSTopic
 	^ mirror
 		findTopicByName: aMDDSTopic name

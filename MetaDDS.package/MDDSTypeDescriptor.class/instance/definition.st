@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 definition
 	^ definition ifNil: [ definition := domain typeDefinition: name ]

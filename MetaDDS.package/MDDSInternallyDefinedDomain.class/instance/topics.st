@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 topics
 	^ createdTopics values

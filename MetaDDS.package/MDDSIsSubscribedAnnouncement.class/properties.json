@@ -6,7 +6,6 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/23/2014 20:57",
 	"instvars" : [
-		"participant",
 		"subscriber",
 		"subscription" ],
 	"name" : "MDDSIsSubscribedAnnouncement",

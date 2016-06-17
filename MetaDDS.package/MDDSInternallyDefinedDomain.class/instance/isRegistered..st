@@ -1,4 +1,4 @@
-as yet unclassified
+testing
 isRegistered: aMDDSTopic
 	^ createdTopics at: aMDDSTopic name ifPresent: [ true ] ifAbsent: [false].
 	

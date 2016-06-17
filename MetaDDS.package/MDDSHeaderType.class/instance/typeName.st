@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 typeName 
 	^ self error: 'do not apply'.

@@ -1,4 +1,4 @@
-as yet unclassified
+class factory
 ofType: aRosType
 	relatedType  := aRosType.
 	relatedClass := aRosType class.

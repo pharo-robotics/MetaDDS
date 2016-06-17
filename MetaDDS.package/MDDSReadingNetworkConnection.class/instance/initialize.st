@@ -1,3 +1,0 @@
-accessing
-initialize
-	keepRunning := false.

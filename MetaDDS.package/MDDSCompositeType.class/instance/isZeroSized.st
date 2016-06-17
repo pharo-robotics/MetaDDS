@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isZeroSized
 	^ typeDefinition size = 0

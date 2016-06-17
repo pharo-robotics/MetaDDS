@@ -1,4 +1,4 @@
-as yet unclassified
+decoding
 nextEncodedUint16
 	| n barray |
 	self verifyDataAvailability: 2.

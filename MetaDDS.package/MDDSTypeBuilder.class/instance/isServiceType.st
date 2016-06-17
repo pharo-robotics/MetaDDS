@@ -1,3 +1,3 @@
-proto
+testing
 isServiceType
 	^ false

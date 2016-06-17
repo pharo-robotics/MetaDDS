@@ -1,3 +1,3 @@
-initialize
+accessing
 serialize:aValue into: anEncoder
 	^ anEncoder encodeArray: aValue of: self relatedType.

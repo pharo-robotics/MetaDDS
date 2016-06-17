@@ -1,4 +1,4 @@
-serializing
+serialize
 decode: aFLDecoder 
 	| instance |
 	instance := self relatedClass new.

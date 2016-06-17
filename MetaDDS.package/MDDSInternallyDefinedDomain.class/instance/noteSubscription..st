@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 noteSubscription: aMDDSIsSubscribedAnnouncement
 	| subscription reading writing |
 	subscription := aMDDSIsSubscribedAnnouncement subscription.

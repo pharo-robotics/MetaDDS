@@ -1,3 +1,3 @@
-accessing
+building
 relatedClass
 	^ MDDSHandshakeHeader 

@@ -2,11 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"plainTypeDefinitionFor:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"privateRegisterTypeDefinition:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"registerTypeDefinition:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"typeDefinition:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"typeDefinition:ifAbsent:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"unload" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"initialize" : "SantiagoBragagnolo 11/13/2014 22:20",
+		"loadTypeDefinitionNamed:definedFromString:" : "SantiagoBragagnolo 11/19/2014 12:14",
+		"plainTypeDefinitionFor:" : "SantiagoBragagnolo 11/18/2014 23:01",
+		"privateRegisterTypeDefinition:" : "SantiagoBragagnolo 11/26/2014 20:53",
+		"registerTypeDefinition:" : "SantiagoBragagnolo 11/26/2014 20:53",
+		"typeDefinition:" : "SantiagoBragagnolo 11/13/2014 22:24",
+		"typeDefinition:ifAbsent:" : "SantiagoBragagnolo 11/19/2014 12:19",
+		"unload" : "SantiagoBragagnolo 11/28/2014 12:41" } }

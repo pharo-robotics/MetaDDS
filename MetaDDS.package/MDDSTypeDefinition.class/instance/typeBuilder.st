@@ -1,3 +1,3 @@
-as yet unclassified
+building
 typeBuilder
 	^ MDDSTypeBuilder defined: self.

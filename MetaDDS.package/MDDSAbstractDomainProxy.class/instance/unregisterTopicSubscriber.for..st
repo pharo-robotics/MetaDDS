@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 unregisterTopicSubscriber: aSubscriber for: aParticipant
 	self subclassResponsibility 

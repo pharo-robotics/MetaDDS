@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 publications
 	^ publisher ifNotNil: [ publisher publications ] ifNil: [ Set new ]

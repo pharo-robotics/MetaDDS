@@ -1,4 +1,4 @@
-serializing
+accessing
 defaultValueString
 	 ^ relatedClass name , ' new'
 

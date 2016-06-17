@@ -1,4 +1,4 @@
-as yet unclassified
+initializing
 setEncodeDecodeSelectors
 	" Refactor needed here ."
 	encodeSelector := #doesNotApplyHere.

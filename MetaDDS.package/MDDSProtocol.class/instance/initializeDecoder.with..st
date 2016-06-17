@@ -1,4 +1,4 @@
-as yet unclassified
+initialization
 initializeDecoder: aDecoder with: aTypeMarshaller
 	| size |
 	size := aDecoder nextEncodedUint32.

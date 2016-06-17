@@ -1,3 +1,3 @@
-as yet unclassified
+installing
 unload
 	registry removeAll.

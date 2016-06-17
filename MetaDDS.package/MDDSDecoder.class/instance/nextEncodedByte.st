@@ -1,4 +1,4 @@
-as yet unclassified
+decoding
 nextEncodedByte
 	self verifyDataAvailability.
 	^ stream next

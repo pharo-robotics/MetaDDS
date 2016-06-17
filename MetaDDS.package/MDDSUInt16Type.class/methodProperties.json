@@ -1,10 +1,10 @@
 {
 	"class" : {
-		"alterName" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"dataTypeSize" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"alterName" : "SantiagoBragagnolo 9/16/2014 20:43",
+		"dataTypeSize" : "SantiagoBragagnolo 9/16/2014 20:43" },
 	"instance" : {
-		"decode:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"isAPossibleValue:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"newInstance" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"setEncodeDecodeSelectors" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"typeName" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"decode:" : "SantiagoBragagnolo 5/31/2016 11:40",
+		"isAPossibleValue:" : "SantiagoBragagnolo 9/28/2012 15:50",
+		"newInstance" : "SantiagoBragagnolo 10/3/2012 14:28",
+		"setEncodeDecodeSelectors" : "SantiagoBragagnolo 10/9/2012 16:43",
+		"typeName" : "SantiagoBragagnolo 5/28/2013 13:44" } }

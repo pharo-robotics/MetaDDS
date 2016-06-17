@@ -1,3 +1,3 @@
-accessing
+initialization
 initialize 
 	self setEncodeDecodeSelectors.

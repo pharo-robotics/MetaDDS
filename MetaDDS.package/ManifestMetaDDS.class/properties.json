@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDS",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestMetaDDS",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

@@ -1,3 +1,3 @@
-accessing
+dispatching
 dispatch: aReceivedMessage
 	self noteNewMessage: aReceivedMessage.

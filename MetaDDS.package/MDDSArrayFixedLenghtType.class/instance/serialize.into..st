@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 serialize:aValue into: anEncoder
 	^ anEncoder encodeFixedLenghtArray: aValue of: self relatedType.

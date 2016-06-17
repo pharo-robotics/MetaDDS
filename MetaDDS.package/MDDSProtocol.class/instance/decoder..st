@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 decoder: aDecoder
 	decoder := aDecoder

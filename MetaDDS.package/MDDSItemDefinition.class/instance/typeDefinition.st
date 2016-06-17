@@ -1,3 +1,3 @@
-accessing
+serializing
 typeDefinition
 	^ typeDefiniton.

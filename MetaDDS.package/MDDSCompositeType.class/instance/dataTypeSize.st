@@ -1,4 +1,4 @@
-serializing
+accessing
 dataTypeSize
 	"beware of recursive structures!"
 	

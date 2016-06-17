@@ -1,3 +1,3 @@
 as yet unclassified
 createTopic
-	^ domain createTopicNamed: name type: type createType
+	^ domain createTopicNamed: name type: type asType

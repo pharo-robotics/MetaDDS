@@ -1,3 +1,3 @@
-operations
+arithmetic
 - aDateAndTime
 	^ timestamp - aDateAndTime asDateAndTime.

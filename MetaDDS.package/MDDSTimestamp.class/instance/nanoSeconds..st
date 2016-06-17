@@ -1,3 +1,3 @@
-simple instance creation
+instance creation simple
 nanoSeconds: anAmountOfNSeconds 
 	timestamp nanoSeconds: anAmountOfNSeconds 

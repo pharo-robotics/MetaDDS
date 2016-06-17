@@ -1,3 +1,3 @@
-abstract
+converting
 asString
 	^ 'DDS-Domain'

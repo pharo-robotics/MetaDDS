@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 topic
 	^ (self attribute: 'topic') value

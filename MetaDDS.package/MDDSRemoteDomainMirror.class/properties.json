@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/8/2014 19:20",
 	"instvars" : [
-		"proxy" ],
+		"proxy",
+		"typesRegistry" ],
 	"name" : "MDDSRemoteDomainMirror",
 	"pools" : [
 		 ],

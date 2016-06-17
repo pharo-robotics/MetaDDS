@@ -1,3 +1,3 @@
-initialize-release
+accessing
 dataTypeSize
 	^ 2048.

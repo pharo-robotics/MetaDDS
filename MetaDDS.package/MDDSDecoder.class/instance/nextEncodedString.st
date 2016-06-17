@@ -1,4 +1,4 @@
-serialize
+decoding
 nextEncodedString
 	| length aByteArray |
 	[ length := self nextEncodedUint32 ]

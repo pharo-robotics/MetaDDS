@@ -1,4 +1,4 @@
-as yet unclassified
+initializing
 setEncodeDecodeSelectors
 	encodeSelector := #encodeTime:.
 	decodeSelector := #nextEncodedTime.

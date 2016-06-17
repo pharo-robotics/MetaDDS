@@ -1,0 +1,1 @@
+Represents a connection that has something to do with a topic

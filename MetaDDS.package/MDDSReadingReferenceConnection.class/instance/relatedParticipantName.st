@@ -1,0 +1,3 @@
+accessing
+relatedParticipantName
+	 ^ participant name

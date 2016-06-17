@@ -1,4 +1,4 @@
-as yet unclassified
+initializing
 setEncodeDecodeSelectors 
 	decodeSelector := #nextEncodedHeader.
 	encodeSelector := #encodeHeader:.

@@ -1,7 +1,7 @@
 registry
 unregister: aSubscription
 	| announcement |
-	subscriptions remove: aSubscription.
+	subscriptions remove: aSubscription ifAbsent: [].
 	announcement := MDDSTopicAnnouncement
 		participant: aSubscription participant
 		isNotSubscribedAnymoreTo: self

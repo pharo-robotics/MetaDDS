@@ -1,6 +1,6 @@
-initialize-release
+accessing
 dataTypeSizeFor: aValue
 	(self isAPossibleValue: aValue ) ifFalse: [
-		PhaROSUnexpextedValue signal: 'Unexpected value'.
+		self error: 'Unexpected value'.
 	].
 	^ aValue size + 4.

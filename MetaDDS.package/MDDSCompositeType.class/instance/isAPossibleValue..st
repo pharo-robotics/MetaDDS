@@ -1,3 +1,3 @@
-serializing
+testing
 isAPossibleValue: aValue
 	^ aValue isBasic not.

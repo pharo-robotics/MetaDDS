@@ -1,3 +1,3 @@
 accessing
 failBlock
-	^ failBlock ifNil: [ failBlock := [: e| Transcript open; show: e messageText; cr. ]].
+	^ failBlock ifNil: [ failBlock := [ :e | self logCr: e messageText ] ]

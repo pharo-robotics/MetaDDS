@@ -1,3 +1,3 @@
-serialize
+testing
 isAPossibleValue: aBoolean
-	^ aBoolean = true or: [ aBoolean = false ]
+	^ {true, false} includes: aBoolean

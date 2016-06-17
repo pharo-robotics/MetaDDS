@@ -1,3 +1,3 @@
 converting
 rosdefinition 
-	^ ' {1} {2}' format: { self typeDefiniton typeName . name  }.
+	^ ' {1} {2}' format: {  self typeDefinition typeName . name  }.

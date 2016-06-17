@@ -1,3 +1,3 @@
-as yet unclassified
+dispatching
 dispatch: aMessage
 	messageDispatcher dispatch: aMessage.

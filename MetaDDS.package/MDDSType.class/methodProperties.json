@@ -1,11 +1,12 @@
 {
 	"class" : {
-		"domain:name:marshaller:md5sum:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"domain:name:marshaller:md5sum:" : "SantiagoBragagnolo 10/3/2014 15:47" },
 	"instance" : {
-		"isTypePlaceHolder" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"marshaller" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"marshaller:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"md5sum" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"md5sum:" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"plainDefinition" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"verify:md5:" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"asType" : "SantiagoBragagnolo 4/29/2015 18:02",
+		"isTypePlaceHolder" : "SantiagoBragagnolo 11/14/2014 14:50",
+		"marshaller" : "SantiagoBragagnolo 10/3/2014 15:49",
+		"marshaller:" : "SantiagoBragagnolo 10/3/2014 15:47",
+		"md5sum" : "SantiagoBragagnolo 11/18/2014 23:04",
+		"md5sum:" : "SantiagoBragagnolo 10/1/2014 23:18",
+		"plainDefinition" : "SantiagoBragagnolo 11/18/2014 16:04",
+		"verify:md5:" : "SantiagoBragagnolo 2/25/2016 12:54" } }

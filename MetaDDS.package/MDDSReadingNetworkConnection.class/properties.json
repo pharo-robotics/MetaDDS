@@ -6,11 +6,13 @@
 		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:33",
 	"instvars" : [
-		"keepRunning",
 		"process",
 		"stream",
 		"urlrpc",
-		"socket" ],
+		"socket",
+		"remoteParticipantName",
+		"relatedParticipantName",
+		"lastLoadedMessage" ],
 	"name" : "MDDSReadingNetworkConnection",
 	"pools" : [
 		 ],

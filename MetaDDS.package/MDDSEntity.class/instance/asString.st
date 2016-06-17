@@ -1,3 +1,3 @@
-as yet unclassified
+converting
 asString
 	^ self class name,  '  ', name.

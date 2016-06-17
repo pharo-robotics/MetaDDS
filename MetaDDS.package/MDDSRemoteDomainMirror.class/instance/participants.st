@@ -1,0 +1,3 @@
+abstract
+participants
+	^ proxy participants

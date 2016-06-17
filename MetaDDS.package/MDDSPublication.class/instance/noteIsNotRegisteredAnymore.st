@@ -1,4 +1,4 @@
-as yet unclassified
+notifications
 noteIsNotRegisteredAnymore
 	connections do: #destroy.
 	connections removeAll.

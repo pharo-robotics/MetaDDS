@@ -1,2 +1,2 @@
-as yet unclassified
+abstract
 plainTypeDefinitionFor: aType

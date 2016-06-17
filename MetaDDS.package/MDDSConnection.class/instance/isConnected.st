@@ -1,3 +1,3 @@
-as yet unclassified
+testing
 isConnected
-	^ socket isConnected
+	self subclassResponsibility 

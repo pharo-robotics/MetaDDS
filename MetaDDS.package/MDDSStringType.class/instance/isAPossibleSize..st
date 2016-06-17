@@ -1,3 +1,3 @@
-initialize-release
+testing
 isAPossibleSize: aSize
 	^ aSize > 0.

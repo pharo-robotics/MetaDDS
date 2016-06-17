@@ -1,3 +1,3 @@
-as yet unclassified
+initialization
 initializeDecoder: aDecoder with: aTypeMarshaller
 	^ aDecoder

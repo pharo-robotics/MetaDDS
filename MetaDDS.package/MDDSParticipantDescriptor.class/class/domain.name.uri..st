@@ -1,3 +1,3 @@
 as yet unclassified
-domain: aDomain name: aCallerId uri: anUri.
-	^ (super  domain: aDomain name: aCallerId ) uri: anUri; yourself
+domain: aDomain name: aParticipantName uri: anUri.
+	^ (super  domain: aDomain name: aParticipantName ) uri: anUri; yourself

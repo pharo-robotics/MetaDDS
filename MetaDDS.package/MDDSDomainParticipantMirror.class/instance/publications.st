@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 publications
 	^ participant domain topics
 		inject: Set new

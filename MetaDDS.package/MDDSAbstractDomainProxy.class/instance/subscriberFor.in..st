@@ -1,3 +1,3 @@
-as yet unclassified
+abstract
 subscriberFor: aTopic in: aDomain
 	self subclassResponsibility 

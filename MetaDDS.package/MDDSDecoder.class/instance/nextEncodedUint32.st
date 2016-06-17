@@ -1,4 +1,4 @@
-as yet unclassified
+decoding
 nextEncodedUint32
 	| n  firstDigit src barray |
 	self verifyDataAvailability: 4.
