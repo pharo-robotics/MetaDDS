@@ -23,8 +23,7 @@ baseline: spec
 						repository: 'http://smalltalkhub.com/mc/PharoExtras/OrderPreservingDictionary/main/' ];
 				baseline: 'TaskIT2'
 					with: [ spec
-						repository: 'github://sbragagnolo/taskit-2';
-						loads: 'Git' ].
+						repository: 'github://sbragagnolo/taskit-2' ].
 			spec
 				package: #MetaDDS with: [ spec requires: #('TaskIT2' 'XMLRPC' 'OSProcess' 'OrderPreservingDictionary') ];
 				package: #MetaDDSTests.
