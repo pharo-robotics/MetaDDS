@@ -2,12 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testJustOneInstance" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testPublishingCreated" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testPublishingCreatedIsAlwaysTheSame" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testPublishingCreationHasEffect" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testPublishingLaunchesEvent" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testStopPublishing" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testStopPublishingFailsIfIsNotPublishing" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testStopPublishingLaunchesEvent" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"setUp" : "SantiagoBragangolo 11/15/2014 15:00",
+		"testJustOneInstance" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testPublishingCreated" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testPublishingCreatedIsAlwaysTheSame" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testPublishingCreationHasEffect" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testPublishingLaunchesEvent" : "SantiagoBragagnolo 10/27/2014 12:06",
+		"testStopPublishing" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testStopPublishingFailsIfIsNotPublishing" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testStopPublishingLaunchesEvent" : "SantiagoBragagnolo 10/27/2014 12:07" } }

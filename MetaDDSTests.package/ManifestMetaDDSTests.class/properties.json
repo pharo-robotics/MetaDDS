@@ -1,0 +1,14 @@
+{
+	"category" : "MetaDDSTests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ManifestMetaDDSTests",
+	"pools" : [
+		 ],
+	"super" : "PackageManifest",
+	"type" : "normal" }

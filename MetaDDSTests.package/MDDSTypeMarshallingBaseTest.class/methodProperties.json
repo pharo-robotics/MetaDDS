@@ -1,15 +1,15 @@
 {
 	"class" : {
-		"writeTestIfNeed:" : "SantiagoBragagnolo 12/2/2014 15:17:07" },
+		"writeTestIfNeed:" : "SantiagoBragagnolo 11/6/2012 16:48" },
 	"instance" : {
-		"baseFailSerialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"baseSerialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"baseUnserialize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"baseUnserializeFail" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"expectedSize" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"invalidByteArrays" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"invalidValues" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"newTestedClassInstance" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"relatedClass" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"setUp" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"validValues" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"baseFailSerialize" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"baseSerialize" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"baseUnserialize" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"baseUnserializeFail" : "SantiagoBragagnolo 10/3/2014 15:33",
+		"expectedSize" : "SantiagoBragagnolo 11/6/2012 16:41",
+		"invalidByteArrays" : "SantiagoBragagnolo 9/28/2012 11:43",
+		"invalidValues" : "SantiagoBragagnolo 9/28/2012 11:41",
+		"newTestedClassInstance" : "SantiagoBragagnolo 9/30/2014 14:51",
+		"relatedClass" : "SantiagoBragagnolo 11/6/2012 16:42",
+		"setUp" : "SantiagoBragagnolo 10/3/2014 16:00",
+		"validValues" : "SantiagoBragagnolo 9/28/2012 11:41" } }

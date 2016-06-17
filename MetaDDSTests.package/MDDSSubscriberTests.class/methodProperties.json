@@ -2,15 +2,15 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testJustOneInstance" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testProcotolSelectorExists" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionCreated" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionCreatedOnReadConstructor" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionCreatedOnReadOnFailureConstructor" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionCreatedOnReadOnFailureOnStopConstructor" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionLaunchesEvent" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionSubscribed" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionUnSubscribed" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testSubscriptionUnSubscribedLaunchesEvent" : "SantiagoBragagnolo 12/2/2014 15:17:07",
-		"testTopicIsRegisteredAfterSubscription" : "SantiagoBragagnolo 12/2/2014 15:17:07" } }
+		"setUp" : "SantiagoBragangolo 11/15/2014 15:01",
+		"testJustOneInstance" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testProcotolSelectorExists" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionCreated" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionCreatedOnReadConstructor" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionCreatedOnReadOnFailureConstructor" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionCreatedOnReadOnFailureOnStopConstructor" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionLaunchesEvent" : "SantiagoBragagnolo 10/27/2014 12:08",
+		"testSubscriptionSubscribed" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionUnSubscribed" : "SantiagoBragagnolo 10/23/2014 23:36",
+		"testSubscriptionUnSubscribedLaunchesEvent" : "SantiagoBragagnolo 10/27/2014 12:09",
+		"testTopicIsRegisteredAfterSubscription" : "SantiagoBragagnolo 10/23/2014 23:36" } }
