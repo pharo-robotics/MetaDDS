@@ -21,11 +21,11 @@ baseline: spec
 						className: #ConfigurationOfOrderPreservingDictionary;
 						versionString: #stable;
 						repository: 'http://smalltalkhub.com/mc/PharoExtras/OrderPreservingDictionary/main/' ];
-				baseline: 'TaskIT2'
+				baseline: 'TaskIt'
 					with: [ spec
-						repository: 'github://sbragagnolo/taskit-2' ].
+						repository: 'github://sbragagnolo/taskit' ].
 			spec
-				package: #MetaDDS with: [ spec requires: #('TaskIT2' 'XMLRPC' 'OSProcess' 'OrderPreservingDictionary') ];
+				package: #MetaDDS with: [ spec requires: #('TaskIt' 'XMLRPC' 'OSProcess' 'OrderPreservingDictionary') ];
 				package: #MetaDDSTests.
 			spec
 				group: 'core' with: #(#MetaDDS);
