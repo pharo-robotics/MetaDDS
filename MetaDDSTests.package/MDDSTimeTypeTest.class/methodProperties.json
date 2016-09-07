@@ -2,12 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"expectedFailures" : "SantiagoBragagnolo 5/15/2013 12:38",
 		"invalidByteArrays" : "SantiagoBragagnolo 10/10/2012 11:51",
 		"invalidValues" : "SantiagoBragagnolo 10/10/2012 11:54",
 		"relatedClass" : "SantiagoBragagnolo 9/30/2014 14:24",
 		"testFailSerialize" : "SantiagoBragagnolo 11/6/2012 16:47",
-		"testSerialize" : "SantiagoBragagnolo 1/25/2013 13:21",
+		"testSerialize" : "SantiagoBragagnolo 9/7/2016 14:26",
 		"testUnserialize" : "SantiagoBragagnolo 1/23/2013 16:51",
 		"testUnserializeFail" : "SantiagoBragagnolo 11/6/2012 16:47",
 		"validValues" : "SantiagoBragagnolo 9/30/2014 14:24" } }

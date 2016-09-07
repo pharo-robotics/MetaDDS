@@ -3,7 +3,7 @@ SmalltalkCISpec {
     SCIMetacelloLoadSpec {
       #baseline : 'MetaDDS',
       #directory : '.',
-      #platforms : [ #squeak, #pharo, #gemstone ]
+      #platforms : [ #pharo]
     }
   ]
 }
