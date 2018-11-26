@@ -3,13 +3,7 @@ baseline: spec
 	<baseline>
 	spec
 		for: #common
-		do: [ spec
-				project: 'OSProcess'
-					with: [ spec
-						className: #ConfigurationOfOSProcess;
-						versionString: #stable;
-						repository: 'http://smalltalkhub.com/mc/Pharo/MetaRepoForPharo30/main/';
-						repository: 'http://www.squeaksource.com/OSProcess' ];
+		do: [ spec 
 				project: 'XMLRPC'
 					with: [ spec
 						className: #ConfigurationOfXMLRPC;
@@ -25,7 +19,7 @@ baseline: spec
 					with: [ spec
 						repository: 'github://sbragagnolo/taskit' ].
 			spec
-				package: #MetaDDS with: [ spec requires: #('TaskIt' 'XMLRPC' 'OSProcess' 'OrderPreservingDictionary') ];
+				package: #MetaDDS with: [ spec requires: #('TaskIt' 'XMLRPC' 'OrderPreservingDictionary') ];
 				package: #MetaDDSTests.
 			spec
 				group: 'core' with: #(#MetaDDS);
