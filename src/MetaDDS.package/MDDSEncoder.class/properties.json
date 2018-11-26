@@ -1,14 +1,13 @@
 {
-	"category" : "MetaDDS-Encoding",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"stream" ],
-	"name" : "MDDSEncoder",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "MetaDDS-Encoding",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "MDDSEncoder",
+	"type" : "normal"
+}

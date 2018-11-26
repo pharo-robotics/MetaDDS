@@ -1,16 +1,15 @@
 {
-	"category" : "MetaDDS-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/25/2014 20:27",
+	"super" : "MDDSTopicConnectionDescription",
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"protocolName",
 		"ip",
-		"port" ],
+		"port"
+	],
 	"name" : "MDDSConnectionPetition",
-	"pools" : [
-		 ],
-	"super" : "MDDSTopicConnectionDescription",
-	"type" : "normal" }
+	"type" : "normal"
+}

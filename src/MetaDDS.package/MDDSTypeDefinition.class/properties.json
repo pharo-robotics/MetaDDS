@@ -1,16 +1,15 @@
 {
-	"category" : "MetaDDS-TypesDefinition",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "MetaDDS-TypesDefinition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"definition",
 		"name",
-		"md5sum" ],
+		"md5sum"
+	],
 	"name" : "MDDSTypeDefinition",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

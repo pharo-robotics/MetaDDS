@@ -1,14 +1,13 @@
 {
-	"category" : "MetaDDS-Proxy",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/15/2014 19:32",
-	"instvars" : [
-		"name" ],
-	"name" : "MDDSAbstractParticipantProxy",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "MetaDDS-Proxy",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name"
+	],
+	"name" : "MDDSAbstractParticipantProxy",
+	"type" : "normal"
+}

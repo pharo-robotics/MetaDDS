@@ -1,9 +1,0 @@
-{
-	"class" : {
-		"publisher:participant:" : "SantiagoBragagnolo 10/6/2014 15:09",
-		"publisher:participant:onNewConnection:" : "SantiagoBragagnolo 8/13/2015 14:59" },
-	"instance" : {
-		"createConnectionFor:on:and:for:" : "SantiagoBragagnolo 8/14/2015 14:55",
-		"itIsSupportedBy:" : "SantiagoBragagnolo 10/20/2014 22:11",
-		"noteNewConnection:" : "SantiagoBragagnolo 8/14/2015 14:54",
-		"onNewConnection:" : "SantiagoBragagnolo 8/13/2015 14:59" } }

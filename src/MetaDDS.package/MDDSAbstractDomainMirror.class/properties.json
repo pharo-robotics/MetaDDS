@@ -1,14 +1,13 @@
 {
-	"category" : "MetaDDS-Reflection",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 9/8/2014 18:55",
-	"instvars" : [
-		"domain" ],
-	"name" : "MDDSAbstractDomainMirror",
-	"pools" : [
-		 ],
 	"super" : "MDDSProtoDomain",
-	"type" : "normal" }
+	"category" : "MetaDDS-Reflection",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"domain"
+	],
+	"name" : "MDDSAbstractDomainMirror",
+	"type" : "normal"
+}

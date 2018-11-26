@@ -1,14 +1,11 @@
 {
-	"category" : "MetaDDS-Encoding",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/1/2014 16:24",
-	"instvars" : [
-		 ],
-	"name" : "MDDSHeaderEncoder",
-	"pools" : [
-		 ],
 	"super" : "MDDSEncoder",
-	"type" : "normal" }
+	"category" : "MetaDDS-Encoding",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MDDSHeaderEncoder",
+	"type" : "normal"
+}

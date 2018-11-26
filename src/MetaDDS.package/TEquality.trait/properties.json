@@ -1,4 +1,7 @@
 {
-	"category" : "MetaDDS-Util",
 	"commentStamp" : "<historical>",
-	"name" : "TEquality" }
+	"classinstvars" : [ ],
+	"category" : "MetaDDS-Util",
+	"instvars" : [ ],
+	"name" : "TEquality"
+}

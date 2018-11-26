@@ -1,17 +1,16 @@
 {
-	"category" : "MetaDDS-Kernel",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "TEquality classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:35",
+	"classvars" : [ ],
 	"instvars" : [
 		"name",
-		"value" ],
+		"value"
+	],
 	"name" : "MDDSHeaderAtribute",
-	"pools" : [
-		 ],
+	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:35",
 	"super" : "Object",
 	"traitcomposition" : "TEquality",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "MetaDDS-Kernel"
+}

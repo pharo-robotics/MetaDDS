@@ -1,19 +1,20 @@
 {
+	"commentStamp" : "SantiagoBragagnolo 9/11/2014 22:57",
+	"super" : "Object",
 	"category" : "MetaDDS-Kernel",
 	"classinstvars" : [
 		"defaultBlock",
-		"failBlock" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "SantiagoBragagnolo 9/11/2014 22:57",
+		"failBlock"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"onRead",
 		"onFailure",
 		"onStop",
 		"participant",
-		"connections" ],
+		"connections"
+	],
 	"name" : "MDDSSubscription",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

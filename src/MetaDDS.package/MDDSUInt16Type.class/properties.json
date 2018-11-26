@@ -1,14 +1,11 @@
 {
-	"category" : "MetaDDS-TypesMarshalling",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "MDDSUInt16Type",
-	"pools" : [
-		 ],
 	"super" : "MDDSBaseTypeMarshaller",
-	"type" : "normal" }
+	"category" : "MetaDDS-TypesMarshalling",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MDDSUInt16Type",
+	"type" : "normal"
+}

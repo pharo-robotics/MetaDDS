@@ -1,20 +1,18 @@
 {
-	"category" : "MetaDDS-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/6/2014 18:33",
+	"super" : "MDDSReadingConnection",
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"process",
 		"stream",
 		"urlrpc",
 		"socket",
-		"remoteParticipantName",
 		"relatedParticipantName",
-		"lastLoadedMessage" ],
+		"lastLoadedMessage"
+	],
 	"name" : "MDDSReadingNetworkConnection",
-	"pools" : [
-		 ],
-	"super" : "MDDSReadingConnection",
-	"type" : "normal" }
+	"type" : "normal"
+}

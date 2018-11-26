@@ -1,15 +1,14 @@
 {
-	"category" : "MetaDDS-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "MDDSConnection",
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"typeMarshaller",
-		"messageDispatcher" ],
+		"messageDispatcher"
+	],
 	"name" : "MDDSReadingConnection",
-	"pools" : [
-		 ],
-	"super" : "MDDSConnection",
-	"type" : "normal" }
+	"type" : "normal"
+}

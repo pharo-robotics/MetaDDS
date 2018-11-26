@@ -1,14 +1,15 @@
 {
+	"commentStamp" : "SantiagoBragagnolo 10/24/2014 16:33",
+	"super" : "Object",
 	"category" : "MetaDDS-Kernel",
 	"classinstvars" : [
-		"resolver" ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "SantiagoBragagnolo 10/24/2014 16:33",
+		"resolver"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
-		"lastAssignedPort" ],
+		"lastAssignedPort"
+	],
 	"name" : "MDDSPortResolver",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

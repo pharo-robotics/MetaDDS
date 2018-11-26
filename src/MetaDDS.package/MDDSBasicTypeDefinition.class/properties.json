@@ -1,14 +1,13 @@
 {
-	"category" : "MetaDDS-TypesDefinition",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"typeSerializer" ],
-	"name" : "MDDSBasicTypeDefinition",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "MetaDDS-TypesDefinition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"typeSerializer"
+	],
+	"name" : "MDDSBasicTypeDefinition",
+	"type" : "normal"
+}

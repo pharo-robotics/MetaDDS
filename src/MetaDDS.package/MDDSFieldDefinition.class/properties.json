@@ -1,14 +1,11 @@
 {
-	"category" : "MetaDDS-TypesDefinition",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "MDDSFieldDefinition",
-	"pools" : [
-		 ],
 	"super" : "MDDSItemDefinition",
-	"type" : "normal" }
+	"category" : "MetaDDS-TypesDefinition",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "MDDSFieldDefinition",
+	"type" : "normal"
+}

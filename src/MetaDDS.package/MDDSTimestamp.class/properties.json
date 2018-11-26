@@ -1,16 +1,15 @@
 {
-	"category" : "MetaDDS-TypesMarshalling",
-	"classinstvars" : [
-		 ],
 	"classtraitcomposition" : "TEquality classTrait",
-	"classvars" : [
-		 ],
-	"commentStamp" : "<historical>",
+	"classvars" : [ ],
 	"instvars" : [
-		"timestamp" ],
+		"timestamp"
+	],
 	"name" : "MDDSTimestamp",
-	"pools" : [
-		 ],
+	"commentStamp" : "<historical>",
 	"super" : "Object",
 	"traitcomposition" : "TEquality",
-	"type" : "normal" }
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "MetaDDS-TypesMarshalling"
+}

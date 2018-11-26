@@ -1,15 +1,14 @@
 {
-	"category" : "MetaDDS-Kernel",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "SantiagoBragagnolo 10/23/2014 20:55",
+	"super" : "MDDSAnnouncement",
+	"category" : "MetaDDS-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"topic",
-		"participant" ],
+		"participant"
+	],
 	"name" : "MDDSTopicAnnouncement",
-	"pools" : [
-		 ],
-	"super" : "MDDSAnnouncement",
-	"type" : "normal" }
+	"type" : "normal"
+}
