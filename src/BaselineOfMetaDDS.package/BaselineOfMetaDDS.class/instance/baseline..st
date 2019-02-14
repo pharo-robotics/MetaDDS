@@ -10,7 +10,7 @@ baseline: spec
 						repository: 'github://sbragagnolo/xmlrpc/src' ];
 				baseline: 'OrderPreservingDictionary'
 					with: [ spec
-						repository: 'github://pharo-contribution/OrderPreservingDictionary/src' ];
+						repository: 'github://pharo-contributions/OrderPreservingDictionary/src' ];
 				baseline: 'TaskIt'
 					with: [ spec repository: 'github://sbragagnolo/taskit' ].
 			spec
