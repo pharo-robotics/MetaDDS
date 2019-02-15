@@ -9,8 +9,8 @@ baseline: spec
 						loads: #('All');
 						repository: 'github://sbragagnolo/xmlrpc/src' ];
 				baseline: 'OrderPreservingDictionary'
-					with: [ spec
-						repository: 'github://pharo-contributions/OrderPreservingDictionary/src' ];
+					with:
+						[ spec repository: 'github://svenvc/XML-Support-Pharo' ];
 				baseline: 'TaskIt'
 					with: [ spec repository: 'github://sbragagnolo/taskit' ].
 			spec
