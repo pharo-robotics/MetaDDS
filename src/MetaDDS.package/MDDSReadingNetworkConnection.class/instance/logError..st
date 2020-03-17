@@ -1,3 +1,3 @@
 run
 logError: anError
-	self logCr: relatedParticipantName, ' ReadingConnection Thread: ' , anError messageText
+	self traceCr: relatedParticipantName, ' ReadingConnection Thread: ' , anError messageText

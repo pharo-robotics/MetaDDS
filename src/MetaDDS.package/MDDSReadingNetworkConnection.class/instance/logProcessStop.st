@@ -1,3 +1,3 @@
 run
 logProcessStop
-	self logCr: relatedParticipantName, ' ReadingConnection Thread: shutting down process'.
+	self traceCr: relatedParticipantName, ' ReadingConnection Thread: shutting down process'.

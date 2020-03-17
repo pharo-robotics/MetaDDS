@@ -1,3 +1,3 @@
 accessing
 failBlock
-	^ failBlock ifNil: [ failBlock := [ :e | self logCr: e messageText ] ]
+	^ failBlock ifNil: [ failBlock := [ :e | self traceCr: e messageText ] ]
