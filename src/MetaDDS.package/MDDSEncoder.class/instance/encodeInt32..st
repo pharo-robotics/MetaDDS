@@ -4,8 +4,11 @@ encodeInt32: aSmallInteger
 
 	| pos topMagnitude |
 	topMagnitude := (2 raisedTo: 8 * 4) / 2.
-	self verifyIf: aSmallInteger isBetween: topMagnitude * -1 and: topMagnitude.
+	self
+		verifyIf: aSmallInteger
+		isBetween: topMagnitude * -1
+		and: topMagnitude.
 	pos := aSmallInteger < 0
 		ifTrue: [ (0 - aSmallInteger) bitInvert32 + 1 ]
 		ifFalse: [ aSmallInteger ].
-	1 to: 4 do: [ :i | stream nextPut: (pos digitAt: i) ]
+	1 to: 4 do: [ :i | stream nextPut: (pos byteAt: i) ]
