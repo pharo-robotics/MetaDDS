@@ -1,7 +1,7 @@
 Class {
 	#name : #BaselineOfMetaDDS,
 	#superclass : #BaselineOf,
-	#category : 'BaselineOfMetaDDS'
+	#category : #BaselineOfMetaDDS
 }
 
 { #category : #'development support' }
@@ -60,7 +60,7 @@ BaselineOfMetaDDS >> baseline: spec [
 					with:
 						[ spec repository: 'github://svenvc/XML-Support-Pharo' ];
 				baseline: 'TaskIt'
-					with: [ spec repository: 'github://sbragagnolo/taskit' ].
+					with: [ spec repository: 'github://pharo-contributions/taskit' ].
 			spec
 				package: #MetaDDS
 					with: [ spec requires: #('TaskIt' 'XMLRPC' 'OrderPreservingDictionary') ];
