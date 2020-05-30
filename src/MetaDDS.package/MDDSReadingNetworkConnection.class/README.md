@@ -1,1 +1,0 @@
-Reading connection is a reification of the socket, with protocol and marshalling in terms of consuming 

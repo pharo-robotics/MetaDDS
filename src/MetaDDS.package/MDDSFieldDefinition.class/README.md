@@ -1,1 +1,0 @@
-PhaROSFieldDefinition Is an entry of a type. It has name and type.

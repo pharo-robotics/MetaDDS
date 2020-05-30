@@ -1,3 +1,0 @@
-abstract
-loadTypeDefinitionNamed: aName definedFromString: aStringDefinition
-	self subclassResponsibility .

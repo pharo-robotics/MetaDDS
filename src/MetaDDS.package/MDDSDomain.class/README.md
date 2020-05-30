@@ -1,1 +1,0 @@
-Domain representation where all the objects that go through are usable as the service and not as it description.

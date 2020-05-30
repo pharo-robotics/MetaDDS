@@ -1,1 +1,0 @@
-A MDDSTypeLoder in an object for loading types format for connections.

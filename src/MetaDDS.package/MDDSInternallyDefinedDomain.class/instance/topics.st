@@ -1,3 +1,0 @@
-abstract
-topics
-	^ createdTopics values

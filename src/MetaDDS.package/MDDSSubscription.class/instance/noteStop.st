@@ -1,3 +1,0 @@
-accessing
-noteStop
-	onStop value.

@@ -1,1 +1,0 @@
-A MDDSIsPublishingAnnouncement announces that a participant is about to start publishing information in a topic. 

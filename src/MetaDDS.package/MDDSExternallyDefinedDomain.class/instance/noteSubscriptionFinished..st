@@ -1,4 +1,0 @@
-accessing
-noteSubscriptionFinished: aMDDSIsNotSubscribedAnnouncement 
-	mirror noteSubscriptionFinished: aMDDSIsNotSubscribedAnnouncement.
-	(aMDDSIsNotSubscribedAnnouncement subscription) destroy.

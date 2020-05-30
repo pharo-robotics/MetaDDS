@@ -1,1 +1,0 @@
-When the domain is described in other program (server), the domain mirror points to a remote location.

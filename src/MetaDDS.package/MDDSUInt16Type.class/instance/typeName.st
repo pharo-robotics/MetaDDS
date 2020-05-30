@@ -1,3 +1,0 @@
-accessing
-typeName 
-	^ 'uint16'

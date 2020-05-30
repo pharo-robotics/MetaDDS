@@ -1,3 +1,0 @@
-accessing
-beRegisteredBy: aTypeLoader
-	^ self

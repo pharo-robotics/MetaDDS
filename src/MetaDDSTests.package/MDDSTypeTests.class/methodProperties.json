@@ -1,8 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "SantiagoBragagnolo 10/24/2014 10:51",
-		"testAdhocDTOClassesGenerated" : "SantiagoBragagnolo 10/24/2014 12:29",
-		"testAdhocTypeSerializer" : "SantiagoBragagnolo 10/24/2014 12:29",
-		"testAdhocTypeSerializerIsAlwaysTheSame" : "SantiagoBragagnolo 10/24/2014 12:29" } }

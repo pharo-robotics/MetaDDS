@@ -1,1 +1,0 @@
-A PhaROSCollectionType is an abstract representation of collections type

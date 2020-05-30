@@ -1,3 +1,0 @@
-pseudo-dsl
-alterName
-	^ #Bool

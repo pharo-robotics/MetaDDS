@@ -1,3 +1,0 @@
-accessing
-noteSubscription: aMDDSIsSubscribedAnnouncement
-	mirror noteSubscription: aMDDSIsSubscribedAnnouncement

@@ -1,3 +1,0 @@
-testing
-isAPossibleSize: aSize
-	^ true.

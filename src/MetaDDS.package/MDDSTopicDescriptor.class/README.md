@@ -1,1 +1,0 @@
-A MDDSTopicDescriptor is description that defines a topic. Name, type, etc. It allows also to create a topic.

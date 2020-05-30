@@ -1,1 +1,0 @@
-A PhaROSType is abstract representation of type

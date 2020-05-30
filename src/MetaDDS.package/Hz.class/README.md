@@ -1,1 +1,0 @@
-A Hz is neasure that represents times per seconds

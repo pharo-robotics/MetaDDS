@@ -1,3 +1,0 @@
-accessing
-obtainMirror
-	^ proxy obtainMirror.

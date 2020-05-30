@@ -1,4 +1,0 @@
-accessing
-notePublicationFinished: aMDDSIsNotPublishingAnnouncement
-	mirror notePublicationFinished: aMDDSIsNotPublishingAnnouncement.
-	(aMDDSIsNotPublishingAnnouncement publication) destroy.

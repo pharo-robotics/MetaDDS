@@ -1,1 +1,0 @@
-Some times the topic has not a type because the user  do not know it. In this cases, the topic will be configured with a TypePlaceHolder. This is a place holder for the type.  And during the first connection the topic should be informed and inform to the type holder in order to become it a real type. 

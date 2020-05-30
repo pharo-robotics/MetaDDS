@@ -1,3 +1,0 @@
-*MetaDDS
-instVarNamesForEqualityComparison
-	^self instVarNames

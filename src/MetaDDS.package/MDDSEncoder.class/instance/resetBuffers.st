@@ -1,3 +1,0 @@
-private
-resetBuffers
-	stream resetBuffers.

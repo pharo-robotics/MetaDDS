@@ -1,3 +1,0 @@
-accessing
-protocols 
-	^ participant protocols

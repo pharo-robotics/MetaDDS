@@ -1,3 +1,0 @@
-accessing
-constantValue: aValue
-	^ aValue.

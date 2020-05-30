@@ -1,3 +1,0 @@
-*MetaDDS
-nanoSecondsField 
-	^nanos.

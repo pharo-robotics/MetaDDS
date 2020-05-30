@@ -1,3 +1,0 @@
-as yet unclassified
-createSocketForlistenOn: aPort
-	self subclassResponsibility

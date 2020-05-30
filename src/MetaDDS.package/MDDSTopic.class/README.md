@@ -1,1 +1,0 @@
-Real topic. This topic has the ability to act as a topic it self. Register it, ask for publishers and subscribers.

@@ -1,1 +1,0 @@
-A PhaROSArrayType is an array of variable length and fixed type.

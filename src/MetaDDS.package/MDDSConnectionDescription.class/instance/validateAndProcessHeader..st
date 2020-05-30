@@ -1,3 +1,0 @@
-as yet unclassified
-validateAndProcessHeader: aHeader
-	self subclassResponsibility

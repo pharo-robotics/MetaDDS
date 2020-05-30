@@ -1,1 +1,0 @@
-This class is the decription of a participant in our system in terms of communication: name, ip/port, etc

@@ -1,3 +1,0 @@
-abstract
-participants
-	^ mirror participants

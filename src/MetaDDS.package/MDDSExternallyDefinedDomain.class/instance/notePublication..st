@@ -1,3 +1,0 @@
-accessing
-notePublication: aMDDSIsPublishingAnnouncement
-	mirror notePublication: aMDDSIsPublishingAnnouncement

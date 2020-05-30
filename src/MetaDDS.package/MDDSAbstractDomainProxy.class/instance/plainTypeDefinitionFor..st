@@ -1,2 +1,0 @@
-abstract
-plainTypeDefinitionFor: aType

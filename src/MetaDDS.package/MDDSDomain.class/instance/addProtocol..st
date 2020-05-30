@@ -1,3 +1,0 @@
-adding
-addProtocol: aProtocolImplementation
-	protocols add: aProtocolImplementation

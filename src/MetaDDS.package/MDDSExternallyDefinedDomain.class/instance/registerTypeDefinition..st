@@ -1,3 +1,0 @@
-abstract
-registerTypeDefinition: aMDDSTypeDefinition
-	^ mirror registerTypeDefinition: aMDDSTypeDefinition

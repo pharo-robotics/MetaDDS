@@ -1,2 +1,0 @@
-Topic are continuously havign changes, new publishers, subscribers, subcriptions, messages. 
-Many of the updates are needed by several kinds of objects of different kinds. Then this changes are announced insted of queried.

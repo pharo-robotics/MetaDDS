@@ -1,1 +1,0 @@
-part of the dds architecutre includes a offers for connection, and, as well, support to several kind of IP based protocols

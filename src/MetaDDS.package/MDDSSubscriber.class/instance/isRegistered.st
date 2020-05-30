@@ -1,3 +1,0 @@
-testing
-isRegistered
-	^ subscriptions isNotEmpty

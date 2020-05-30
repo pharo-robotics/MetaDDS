@@ -1,3 +1,0 @@
-abstract
-registerTypeDefinition: aMDDSTypeDefinition
-	^ types registerTypeDefinition: aMDDSTypeDefinition

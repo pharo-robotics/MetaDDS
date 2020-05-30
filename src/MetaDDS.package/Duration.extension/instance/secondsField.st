@@ -1,3 +1,0 @@
-*MetaDDS
-secondsField 
-	^seconds 

@@ -1,1 +1,0 @@
-The domain mirror is a class the describes the current domain of data delivering 

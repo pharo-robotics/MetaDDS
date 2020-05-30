@@ -1,1 +1,0 @@
-a header attribute is a part of a header. Each field is represented with a a header attribute.

@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "SantiagoBragagnolo 10/17/2014 15:20",
-		"testInvalidMD5HeaderIsInvalid" : "SantiagoBragagnolo 11/14/2014 10:42",
-		"testInvalidTopicHeaderIsInvalid" : "SantiagoBragagnolo 11/14/2014 10:42",
-		"testInvalidTopicTypeHeaderIsInvalid" : "SantiagoBragagnolo 11/14/2014 10:43",
-		"testValidHeaderIsValid" : "SantiagoBragagnolo 11/14/2014 10:43" } }

@@ -1,1 +1,0 @@
-A PhaROSArrayFixedLenghtType is a type of fixed lenght and fixed type

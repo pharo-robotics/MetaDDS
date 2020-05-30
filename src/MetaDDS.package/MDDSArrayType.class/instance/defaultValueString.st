@@ -1,4 +1,0 @@
-accessing
-defaultValueString 
-	^ 'OrderedCollection new '.
-	

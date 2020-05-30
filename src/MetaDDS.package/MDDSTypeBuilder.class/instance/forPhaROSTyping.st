@@ -1,3 +1,0 @@
-proto
-forPhaROSTyping
-	^ self buildTypeMarshaller  

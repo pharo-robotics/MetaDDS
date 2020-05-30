@@ -1,1 +1,0 @@
-A proto domain is not a Domain nor a DomainMirror. Is the base of both.

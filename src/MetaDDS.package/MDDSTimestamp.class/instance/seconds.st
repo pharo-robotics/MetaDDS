@@ -1,3 +1,0 @@
-accessing
-seconds
-	^ timestamp asUnixTime .

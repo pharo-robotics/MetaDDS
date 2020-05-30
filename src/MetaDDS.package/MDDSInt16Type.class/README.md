@@ -1,1 +1,0 @@
-A PhaROSInt16Type is a 16 bits represetnation of int 

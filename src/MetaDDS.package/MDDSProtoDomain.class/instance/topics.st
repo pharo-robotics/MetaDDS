@@ -1,3 +1,0 @@
-abstract
-topics
-	self subclassResponsibility

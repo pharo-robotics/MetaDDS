@@ -1,1 +1,0 @@
-Generic part of a type definition.

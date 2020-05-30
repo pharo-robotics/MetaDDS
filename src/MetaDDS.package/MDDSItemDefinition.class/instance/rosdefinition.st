@@ -1,3 +1,0 @@
-converting
-rosdefinition
-	^ self subclassResponsibility .

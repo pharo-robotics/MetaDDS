@@ -1,3 +1,0 @@
-accessing
-defaultValueString
-	^ ' MDDSTimestamp now'. 

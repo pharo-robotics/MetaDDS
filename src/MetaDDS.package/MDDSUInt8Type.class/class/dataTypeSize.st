@@ -1,3 +1,0 @@
-accessing
-dataTypeSize 
-	^ 1

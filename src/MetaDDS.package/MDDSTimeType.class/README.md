@@ -1,1 +1,0 @@
-A PhaROSTimeType is a time stamp type.

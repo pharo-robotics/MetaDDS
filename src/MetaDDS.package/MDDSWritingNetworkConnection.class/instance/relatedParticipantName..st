@@ -1,3 +1,0 @@
-accessing
-relatedParticipantName: aRelatedParticipantName
-	relatedParticipantName := aRelatedParticipantName

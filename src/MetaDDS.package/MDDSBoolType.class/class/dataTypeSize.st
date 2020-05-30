@@ -1,3 +1,0 @@
-serialize
-dataTypeSize 
-	^ 1

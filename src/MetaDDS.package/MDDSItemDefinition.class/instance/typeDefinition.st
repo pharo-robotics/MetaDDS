@@ -1,3 +1,0 @@
-serializing
-typeDefinition
-	^ typeDefiniton.

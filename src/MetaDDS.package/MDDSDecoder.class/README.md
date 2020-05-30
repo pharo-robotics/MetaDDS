@@ -1,1 +1,0 @@
-A PhaROSDecoder is stream encoder. It reads from a given stream. It expose several methods per type. 

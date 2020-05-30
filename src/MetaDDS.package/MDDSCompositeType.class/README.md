@@ -1,1 +1,0 @@
-A PhaROSCompositeType is a composition of basic types. Defining this way structures

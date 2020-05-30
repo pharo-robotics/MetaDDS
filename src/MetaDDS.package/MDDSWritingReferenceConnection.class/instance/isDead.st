@@ -1,3 +1,0 @@
-testing
-isDead
-	^ link isNil

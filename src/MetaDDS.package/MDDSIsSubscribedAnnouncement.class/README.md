@@ -1,1 +1,0 @@
-A MDDSIsSubscribedAnnouncement announces that a participant is ready to start publishing receiving information of a particular topic

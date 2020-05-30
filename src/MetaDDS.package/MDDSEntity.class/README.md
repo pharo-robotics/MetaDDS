@@ -1,1 +1,0 @@
-Any entity that has to do with the domain, has a domain and name for sure. 

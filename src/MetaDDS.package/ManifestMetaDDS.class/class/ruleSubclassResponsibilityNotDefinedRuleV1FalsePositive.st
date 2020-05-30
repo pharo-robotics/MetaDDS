@@ -1,3 +1,0 @@
-code-critics
-ruleSubclassResponsibilityNotDefinedRuleV1FalsePositive
-	^ #(#(#(#RGMethodDefinition #(#MDDSProtocol #name #false)) #'2016-05-31T10:44:01.121264+02:00') #(#(#RGMethodDefinition #(#MDDSConnection #isConnected #false)) #'2016-05-31T10:44:01.121432+02:00') #(#(#RGMethodDefinition #(#MDDSProtocol #createSocketForlistenOn: #false)) #'2016-05-31T10:44:01.121442+02:00') #(#(#RGMethodDefinition #(#MDDSConnection #relatedParticipantName #false)) #'2016-05-31T10:44:01.121333+02:00') #(#(#RGMethodDefinition #(#MDDSProtocol #connect: #false)) #'2016-05-31T10:44:01.121415+02:00') )
