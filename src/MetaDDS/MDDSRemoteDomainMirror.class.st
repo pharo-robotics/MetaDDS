@@ -8,7 +8,7 @@ Class {
 		'proxy',
 		'typesRegistry'
 	],
-	#category : 'MetaDDS-Reflection'
+	#category : #'MetaDDS-Reflection'
 }
 
 { #category : #constructor }
@@ -31,7 +31,8 @@ MDDSRemoteDomainMirror >> destroy [
 	proxy
 		ifNotNil: [ 
 			proxy destroy.
-			proxy := nil ]
+			proxy := nil. ].
+		typesRegistry ifNotNil: [ typesRegistry removeAll. typesRegistry := nil ]
 ]
 
 { #category : #finalization }

@@ -7,12 +7,12 @@ Class {
 	#instVars : [
 		'value'
 	],
-	#category : 'MetaDDS-TypesDefinition'
+	#category : #'MetaDDS-TypesDefinition'
 }
 
 { #category : #'instance creation' }
 MDDSConstantDefinition class >> name: aName typedAs: aTypeDefinition withValue: aValue [ 
-	^ self new name: aName; type: aTypeDefinition; value: aValue; yourself
+	^ self new name: aName; typeDefinition: aTypeDefinition; value: aValue; yourself
 ]
 
 { #category : #converting }
