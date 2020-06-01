@@ -13,7 +13,7 @@ Class {
 		'connections',
 		'connectionOffer'
 	],
-	#category : 'MetaDDS-Kernel'
+	#category : #'MetaDDS-Kernel'
 }
 
 { #category : #constructor }
@@ -39,6 +39,11 @@ MDDSPublication >> initialize [
 { #category : #testing }
 MDDSPublication >> isPublishing: aMDDSDomainParticipant [
 	^ participant = aMDDSDomainParticipant
+]
+
+{ #category : #accessing }
+MDDSPublication >> log: anError [
+	self inform: anError messageText.
 ]
 
 { #category : #accessing }
@@ -92,7 +97,8 @@ MDDSPublication >> publishValue: aValue [
 		do: [ :writingConnection | 
 			[ writingConnection write: aValue with: self marshaller ]
 				on: Error
-				do: [ 
+				do: [ :err|
+					self log: err. 
 					writingConnection isDead
 						ifTrue: [ deathConnections add: writingConnection ] ] ].
 	connections removeAll: deathConnections
