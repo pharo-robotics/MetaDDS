@@ -104,7 +104,18 @@ MDDSPublication >> publishValue: aValue [
 	connections removeAll: deathConnections
 ]
 
+{ #category : #accessing }
+MDDSPublication >> publishValue: aValue to: aConnection [
+	[ aConnection write: aValue with: self marshaller ]
+		on: Error
+		do: [ :err | 
+			self log: err.
+			aConnection isDead
+				ifTrue: [ connections remove: aConnection ifAbsent: [  ] ] ]
+]
+
 { #category : #registry }
 MDDSPublication >> register: aWritingConnection [
-	connections add: aWritingConnection
+	connections add: aWritingConnection.
+	
 ]

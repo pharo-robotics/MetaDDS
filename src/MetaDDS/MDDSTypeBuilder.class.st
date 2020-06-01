@@ -14,7 +14,7 @@ Class {
 	#instVars : [
 		'definition'
 	],
-	#category : 'MetaDDS-TypesDefinition'
+	#category : #'MetaDDS-TypesDefinition'
 }
 
 { #category : #'instance creation' }
@@ -32,7 +32,7 @@ MDDSTypeBuilder >> buildDTOClass [
 		instanceVariableNames: ''
 		classVariableNames: ''
 		poolDictionaries: ''
-		category: 'MDDSGenerated'.
+		package: 'MDDSGenerated'.
 	self installMethodsIn: class.
 	self installConstantsIn: class.
 	^ class
