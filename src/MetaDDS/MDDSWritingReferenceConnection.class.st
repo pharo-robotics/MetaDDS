@@ -9,7 +9,7 @@ Class {
 		'link',
 		'participant'
 	],
-	#category : 'MetaDDS-Kernel'
+	#category : #'MetaDDS-Kernel'
 }
 
 { #category : #'as yet unclassified' }
@@ -55,4 +55,5 @@ MDDSWritingReferenceConnection >> relatedParticipantName [
 { #category : #'as yet unclassified' }
 MDDSWritingReferenceConnection >> write: aDataValue with: aMarshaller [
 	link dispatch: aDataValue.
+	newComer := false .
 ]

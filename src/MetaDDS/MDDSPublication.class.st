@@ -90,6 +90,41 @@ MDDSPublication >> publish: aBlock [
 ]
 
 { #category : #accessing }
+MDDSPublication >> publishForAcquitances: aBlock forNewArrivals: anOtherBlock [
+| deathConnections acq nc value |
+	deathConnections := Set new.
+	
+	connections 	do: [ :writingConnection | 
+			[ value := writingConnection isNewComer ifTrue: [ 
+				 nc ifNil: [ 
+					nc := self marshaller newInstance. 
+					anOtherBlock value: nc. 
+					nc
+				].
+			 ] ifFalse: [ 
+				acq ifNil: [ 
+					acq := self marshaller newInstance. 
+					aBlock value: acq. 
+					acq
+				].
+			 ].
+			writingConnection write: value with: self marshaller ]	
+			on: Error
+			do: [ :err|
+				self log: err. 
+				writingConnection isDead ifTrue: [
+					deathConnections add: writingConnection 
+				] ifFalse:[ 
+					self halt  
+				] 
+			].
+		].
+	connections removeAll: deathConnections
+	
+ 
+]
+
+{ #category : #accessing }
 MDDSPublication >> publishValue: aValue [
 	| deathConnections |
 	deathConnections := Set new.
