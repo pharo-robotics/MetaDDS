@@ -12,7 +12,7 @@ Class {
 		'relatedParticipantName',
 		'lastLoadedMessage'
 	],
-	#category : 'MetaDDS-Kernel'
+	#category : #'MetaDDS-Kernel'
 }
 
 { #category : #'as yet unclassified' }
@@ -100,8 +100,8 @@ MDDSReadingNetworkConnection >> spinOnce [
 		on: Error
 		do: [ :err | 
 			self logError: err.
-			socket isConnected
-				ifFalse: [ self logDisconnection.
+			(socket isNil or: [socket isConnected not])
+				ifTrue: [ self logDisconnection.
 					self destroy ] ]
 ]
 
