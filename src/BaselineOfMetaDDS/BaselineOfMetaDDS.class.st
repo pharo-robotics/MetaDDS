@@ -59,11 +59,9 @@ BaselineOfMetaDDS >> baseline: spec [
 				baseline: 'OrderPreservingDictionary'
 					with:
 						[ spec repository: 'github://svenvc/XML-Support-Pharo' ];
-				baseline: 'TaskIt'
-					with: [ spec repository: 'github://pharo-contributions/taskit' ].
-			spec
+				
 				package: #MetaDDS
-					with: [ spec requires: #('TaskIt' 'XMLRPC' 'OrderPreservingDictionary') ];
+					with: [ spec requires: #('XMLRPC' 'OrderPreservingDictionary') ];
 				package: #MetaDDSTests.
 			spec
 				group: 'core' with: #(#MetaDDS);
