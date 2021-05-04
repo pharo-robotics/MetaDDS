@@ -11,7 +11,9 @@ Class {
 		'participant',
 		'marshaller',
 		'connections',
-		'connectionOffer'
+		'connectionOffer',
+		'lastValue',
+		'isLatched'
 	],
 	#category : #'MetaDDS-Kernel'
 }
@@ -34,6 +36,11 @@ MDDSPublication >> destroy [
 { #category : #initialization }
 MDDSPublication >> initialize [
 	connections := Set new
+]
+
+{ #category : #registry }
+MDDSPublication >> isLatched [
+	^ isLatched ifNil: [ false  ]
 ]
 
 { #category : #testing }
@@ -115,7 +122,7 @@ MDDSPublication >> publishForAcquitances: aBlock forNewArrivals: anOtherBlock [
 				writingConnection isDead ifTrue: [
 					deathConnections add: writingConnection 
 				] ifFalse:[ 
-					self halt  
+					self halt   
 				] 
 			].
 		].
@@ -128,6 +135,7 @@ MDDSPublication >> publishForAcquitances: aBlock forNewArrivals: anOtherBlock [
 MDDSPublication >> publishValue: aValue [
 	| deathConnections |
 	deathConnections := Set new.
+	self isLatched ifTrue: [ lastValue := aValue ].
 	connections
 		do: [ :writingConnection | 
 			[ writingConnection write: aValue with: self marshaller ]
@@ -152,5 +160,12 @@ MDDSPublication >> publishValue: aValue to: aConnection [
 { #category : #registry }
 MDDSPublication >> register: aWritingConnection [
 	connections add: aWritingConnection.
-	
+	self isLatched
+		ifTrue: [ lastValue
+				ifNotNil: [ self publishValue: lastValue to: aWritingConnection ] ].
+]
+
+{ #category : #registry }
+MDDSPublication >> setLatched: val [
+	isLatched := val
 ]
