@@ -10,7 +10,7 @@ Class {
 	#classInstVars : [
 		'resolver'
 	],
-	#category : 'MetaDDS-Kernel'
+	#category : #'MetaDDS-Kernel'
 }
 
 { #category : #'as yet unclassified' }
@@ -20,13 +20,21 @@ MDDSPortResolver class >> obtain [
 
 { #category : #initialization }
 MDDSPortResolver >> initialize [
+
 	super initialize.
-	lastAssignedPort := 9000 + ((Random seed: DateAndTime now asUnixTime) nextInt: 100)
+	lastAssignedPort := 9000
+	                    +
+	                    ((Random seed: DateAndTime now asUnixTime) 
+		                     nextInteger: 100)
 ]
 
 { #category : #port }
 MDDSPortResolver >> obtainPort [
+
 	self flag: #GuaranteePortIsFree.
-	lastAssignedPort := lastAssignedPort + ((Random seed: DateAndTime now asUnixTime) nextInt: 10).
-	^ lastAssignedPort.
+	lastAssignedPort := lastAssignedPort
+	                    +
+	                    ((Random seed: DateAndTime now asUnixTime) 
+		                     nextInteger: 10).
+	^ lastAssignedPort
 ]

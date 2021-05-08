@@ -15,7 +15,7 @@ Class {
 		'defaultBlock',
 		'failBlock'
 	],
-	#category : 'MetaDDS-Kernel'
+	#category : #'MetaDDS-Kernel'
 }
 
 { #category : #accessing }
@@ -154,4 +154,9 @@ MDDSSubscription >> registerConnection: aConnection [
 	connections add: aConnection.
 	aConnection messageDispatcher: self.
 	aConnection noteIsRegistered.
+]
+
+{ #category : #accessing }
+MDDSSubscription >> stopSubscription [ 
+	self destroy.
 ]
