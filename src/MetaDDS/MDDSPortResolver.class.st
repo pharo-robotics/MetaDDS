@@ -35,6 +35,6 @@ MDDSPortResolver >> obtainPort [
 	lastAssignedPort := lastAssignedPort
 	                    +
 	                    ((Random seed: DateAndTime now asUnixTime) 
-		                     nextInteger: 10).
+		                     nextInt: 10).
 	^ lastAssignedPort
 ]
