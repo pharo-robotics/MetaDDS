@@ -27,9 +27,11 @@ MDDSReadingNetworkConnection class >> protocol: aProtocol socket: aSocket stream
 
 { #category : #accessing }
 MDDSReadingNetworkConnection >> destroy [
-	messageDispatcher noteStop: self.
-	messageDispatcher := nil.
-	socket ifNotNil: [ socket close ].
+
+	messageDispatcher ifNotNil: [ 
+		messageDispatcher noteStop: self.
+		messageDispatcher := nil ].
+	socket ifNotNil: [ socket isConnected ifTrue: [ socket close ] ].
 	socket := nil.
 	stream ifNotNil: [ stream close ].
 	stream := nil.
@@ -118,7 +120,9 @@ MDDSReadingNetworkConnection >> start [
 
 { #category : #accessing }
 MDDSReadingNetworkConnection >> stop [
+
 	| proc |
+	process ifNil: [ ^ self ].
 	proc := process.
 	process := nil.
 	proc stop.
